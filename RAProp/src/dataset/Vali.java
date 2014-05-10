@@ -30,8 +30,8 @@ public class Vali {
 		int c0 = 0;
 		int c1 = 0;
 		int c2 = 0;
-		n = n-c_2;
-		//ouble rate_cale = 1.0 - 
+		//n = n-c_2;
+		//double rate_cale = 1.0 - 
 		// {{ tinh so luong twett can lay
 		while((term = reader.readLine())!=null)
 		{

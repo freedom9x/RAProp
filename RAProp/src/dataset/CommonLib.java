@@ -2,11 +2,14 @@ package dataset;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.PrintWriter;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.net.URLConnection;
 
 public class CommonLib {
 
@@ -17,7 +20,80 @@ public class CommonLib {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 	//	FindUserName("32899374300266497");
-		GetALLUserName("tweet2011/qrels.microblog2011.txt");
+		//GetALLUserName("tweet2011/qrels.microblog2011.txt");
+		System.out.println(NaiveURLExpander("~http://goo.gl/dnsmz"));
+	}
+	public static String NaiveURLExpander(String address){
+        String result = address;
+//        try {
+//			URLConnection conn = null;
+//			InputStream in = null;
+//			URL url = new URL(address);
+//			conn = url.openConnection();
+//			in = conn.getInputStream();
+//			result = conn.getURL().toString();
+//			in.close();
+//		} 
+//		catch (IOException e) {
+//			// TODO Auto-generated catch block
+//			//e.printStackTrace();
+//			System.out.println("loi http");
+//		}
+     //   System.out.println("Short URL: "+ shortURL);
+        URLConnection urlConn =  connectURL(address);
+        
+        if(urlConn!=null)
+        {
+        	urlConn.getHeaderFields();
+        	result = urlConn.getURL().toString();
+        }
+        
+     //   System.out.println("Original URL: "+ urlConn.getURL());
+		return result;
+    }
+
+	
+
+
+
+/* connectURL - This function will take a valid url and return a 
+URL object representing the url address. */
+	public static URLConnection connectURL(String strURL) 
+	{
+		URLConnection conn =null;
+        try {
+        	URL inputURL = new URL(strURL);
+        	conn = inputURL.openConnection();
+            int test = 0;
+
+        	}catch(MalformedURLException e) {
+        		System.out.println("Please input a valid URL");
+        	}catch(IOException ioe) {
+        		System.out.println("Can not connect to the URL");
+        	}
+        return conn;
+}
+
+
+	public static String expandURL(String text2) throws IOException
+	{
+		
+		String result= "";
+		String[] parts = text2.split(" ");
+		for (String string : parts)
+		{
+			if(string.contains("http://"))
+			{
+				string = string.substring(string.indexOf("http"));
+				System.out.println(string);
+				string = NaiveURLExpander(string);
+				System.out.println(string);
+			}
+				
+			result = result + string + " ";
+		}
+		
+		return result.trim();
 	}
 	public static void GetALLUserName(String path_file) throws IOException
 	{
