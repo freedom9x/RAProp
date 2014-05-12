@@ -11,8 +11,8 @@ import rank.Tweet;
 
 public class TopK_result {
 
-	Tweet[] tweets =  new Tweet[200];
-	static double[][] AG_graph = new double[201][200];
+	Tweet[] tweets ;
+	static double[][] AG_graph;
 	static int K =30;
 	static int[] topK= new int[30];
 	
@@ -20,6 +20,7 @@ public class TopK_result {
 		// TODO Auto-generated method stub
 		int N = ReadFile.CountTweet(path_tweet);
 		Tweet[] tweets = new Tweet[N];
+		AG_graph = new double[N+1][N];
 		//ReadFile.GetTweetResult(tweets, "/tweet2011/Available/MB01_200_fix.txt", N);
 		tweets = ReadFile.GetNtweet(path_tweet);
 		ReadFile.GetAG(AG_graph, N, path_AG);
@@ -33,7 +34,7 @@ public class TopK_result {
 		{
 			System.out.println(tweets[i].total_AG);
 			pw.println(i+" "+tweets[i].ID+" "+tweets[i].label+" \""+tweets[i].content+"\""+
-					" "+"total_AG="+tweets[i].total_AG+"\n");
+					" "+"total_AG="+tweets[i].total_AG);
 		}
 		pw.close();
 		System.out.print("done");

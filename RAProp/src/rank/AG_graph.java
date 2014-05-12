@@ -21,7 +21,7 @@ public class AG_graph {
 		//lay 200 tweet
 		try {
 			tweets=ReadFile.GetNtweet(path);
-			ReadFile.WriteResult(tweets, "tweet2011/result/test/"+queryID +"_rm.txt", true, query);
+			ReadFile.WriteResult(tweets, "tweet2011/result/AG/"+queryID +"_rm.txt", true, query);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -35,22 +35,33 @@ public class AG_graph {
 		for(int i = 0; i < N; i++)
 		{
 			
-			for(int j = 0; j <N; j++)
+			for(int j = i+1; j <N; j++)
 			{		
-					if(i==j)
-					{
-						Agreement_Graph[i][j]=0.0;
-						continue;
-					}
-					Agreement_Graph[i][j]=TFIDF.Agreement(tweets[i].content,
-							tweets[j].content, tweets, N, query);
-					System.out.print(i+"\\"+j+"="+Agreement_Graph[i][j]+"  ");					
+				if(i==j)
+				{
+					Agreement_Graph[i][j]=0.0;
+					continue;
+				}
+				Agreement_Graph[i][j]=TFIDF.Agreement(tweets[i].content,
+						tweets[j].content, tweets, N, query);
+				System.out.print(i+"\\"+j+"="+Agreement_Graph[i][j]+"  ");					
 					
 					
 			}
 			System.out.println();
 			
+		}//copy ji ji
+		System.out.println("coping");
+		for(int i = 0; i<N; i++)
+		{
+			for(int j = 0; j<N; j++)
+			{
+				if(i==j) continue;
+				if(Agreement_Graph[i][j]>0) Agreement_Graph[j][i]=Agreement_Graph[i][j];
+				if(Agreement_Graph[j][i]>0) Agreement_Graph[i][j]= Agreement_Graph[j][i];
+			}
 		}
+		System.out.println("done");
 		PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/result/AG/"+queryID+"_ag.txt"));
 		for(int i = 0; i<N; i++)
 		{
