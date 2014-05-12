@@ -1,1286 +1,643 @@
 0 29509222337085440 1 "BBC to cut online budget by 25% , cutting 200 websites, and 360 jobs over the new 2 years http://www.bbc.co.uk/news/entertainment-arts-12265173" total_AG=4282.503025061981
-
 1 30248740119908353 1 "Sad, bad day 4 media! BBC Language Service to cut 650 jobs &amp; also cease short wave transmission in Hindi http://www.bbc.co.uk/news/entertainment-arts-12283356 via @saikatd" total_AG=3995.9376242381213
-
 2 29527121936261121 1 "BBC News - BBC to cut online budget by 25% http://www.bbc.co.uk/news/entertainment-arts-12265173 &lt; Cutting &quot;about 200 web sites&quot;. Blimey, I didn't know they HAD that many!" total_AG=3865.673790145304
-
 3 34676394025816064 0 "A house cant lose service.. It only gets cut off when you aint pay yo bill or just soms dumb asx hit a pole" total_AG=3830.4795285942428
-
 4 30632289956265984 0 "Ugh . Now My Cell Phone Cut Off Man . Nd I Aint In No Condition To Go Pay That Shit . Wtf Like . Today Is Not A Good Day At All .!" total_AG=3788.5158421244164
-
 5 30319208176820224 1 "I think the BBC world service could be saved... cut the BBC in the UK instead." total_AG=3756.814016144571
-
 6 33320862929133571 0 "@jimstroud Jim - thanks for the tweet about my new social resume service! I appreciate it! Hope you're having a great week!" total_AG=3596.077034113001
-
 7 34808895813713920 0 "Interested to see how this plays out -&gt; Last.fm users will have to pay for mobile phone service starting next week http://www.bbc.co.uk/news/technology-12381887" total_AG=3487.1217351675073
-
 8 34770147554107393 0 "#interesting BBC’s iPlayer app coming to the iPad on Thursday, UK radio delayed until March: While the BBC might... http://thenextweb.com/uk/2011/02/08/bbcs-iplayer-app-coming-to-the-ipad-on-thursday-uk-radio-delayed-until-march/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheNextWeb+%28The+Next+Web+All+Stories%29" total_AG=3482.4659295073125
-
 9 29257218230591489 0 "Egypt: Palestinian group linked to al-Qaeda behind the New Year's Day attack on a church in which 23 people died http://www.bbc.co.uk/news/world-middle-east-12261668" total_AG=3482.184889880969
-
 10 34936957284917248 0 "Journalism.co.uk: BBC’s iPlayer iPad app to launch this week http://blogs.journalism.co.uk/2011/02/08/bbcs-iplayer-ipad-app-to-launch-this-week/" total_AG=3434.617412210752
-
 11 30261845583466496 0 "Page says Stockwell Day should show his plan for cutting federal budget. Attrition will have impact on service. No cuts without pain." total_AG=3327.919765643037
-
 12 32415024995631105 0 "News Radio listeners? Save the BBC world service from savage cuts. http://www.the-business-blog.com/" total_AG=3232.694915728331
-
 13 30167063326629888 1 "Quarter of BBC world service staff to go, uk foreign office grant reduction of 17.5%." total_AG=3218.8541848389577
-
 14 34524023287193601 0 "United Kingdom : UK should cut Europe court link - BBC News http://uxp.in/28166721" total_AG=3169.012342958728
-
 15 29621742011944960 1 "DTN Indonesia: Big Cuts At BBC: The BBC is to re-shape BBC Online by 2013 to deliver its public service mission... http://www.huffingtonpost.com/2011/01/24/big-cuts-at-bbc_n_813197.html?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=DTN+Indonesia%3A" total_AG=3138.6958140299475
-
 16 29997693933719553 1 "Sad. I went through that myself in the first round 5 years ago: BBC World Service to cut up to 650 jobs http://www.theguardian.com/media/2011/jan/25/bbc-world-service-jobs" total_AG=3104.8162035255214
-
 17 34936165111037952 0 "Id like to wish my best friend in the whole wide world Stefanie a very happy birthday, I love you gorgeous!" total_AG=3076.560602821148
-
 18 29302941303177217 0 "WALT DISNEY WORLD SOUVENIRS  TOTAL OF 24: US $0.99 (0 Bid) End Date: Sunday Jan-23-2011 16:00:41 PSTBid now | Ad... http://www.ebay.com/itm/Error?item=330522437350&errid=2" total_AG=3064.031322791877
-
 19 31327728544260096 0 "ah... The 5pm Islamabad power cut. Just one of the services that fails when 97 percent of Pakistanis don't pay tax." total_AG=3058.942671688706
-
 20 34795164165738496 0 "BBC iPlayer app landing on UK iPads this Thursday, US in June: &#10;A BBC Interactive Operations Engineer has Briti... http://www.engadget.com/2011/02/07/bbc-iplayer-app-landing-on-uk-ipads-this-thursday-us-in-june/?utm_source=twitterfeed&utm_medium=twitter" total_AG=3056.3583505879305
-
 21 34936022596849664 0 "You can now get notifications on major operational disruptions i.e. cancellations and delays through our new &quot;KLM connect&quot; service!" total_AG=2992.2440266325957
-
 22 30013444388298752 0 "@bigdaddymerk public meeting on the axing of a bus service from dawley bank to the high street &amp; major traffic problems in the king st area" total_AG=2982.598736984728
-
 23 34526590725521408 0 "BBC News - UK 'should cut links to European Court of Human Rights' http://www.bbc.co.uk/news/uk-12338931" total_AG=2971.3763319605373
-
 24 34793802963099648 0 "BBC iPlayer app landing on UK iPads this Thursday, US in June: &#10;A BBC Interactive Operatio... http://www.engadget.com/2011/02/07/bbc-iplayer-app-landing-on-uk-ipads-this-thursday-us-in-june/?utm_source=twitterfeed&utm_medium=twitter http://www.appriver.com/" total_AG=2869.2701106783006
-
 25 34809237582389248 0 "BBC News - Egypt unrest: Public-sector pay rise but protests go on http://www.bbc.co.uk/news/world-middle-east-12387181 #tcot" total_AG=2826.144896379282
-
 26 34803184304128000 0 "The #iPad Channel:  BBC iPlayer app landing on UK iPads this Thursday, US in June #Apple #Mobile http://mattters.com/ipad" total_AG=2752.686746446154
-
 27 33700830561435648 0 "@RainsGenVine Open a world of online paying projects to your readers using this awesome service - http://proj.li/XpWCn/pw Best regards." total_AG=2718.961700619154
-
 28 34947156368424960 0 "Client Service Manager: Latest jobs from www.seek.com.au. Australia's #1 job siteDate &amp; time listed: 8/02/2011 1... http://www.seek.com.au/Job/19060108" total_AG=2713.2614015293034
-
 29 31468486161072129 0 "@kimmydorset so healous that you're watching it for the first time. It will rock your world" total_AG=2662.527996875631
-
 30 34297209319063552 0 "BBC News - Egypt protests: Opposition wary after Suleiman talks  http://www.bbc.co.uk/news/world-middle-east-12377179" total_AG=2652.493760978942
-
 31 34548402616274944 0 "Tips on getting good night's sleep in Health Check on World Service today. The 15 min rule. After that time get up and do something else." total_AG=2649.840652184975
-
 32 30244709146304512 1 "@sophiebr why have world service, it has to be  relic from empire days #bbc" total_AG=2629.8818036066864
-
 33 34926201403490304 0 "The last few days I've notified 4 different service providers about vulnerabilities that could let someone tweet in your name. :-/" total_AG=2608.6569912510377
-
 34 33107967448457216 0 "Receptionist: TX-Houston, Ajilon Office is the fastest-growing staffing service in the world specializing in the... http://jobview.monster.com/Receptionist-Job-Houston-TX-US-96305630.aspx" total_AG=2599.7907309453367
-
 35 34858046496710656 0 "@saf7321 ,no need to wait for live telecast,This world CUP More Socialize Flavour Now http://www.goheritageindiajourneys.com/icc-world-cup-2011/ #world_cup #india_tour" total_AG=2595.3491871515207
-
 36 32408669823963136 0 "Looks like I'm on it! RT @madlinsudn: Radio 4's Call You &amp; Yours today at 12 is about social networking http://www.bbc.co.uk/programmes/b00y2d7s" total_AG=2541.6113835382766
-
 37 34951766319706112 0 "Manchester City Council details saving cuts plan: http://www.bbc.co.uk/news/uk-england-manchester-12389726 ...Depressing. Apparently we’re 4th most deprived &amp; top 5 hardest hit" total_AG=2506.931882682824
-
 38 32836484335673345 0 "reg BBC's uber-project is a loss-bleeder: Audit Office slams pan-BBC waste The BBC's ten-year long Digital Media... http://www.theregister.co.uk/2011/02/02/bbc_digital_media_initiative/?utm_source=twitterfeed&utm_medium=twitter" total_AG=2506.6753079298423
-
 39 32850626794758144 0 "BBC's uber-project is a loss-bleeder: Audit Office slams pan-BBC waste The BBC's ten-year long Digital Media Ini... http://www.theregister.co.uk/2011/02/02/bbc_digital_media_initiative/?utm_source=twitterfeed&utm_medium=twitter" total_AG=2506.6753079298423
-
 40 30780801931026432 0 "Retirement party for a staff member today after 19 years of service. Much love shared @firstlutheranpo." total_AG=2475.6051113140343
-
 41 30251634873335810 1 "BBC World Service Cuts Hundreds Of Jobs - Sky News [Google News UK: UK News] http://bzbx.us/site.aspx?aspxerrorpath=/riq&nbsp; #Five #Grant via buzzbox.com" total_AG=2471.630282781242
-
 42 29305606699487233 0 "This girl needs a diet coke ASAP!!! Finished a church service,  4 HR staff meeting, now onto youth... the joy of the lord is my strength!!!" total_AG=2450.1923522836087
-
 43 34647788381802496 0 "@LADYGAGA ''BORN THIS WAY &quot; N SO NEVER GIVE UP U'LL SEE ME LADY GAGA, AM ONE MORE PERSISTENT IN THE WORLD, LOVE U VERY MUCH. BY @_RIIICH 4" total_AG=2437.833006699328
-
 44 33442660542840832 0 "BBC News - Egypt protests: Thousands set for 'day of departure' #egypt #jan25 http://www.bbc.co.uk/news/world-middle-east-12362826" total_AG=2430.6917359734525
-
 45 30945386776498176 0 "Wishes aerlingus would resolve their dispute so we don't have to use Ryanair. Horrible staff and terrible service. Never again." total_AG=2419.1967428480784
-
 46 34940813830004737 0 "Mike Hussey out of world cup chances for australia becomes dim" total_AG=2408.7303224273383
-
 47 34884195574611969 0 "2 am ! TIME TO SLEEP :) Goodnight world, see ya in about 6 hours." total_AG=2407.8241715774147
-
 48 29618827050360833 0 "Nurses.co.uk Job: RGN Staff Nurse (prison) - London - £ 25 to £ 33 K (per year): RGN Staff Nurse – Prison/Secure... http://www.nurses.co.uk/rgn-staff-nurse-prison-london-74805.html?utm_source=twitterfeed&utm_medium=twitter" total_AG=2395.8867512553293
-
 49 31548578920923136 0 "Another strike against @chefgeoffs, this time downtown. Horrible service tonight. Hire more waitstaff, you can afford it." total_AG=2377.3255776540973
-
 50 34931004799975424 0 "hi all. Dhaka,Bangladesh is ready for the icc cricket  world cup &amp;  waiting  for you" total_AG=2376.3861546838407
-
 51 30770933895536640 0 "SEPTA BUS No service on Rtes 1, 5, 7, 8, 12, 19, 22, 23, 24, 25, 26, 30, 31, 32, 33, 35, 38, 39, 40, 44, 47, 47m, 48, 53, 55, 57, 59, 61, 62" total_AG=2373.248676968215
-
 52 30182793933758464 0 "@jimallthetime I travelled with them, last september, amazing service on time, clean, friendly helpful staff, an absolute delight to use :-)" total_AG=2372.7477181582212
-
 53 29993695927336960 1 "Major cuts to BBC World Service: BBC World Service is to close five of its language services, with the likely lo... http://www.bbc.co.uk/news/entertainment-arts-12277413?utm_source=BBC&utm_medium=twitter" total_AG=2372.2986199320976
-
 54 29999049654403072 0 "Waterjetting today was lots of fun. Cut out some of our major parts really quickly. @frc2809" total_AG=2368.3877175502826
-
 55 30044234841071616 0 "Feb. 5, 6pm-midnight PST - major database upgrade - Live365 service will not be available. http://www.live365.com/web/components/community/index.live?url=http%3A%2F%2Fforums.live365.com%2Fviewtopic.php%3Fp%3D406521%2520406521 for more info." total_AG=2363.907675001639
-
 56 33140845918027776 0 "BBC News - Devon County Council faces £55m cut in spending http://www.bbc.co.uk/news/uk-england-devon-12211834" total_AG=2355.4361811191116
-
 57 34952186328784896 0 "a lot of people always make fun about the end of the world but the question is..&quot;ARE U READY FOR IT?.." total_AG=2351.7417387404325
-
 58 29983478363717633 1 "[BBC News] Major cuts to BBC World Service: BBC World Service is to close five of its language services, with th... http://www.bbc.co.uk/news/entertainment-arts-12277413?utm_source=twitterfeed&utm_medium=twitter" total_AG=2350.4237346407594
-
 59 34648572951531520 0 "@LADYGAGA ''BORN THIS WAY &quot; N SO NEVER GIVE UP U'LL SEE ME LADY GAGA, AM ONE MORE PERSISTENT IN THE WORLD, LOVE U VERY MUCH. BY @_RIIICH 16" total_AG=2347.03562690985
-
 60 34828722234200064 0 "Get FREE Training Every Week Until BigSeminar 14 From The World's Top Internet Marketing Experts! Here is your link: http://www.bigseminar.com" total_AG=2341.313567884408
-
 61 34259822966743041 0 "Please leave your message for the world to enjoy. It only takes 60 seconds + Total  -  Privacy: http://www.logtheworld.com/garulog/gbook.php You will love it!" total_AG=2328.344782751077
-
 62 34648491028381696 0 "@LADYGAGA ''BORN THIS WAY &quot; N SO NEVER GIVE UP U'LL SEE ME LADY GAGA, AM ONE MORE PERSISTENT IN THE WORLD, LOVE U VERY MUCH. BY @_RIIICH 14" total_AG=2322.757762360027
-
 63 34647918333927424 0 "@LADYGAGA ''BORN THIS WAY &quot; N SO NEVER GIVE UP U'LL SEE ME LADY GAGA, AM ONE MORE PERSISTENT IN THE WORLD, LOVE U VERY MUCH. BY @_RIIICH 7" total_AG=2322.757762360027
-
 64 29330189708169217 0 "THIS DAMN RECEPTION. Just got cut off with the delivery service. &gt;:|" total_AG=2315.8085324216468
-
 65 33495595398205441 0 "DTN UK: The hidden world of police custody: Coping with attempted suicide, 'dirty' protests and violent offender... http://www.bbc.co.uk/news/magazine-12354714?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=DTN+UK%253A" total_AG=2313.2810742853176
-
 66 33862478886604800 0 "Privacy in the 'transition world': Internet cultural analysts Andrew Keen and Jeff Jarvis debate how the i... http://news.bbc.co.uk/today/hi/today/newsid_9388000/9388379.stm?utm_source=twitterfeed&utm_medium=twitter #news" total_AG=2295.054231206116
-
 67 29552940691759104 1 "BBC to cut 360 jobs as it cuts online budget: The BBC will cut around 360 jobs and close hundreds of websites as... http://therapidnews.com/novina/bbc-to-cut-360-jobs-as-it-cuts-online-budget?utm_source=twitterfeed&utm_medium=twitter" total_AG=2280.2177914083927
-
 68 33205141876244480 0 "@chartersteve For 10 years I've put up with your delayed service requests, ridiculous accounting errors and unfriendly staff. No more! #ATT" total_AG=2265.546268835676
-
 69 33357707213803520 0 "Lil Wayne - Green &amp; Yellow Freestyle &quot;They Call Him Big Ben. But He Weak Tho. Now We Bout To Cut Troy Palomalu Hair O… http://187thstreet.wordpress.com/2011/02/04/lil-wayne-green-yellow-freestyle-they-call-him-big-ben-but-he-weak-tho-now-we-bout-to-cut-troy-palomalu-hair-off-audio/" total_AG=2261.1659684131887
-
 70 29756063234392064 0 "Federal workforce budget cuts would mean customer service cuts for taxpayers (washingtonpost.com)" total_AG=2260.797164249874
-
 71 34907140980219904 0 "@sreesanth Congrats..Hope you will bowl India to victory in the world cup final.." total_AG=2254.252942098428
-
 72 32413541927489536 0 "BBC News: Police in bid to cut wages bill http://www.bbc.co.uk/news/uk-scotland-tayside-central-12334460?utm_source=twitterfeed&utm_medium=twitter" total_AG=2250.316857695814
-
 73 30293370664390656 0 "@FollowingTrend I've been warned. It'll be fun. Friend knows staff and it's lunch so service should be fine. Expectations are middling." total_AG=2249.231238737421
-
 74 29549388292431872 0 "BBC News - Domodedovo blast: Explosion rocks Moscow's main airport http://www.bbc.co.uk/news/world-europe-12268662" total_AG=2238.4409488851034
-
 75 30315979753922560 1 "BBC budget cut will effect only radio persian program http://lenziran.com/2011/01/26/bbc-budget-cut-will-effect-only-radio-persian-program/" total_AG=2234.102773034368
-
 76 34770793162342400 0 "R3 Fake Emails From The White House Tricked UK Government Staff [Data] http://nxy.in/wsv0r [Gizmodo]" total_AG=2226.6369212361265
-
 77 34935395246546944 0 "Sunny in london today, I feel like the world has gone mad! LOL" total_AG=2214.518739633678
-
 78 33450674620465152 0 "Staff in tears as blundering junior managers tells hundreds of Pennine Acute Trust workers jobs at risk: Hundred... http://www.manchestereveningnews.co.uk/news/greater-manchester-news/hospital-staff-in-tears-as-blundering-manager-853282" total_AG=2191.7104946943996
-
 79 29565469983768576 0 "West Midlands trust has 1600 jobs cut. Area likely to suffer disproportionately to the rest of the NHS. BBC: http://www.bbc.co.uk/news/uk-england-12246849" total_AG=2189.4121222888143
-
 80 34540425826017280 0 "@breakfastnt FG for proposing to abolish the HSE and to cut large numbers in public service. No redundancies is unsustainable" total_AG=2168.5935949876434
-
 81 33477450369343490 0 "@MicheChelle pray tell? Very excited yet nervous about unannounced banquets.... Extra lunch staff etc to make sure good service" total_AG=2167.7857246437493
-
 82 30268814184677376 1 "an estimated 30m listeners will be lost by World Service cuts, terrible news for my fave station. mandarin chinese among languages cut" total_AG=2156.2273055409014
-
 83 33831740283957248 0 "BBC News - Egypt unrest: Mubarak moves to restart economy http://www.bbc.co.uk/news/world-us-canada-12372397" total_AG=2145.458462086592
-
 84 33439073175605248 0 "Twitter: Marriage woes in Egypt | PRI's The World: .@eric_andersen It was on the BBC some time ago, but here aga... http://www.pri.org/2011/02/02/marriage-egypt/?utm_source=twitterfeed&utm_medium=twitter" total_AG=2118.616539711039
-
 85 29381541012439040 0 "MY MAN IS MY WORLD! I LOVE U BABY! BED SOON CUZ I HAVE SCHOOL TOMORROW! :/ HAD A GREAT DAY TODAY! (: &lt;3" total_AG=2118.610433202593
-
 86 34440054554230784 0 "@comcastcares yeah the box reboot didn't work and my service is cutting off during the super bowl. A credit would not be unreasonable." total_AG=2117.6003464274218
-
 87 34740078030880768 0 "BBC News - Dutch MP Geert Wilders back in court over 'hate speech' http://www.bbc.co.uk/news/world-europe-12380167 Just TERMINATE this guy.." total_AG=2115.825339363583
-
 88 34716864869306368 0 "Top 12 New World Notes Posts From Last Week http://nwn.blogs.com/nwn/2011/02/we.html" total_AG=2114.2935280097136
-
 89 32229281945886720 0 "@SimplysexyKC I just used another uploading service. Twitter didn't ban me, just the pic services banned me from using their services" total_AG=2091.7885259679597
-
 90 33240912175824896 0 "Scoreeeeeee. Were off tomorrow and teacher in service on Monday. 4 day weekend. :)" total_AG=2091.472128656653
-
 91 30157835434201089 1 "BBC World to slash five foreign services: THE BBC World Service will shed around 500 jobs after announcing plans... http://www.dailytelegraph.com.au/nocookies" total_AG=2088.912757854339
-
 92 34935978200141825 0 "@dontplaymepayme @SallyBercow we got houseing cuts and the rest but no tax cut weres human rights thay are pushing the poor on to the street" total_AG=2078.528595906847
-
 93 29038073723490305 0 "HAPPY EARLY BIRTHDAY TO MY BEST SIS IN THE WHOLE WIDE WORLD PUT YA DRINKS UP ITS A CELEBRATION EVERY TIME WE LINK UP LOVE YOU! *Cheers*" total_AG=2077.278164979635
-
 94 32812128800870400 0 "Only one in five Home Office staff believe when changes are made it is for the better, staff survey shows." total_AG=2073.5712925905846
-
 95 30049650786435072 0 "Clearly too much time on his hands, but an interesting read about the use of language ahead of the State of the Union http://www.bbc.co.uk/news/world-us-canada-12266198" total_AG=2056.0930774366248
-
 96 34806909412319232 0 "Last.fm ends free mobile service - http://www.bbc.co.uk/news/technology-12381887" total_AG=2049.7629858929085
-
 97 34951846736953344 0 "BBC News - Today - Free school funding plans 'lack transparency' -  http://news.bbc.co.uk/today/hi/today/newsid_9389000/9389467.stm&nbsp;…" total_AG=2044.6245318432732
-
 98 34899649898876928 0 "I cut my hair last night. Oh shit." total_AG=2033.3964901024615
-
 99 29900581036363777 0 "Getting ready for @xroadschurch All-Staff meeting! Fun to walk in office and hear the staff quoting the verses we r memorizing together." total_AG=2025.8313242831603
-
 100 34936955707858946 0 "BBC’s iPlayer iPad app to launch this week: The BBC will launch an iPlayer app for Apple’s iPad this Thursday, t... http://blogs.journalism.co.uk/2011/02/08/bbcs-iplayer-ipad-app-to-launch-this-week/" total_AG=2021.9294183922648
-
 101 34927536190263296 0 "-Blog- They cut my budget—again!: Budget cuts are common these days, but cause difficulty and stress b... http://www.blog.om.org/blog/2011/2/4/they-cut-my-budgetagain.html?utm_source=twitterfeed&utm_medium=twitter #missions" total_AG=1991.7413661577189
-
 102 34932736024121344 0 "@heartbreaksoup Once we learn Z39.50 syntax, the world will be ours! But first, more Access database maddness..." total_AG=1989.0407718915314
-
 103 31102251548278784 0 "Egypt Cuts Off Most Internet and Cell Service http://www-nc.nytimes.com/2011/01/29/technology/internet/29cutoff.html?=smid=tw-nytimesbusiness&_r=6&" total_AG=1985.66631391158
-
 104 34367730559750144 0 "@Ctime5 I'm switching back and forth. Gonna cut it off after this Obama interview." total_AG=1980.2028059223867
-
 105 29400990247559168 0 "Bees Awards: World's best social media campaigns in the spotlight: By Nur Bremmen: Staff reporter Twenty leading... http://memeburn.com/2011/01/bees-awards-worlds-best-social-media-campaigns-in-the-spotlight/" total_AG=1970.3209504095073
-
 106 34942301021147136 0 "Good morning world ....gotta dive my ass to freaking somerset today smh..." total_AG=1955.8487660094002
-
 107 34843030611558400 0 "BBC News - Egypt unrest: Bloggers take campaign to Tahrir Square http://www.bbc.co.uk/news/world-middle-east-12381295" total_AG=1934.163466373184
-
 108 34900303178371072 0 "Scientists have rediscovered what they claim is the eighth wonder of the world -- Pink and White Terraces in New... http://timesofindia.indiatimes.com/world/rest-of-world/Eighth-wonder-of-the-world-New-Zealands-Pink-Terraces-found/articleshow/7451535.cms" total_AG=1933.8193834536166
-
 109 34912051029606402 0 "Council confirms 2,000 job cuts: Manchester City Council announces 2,000 job losses as well as the closure of po... http://www.bbc.co.uk/news/uk-england-manchester-12389726" total_AG=1916.8507729041405
-
 110 34005858346209280 0 "22:05 World Briefing: BBC News reports from around the world. http://www.bbc.co.uk/programmes/p00dwq7s" total_AG=1893.8915189445001
-
 111 29605702318161920 0 "Lmao richard keys and andy gray on BBC news. Just after a report on terrorists. Lock em up ahaha." total_AG=1892.1910701338409
-
 112 34851292044066816 0 "http://www.bestdealbell.com/?cat=24 United Continental to cut up to 500 jobs in Houston http://tinyurl.com/%2fnews-analysis%2ftravel%2funited-continental-to-cut-up-to-500-jobs-in-houston%2f92717%3futm_source%3dtwitterfeed%26utm_medium%3dtwitter http://www.bestdealbell.com/?cat=24" total_AG=1891.0751136122026
-
 113 34730882833063936 0 "First meeting re restructuring of school staff today. Meeting two tomorrow. We find out if we still have a job. 30% cuts fingers crossed." total_AG=1888.233203930325
-
 114 33249188615557121 0 "Update: Staff is asking the board to approve another set of hearings to close stations and reduce service." total_AG=1885.8880193532445
-
 115 34950308182360064 0 "Manchester United's Patrice Evra Set To Give Up France's #World Cup Bonus Money - http://www.newzfor.me/Shorten.aspx?shorten=cgip" total_AG=1884.3373856598173
-
 116 33551624051892224 0 "Listen live online here http://www.bbc.co.uk/programmes/b00y283h to @fxrroth conduct the BBC National Orchestra of Wales on BBC Radio 3 tonight at 7pm." total_AG=1881.828512449149
-
 117 34934282178793472 0 "Im not gd with Final Cuts, will try to refer you to someone I know. Not sure if he is still doing all these. RT (cont) http://www.twitlonger.com/show/8megln" total_AG=1879.0988027104336
-
 118 33537918312120320 0 "BBC News Fire death baby staff disciplined: Two social workers are facing disciplinary action following the deat... http://www.bbc.co.uk/news/uk-england-manchester-12367201" total_AG=1862.5182190542318
-
 119 32957906429149184 0 "Funniest tweet of the day! LOL! RT @pinkgolfbag: In the AT&amp;T taco commercial, what kind of service did that (cont) http://www.twitlonger.com/show/8ig8op" total_AG=1849.4232661681976
-
 120 29580472631689218 0 "BBC News - 16:13 GMT - Moscow bombing: Carnage at Russia's Domodedovo airport http://www.bbc.co.uk/news/world-europe-12268662" total_AG=1848.5914693737955
-
 121 34907421302325248 0 "24 hour twitter monitoring is required to manage reputation in dig world says @HK_London Tim Luckett #SMWLDN" total_AG=1845.5789936196918
-
 122 34934670395183104 0 "when the world gives you a 100 reasons to cry, show the world you have a 100 more reasons to smile. =)" total_AG=1844.555943046098
-
 123 34916262811275264 0 "@katefeld Seems the world needs twitter with a 'tone of voice' app." total_AG=1841.4386589534513
-
 124 34911451630010369 0 "#johnterry #jt The Shock Of England Team's Failure At World Cup 2010 – A Sport …: Even before the final... http://johnterryisjt.com/?p=5606&utm_source=twitterfeed&utm_medium=twitter #chelsea" total_AG=1838.3986005165325
-
 125 34833495289233409 0 "WORLD EXCLUSIVE: Sit at our €20-€40 Live Dealer on-line cash table. No HUDs or RNGs Starts Friday 11th, 2.00pm CET http://tiny.ly/gn53" total_AG=1835.7931941968793
-
 126 34876870512087040 0 "New call to oust Egypt's Mubarak - http://www.bbc.co.uk/news/world-middle-east-12388844" total_AG=1835.0843813644547
-
 127 30921324712960000 0 "ive been using vline to get to and from work for 4 and a half years now and i rate them 10 out of 10! awersome staff and service! :)" total_AG=1833.7279104001345
-
 128 34901366023393281 0 "world cup starts whn? cc @lebonetse RT @cornymabuti: Miss watching cricket ☹" total_AG=1832.6378586543365
-
 129 34654464329654272 0 "What a foolish time to be cutting advice services | Cameron McInnes http://www.theguardian.com/p/2nvep/tw&nbsp%3b via @guardian" total_AG=1829.931846878719
-
 130 33991783985713154 0 "Photo Blog : You may like. - #ecademy @shamsery &quot;#Egypt: Exchanging a Dictator for a Torturer?&quot; http://www.sunzu.com/articles/photo-blog-you-may-like-160047/ -The world is watching!" total_AG=1826.4653262164525
-
 131 31562936019320832 0 "you ever stop and think how painful a cut on the eyelid must be?" total_AG=1824.736540643474
-
 132 33744578037153792 0 "I AM SURE WE WILL SAW FROM JUSTIN 2 KELLY  THE OTHER NIGHT ON  FUSE THANK FUSE U ROCK GIRLY THANKS 4 MAKING THE BEST MUSIC IN THE WORLD" total_AG=1821.743088633048
-
 133 30217175910318080 1 "BBC takes axe to world service @PennaPlc http://www.thetimes.co.uk/tto/arts/tv-radio/article2888304.ece" total_AG=1816.6533483089709
-
 134 33976236870991872 0 "England's Eoin Morgan may miss World Cup through injury - BBC News http://www.website-unavailable.com/?wc=EWJvEgpmDBtfBxZ1GAkDEQ==&url=sports%2Esushi%2Dchan%2Enet%2Fchampion%2Dleagues%2F303245%2Ehtml" total_AG=1802.3983268441652
-
 135 30377751324135424 0 "Re my earlier tweet. The supervision officers in Cook Co have so many cases, any one of us could lose one. Staff cuts are pending too." total_AG=1799.347511099492
-
 136 34738365479784449 0 "Florida Governor Rick Scott Slashing Services for Low-Income While Giving His Corporate Pals Tax Cuts: Today, at... http://www.countryorparty.com/?p=407&utm_medium=twitter&utm_source=twitterfeed" total_AG=1776.2524600667098
-
 137 34630106152570880 0 "US envoy's business link to Egypt - Americas, World - The Independent: http://www.independent.co.uk/news/world/americas/us-envoys-business-link-to-egypt-2206329.html via @addthis" total_AG=1756.5296778532907
-
 138 34929693434056704 0 "I uploaded a YouTube video -- World Cup 2010 - Spain vs Honduras (Ellis Park): Just som... http://www.youtube.com/watch?v=H8EMsMq1ZZE&feature=youtu.be&a" total_AG=1752.884618878261
-
 139 29919808589926400 0 "Word war - Toronto Ombudsman calls the budget committee's refusal to boost her budget a &quot;major service cut.&quot; http://www.torontosun.com/news/torontoandgta/2011/01/25/17022736.html" total_AG=1746.325901552102
-
 140 34436942024146944 0 "Obama to Cut Services to Poor: Could Be $350 million Says Budget Director—After Tax Extension Cut for Weathy http://links.visibli.com/share/0b585f" total_AG=1745.8021497838195
-
 141 34729351735939072 0 "What a foolish time to be cutting advice services http://feeds.theguardian.com/~r/theguardian/commentisfree/rss/~3/edYao_YTGMY/advice-services-paid-specialists #ConDem #Cameron's #BIGsociety in action" total_AG=1745.5004164126076
-
 142 32078125143695360 0 "@jaredleto today is my b-day...I'd be the happiest girl in the world if you say me -happy b-day- *-*" total_AG=1745.0125811360797
-
 143 34680018713968641 0 "Innovations in Service Must Look Beyond the Obvious: The news from Google this week is that it has launched a ni... http://blogs.hbr.org/2011/02/innovations-in-service-must-lo/" total_AG=1742.2626998753492
-
 144 34949097265827840 0 "Jules on BBC travel alert twitter a/c really makes my day. I could q easily study his/her written-as-oral style (suspended &gt; spended etc.)" total_AG=1725.298131384361
-
 145 34863742973911040 0 "Dont be a victim, let the world know how you were treated @Service Watchdog http://www.cswatchdog.com/" total_AG=1709.3848795956035
-
 146 33631760113733632 0 "Oldham Council discussion on budget cuts transmitted by BBC Radio 4. http://www.bbc.co.uk/programmes/b00y2d89" total_AG=1704.955591231765
-
 147 34950617440985088 0 "Admissions Representative/ Customer Service/ Account Executive job in Phoenix, AZ at EDMC Online Higher... http://jobhits.net/job/Admissions-Representative-Customer-Service-Account-Executive-eoq86?utm_source=twitterfeed&utm_medium=twitter #student" total_AG=1701.6809059792997
-
 148 33024248884756480 0 "WAKE UP: Senior Jordanian official: &quot;if #Egypt slides into chaos, its 32y/o peace treaty with Israel may not last long&quot; http://news.bbc.co.uk/2/hi/uk_news/politics/9385875.stm" total_AG=1698.4477198310476
-
 149 30325151543332864 1 "Very bad news regarding BBC World Service cutbacks and layoffs. http://www.theguardian.com/media/2011/jan/26/bbc-world-service-cuts" total_AG=1689.6362093531138
-
 150 30515857213890560 0 "Nursing Jobs: Cardiac Rehabilitation Staff Nurse-PRN Job: Nursing Registered Nurse/Staff Nurse (RN) at Piedmont ... http://www.hospitaldreamjobs.com/JobDescription.aspx?tag=Twitter&JobID=10486211&utm_source=twitterfeed&utm_medium=twitter" total_AG=1687.662489549072
-
 151 34936578358910976 0 "Maybe Enda is thinking &quot;better to remain silent and the world think you a fool, them open your mouth and remove all doubt #ge11 #enda" total_AG=1686.1485015983642
-
 152 34914029059178496 0 "Pledge to cut council tax by 1% http://www.bbc.co.uk/news/uk-england-suffolk-12386949?utm_source=twitterfeed&utm_medium=twitter" total_AG=1683.2844460830142
-
 153 34891470628462593 0 "BBC-news更新 Egypt protesters seek new resolve http://www.bbc.co.uk/news/world-middle-east-12388844 #bbc" total_AG=1681.5517901580042
-
 154 29978962599870465 1 "BBC World Service to 'cut up to 650 jobs' http://www.themediabriefing.com/article/2011-01-25/bbc-world-service-to-cut-up-to-650-jobs?utm_source=twitterfeed&utm_medium=twitter" total_AG=1675.44962905682
-
 155 33566386861117440 0 "Poor Westwood misses cut in Doha: World number one Lee Westwood misses his first cut in more than a year after s... http://news.bbc.co.uk/sport1/hi/golf/9388042.stm?utm_source=twitterfeed&utm_medium=twitter" total_AG=1674.5384006251004
-
 156 33556305918566400 0 "Nursing Jobs: Staff Nurse: Nursing Registered Nurse/Staff Nurse (RN) at Southwest General Health Ce... http://www.hospitaldreamjobs.com/JobDescription.aspx?tag=Twitter&JobID=10569722&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Staff+Nursing+Jobs #nurse #jobs" total_AG=1670.4633985570379
-
 157 30316304493707264 1 "BBC World Service plans 650 job cuts      (AP) - AP - The BBC said Wednesday that it plans to cut 650 jobs, more tha... http://news.yahoo.com/s/ap/20110126/ap_on_bi_ge/eu_britain_bbc/" total_AG=1659.8304555265095
-
 158 31951235351318528 0 "I would rather see your face in Hell than speak another word of this perfect world." total_AG=1657.9192356263868
-
 159 29331550608818176 0 "Palestinian 'offers' in peace process - papers leaked - BBC News: Ha'aretz Palestinian… http://feeds.feedburner.com/~r/eMarketing_Tips/~3/Ic4NCrf2sGE/url?utm_source=feedburner&utm_medium=twitter&utm_campaign=eMarketing_Tips" total_AG=1655.182363501789
-
 160 34409479747403776 0 "Transit Updates: A year after CTA service cuts and layoffs, rehired workers help weather the blizzard http://articles.chicagotribune.com/2011-02-06/classified/ct-met-getting-around-0207-20110206_1_laid-off-cta-workers-cta-bus-driver-cta-plans" total_AG=1652.9475727860283
-
 161 34692588061593600 0 "BBC News - Cuts 'destroying big society' concept, says CSV head http://www.bbc.co.uk/news/uk-politics-12378974" total_AG=1652.3299083982777
-
 162 34703573090574337 0 "Techmeme | Last.fm Moves to Paid Content Model, Largely Abandons Free Mobile Service (Kit Eat... http://www.techmeme.com/110207/p40#a110207p40?utm_source=twitterfeed&utm_medium=twitter via adamsafire.com" total_AG=1651.7309862725338
-
 163 34947770762661888 0 "BBC News: VIDEO: South Africa's battle with rhino poachers http://www.bbc.co.uk/news/world-africa-12391728?utm_source=twitterfeed&utm_medium=twitter" total_AG=1651.5837494308603
-
 164 31492002872827904 0 "Nothing in this world can be as nice as you and I" total_AG=1641.8224301435314
-
 165 31762305326784512 0 "YES! ---&gt; BBC News - Come Fly With Me show gets second series on BBC One http://www.bbc.co.uk/news/entertainment-arts-12318486" total_AG=1633.6718553883888
-
 166 34866249125076992 0 "@Peteyyb ahahahaha I actually feel you on that! Thank youu for voicing your opinions, hopefully the girls of the world took note of that lol" total_AG=1626.84764400171
-
 167 34429878568890368 0 "BBC News - Super Bowl: Christina Aguilera fluffs US national anthem http://www.bbc.co.uk/news/world-us-canada-12378790" total_AG=1621.1295119471424
-
 168 32785032661700609 0 "http://www.bbc.co.uk/worldservice/news/2011/02/110201_whys_aung_san_suu_kyi_tx.shtml Aung San Suu Kyi on unrest in Egypt from World Service #savews www.savews.com" total_AG=1619.3876277397162
-
 169 34726156393656320 0 "@Chally7 haha - what the teams for Friday 11C (me,Lavelle,John,bad,you) vs everyone else or is it staff ?" total_AG=1618.6902178371456
-
 170 31491877417000960 0 "#FoodReadyOnceUwalkIn RT @LaBellaLilyy: #Shouts to @J2daWizzy for having the EXTRA VIP service at Jimmy's lol - Dinner time!" total_AG=1618.3639441107339
-
 171 34349631311716352 0 "Egypt opposition wary after talks - http://www.bbc.co.uk/news/world-middle-east-12377179" total_AG=1612.3325178408984
-
 172 34456614933106689 0 "INVESTIGATION [#milwaukeepolice]: 110371682, 02/06/2011 08:50:55 PM, N OLD WORLD THIRD ST / W JUNEAU AV,MKE, 1, Service in Progress" total_AG=1611.2200741482125
-
 173 31793298611904512 0 "BBC News - Harrogate Theatre at risk over council cuts http://www.bbc.co.uk/news/uk-england-york-north-yorkshire-12312030" total_AG=1601.4587719451877
-
 174 30344264193937408 0 "Surfing World Tour Coming to New York's Long Island With $1 Million Purse: By Erik Matuszewski - Wed Jan 26 18:3... http://www.bloomberg.com/news/2011-01-26/surfing-world-tour-coming-to-new-york-s-long-island-with-1-million-purse.html" total_AG=1600.3932305869764
-
 175 34257154743472128 0 "News Police to lose '10,000 by 2013': At least 10,190 police officer posts are set to disappear by the end of th... http://www.bbc.co.uk/news/uk-politics-12375310?utm_source=twitterfeed&utm_medium=twitter" total_AG=1595.5360663141662
-
 176 34828285410017280 0 "Planned Parenthood to Retrain Staff on Reporting Requirements: All employees who have contact with the public wi... http://sean-easter.newsvine.com/_news/2011/02/07/6008026-planned-parenthood-to-retrain-staff-on-reporting-requirements?utm_source=twitterfeed&utm_medium=twitter" total_AG=1587.8070487799769
-
 177 33689343574941696 0 "Leaks Amid Egypt-inspired unrest, Iraqi prime minister cuts salary in half - CNN International http://abendjournal.com/2011/02/05/amid-egypt-inspired-unrest-iraqi-prime-minister-cuts-salary-in-half-cnn-international/" total_AG=1587.611645492083
-
 178 31473669091893248 0 "BBC News Dutch cut Iran links over hanging: The Dutch government freezes all contacts with Iran in protest over ... http://www.bbc.co.uk/news/world-middle-east-12317138" total_AG=1585.6206754863715
-
 179 29264804417904641 0 "MySpace boss Mike Jones has confirmed that the company is cutting around half of its global staff and signalle... http://zmarter.com/1706649" total_AG=1585.2040892170623
-
 180 34638009475416064 0 "Man in charge of 2 new academies in Carlisle has promised teaching standards will not be affected by job cuts: http://www.itv.com/border/affects-of-teaching-cuts60424/ #borders" total_AG=1584.8710297318066
-
 181 33993344493293569 0 "Must read... Italian American Girl: World Nutella Day - A Social Media Movement ... http://www.italianamericangirl.com/2011/02/world-nutella-day-movement-created-by.html #socialmedia #smm" total_AG=1571.3897828898482
-
 182 32124582701830144 0 "BBC: Wary markets watch Egypt unrest: Moody's cuts its debt rating for Egypt and shares in travel firms are hit ... http://www.bbc.co.uk/news/business-12322465?utm_source=BBC+Middle+East&utm_medium=twitter" total_AG=1569.5579231787644
-
 183 33836505248047104 0 "LiveStation: Best Way to Watch News on Your PC http://www.instantfundas.com/2011/02/livestation-best-way-to-watch-news-on.html" total_AG=1564.0290551508388
-
 184 30137431932010498 1 "Don't cut the BBC's World Service | Mark Damazer http://www.theguardian.com/p/2mk5c/tw&nbsp%3b via @guardian - we need WS as fresh independent air from Murdoch muck!" total_AG=1558.9917926104763
-
 185 30219793458008064 1 "Gossip Day by Day: BBC World Service to cut five language services http://lotikabutiks.blogspot.com/2011/01/bbc-world-service-to-cut-five-language.html?spref=tw&nbsp;…" total_AG=1553.5843568344994
-
 186 30629479080525824 0 "Staff to run health services firm: Moves to set up a firm to run community health services in Great Yarmouth and... http://www.bbc.co.uk/news/uk-england-norfolk-12299722?utm_source=web&utm_medium=twitter" total_AG=1552.1449625482305
-
 187 31483253365932033 0 "Rumor: Amazon rolling out Netflix-like service for Prime members: With the success and… http://www.neowin.net/news/rumor-amazon-rolling-out-netflix-like-service-for-prime-members #sfeed" total_AG=1534.193600208405
-
 188 33457429396066304 0 "Schumer: New Air Traffic Control System Would Cut Delays during Local Airports: Nearly 1,000 moody delays a year... http://www.crazygreco.com/Weather/schumer-new-air-traffic-control-system-would-cut-delays-at-local-airports/?utm_source=twitterfeed&utm_medium=twitter" total_AG=1530.0986401567468
-
 189 34600937918038016 0 "@BolaMosuro a huge blow....i dare them if they touch the BBC African service team..." total_AG=1525.2460392369833
-
 190 34622434564898816 0 "Flooding &amp; Drainage Committee meeting has been rescheduled to February 9 at 6pm at the Southwest Multi-Service Center, 6400 High Star Dr." total_AG=1517.2978946351077
-
 191 34888739083788288 0 "Patrice Evra among France players yet to give up #World Cup bonuses - http://www.newzfor.me/Shorten.aspx?shorten=c8ip [Like it? http://www.likemytweets.com/tweet/34888678614499328#34888678614499328#like ]" total_AG=1513.0768058857466
-
 192 33133345017696256 0 "World News! Pub TV football choice 'upheld': Broadcasters cannot stop customers using cheaper foreign satellite ... http://www.bbc.co.uk/news/business-12355022?utm_source=twitterfeed&utm_medium=twitter" total_AG=1512.8774042246152
-
 193 31485805482479616 0 "See you in the better world #Never" total_AG=1511.924608659642
-
 194 31491783301013505 0 "#thingsweallhate automated customer service phone lines" total_AG=1510.6192357833659
-
 195 34933891731173376 0 "No work coming in, no real prospects to chase either. Not good for staff morale. I see troubles ahead." total_AG=1507.6587520162846
-
 196 33937621742788608 0 "BBC main news: Man City 3-0 West Brom: Carlos Tevez's first-half hat-trick helps Manchester City see off West Br... http://news.bbc.co.uk/sport2/hi/football/eng_prem/9382898.stm?utm_source=twitterfeed&utm_medium=twitter" total_AG=1504.8112200764015
-
 197 34392034286505984 0 "#Hurghada red sea hotels + businesses cutting back on staff-hours due to evac of tourists. Sending people home. Tours canceling. #Egypt" total_AG=1502.3650166013663
-
 198 30225867514847232 0 "@queenofshops......Put Abercrombie and Fitch on your website...The service is fantastic and the expectations of the staff are very high." total_AG=1488.1433105789467
-
 199 34175415006265344 0 "Police to lose '10,000 by 2013': More than 10,000 police officer posts are set to disappear by the end of the ne... http://www.bbc.co.uk/news/uk-politics-12375310?utm_source=twitterfeed&utm_medium=twitter" total_AG=1486.6516170385073
-
 200 31487939770851328 0 "good morning world" total_AG=1478.741411176647
-
 201 34227948139581440 0 "Carousel gave us a complimentary birthday chocolate cake tgt with a song sang by the staff. Thumbs up service!! Me likey." total_AG=1477.9402852052453
-
 202 34106070209138689 0 "DTN World News: Cameron rules out major tax cuts: &quot;Significant&quot; tax cuts will be ruled out while the government ... http://www.bbc.co.uk/news/uk-politics-12375561?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=DTN+World+News%253A" total_AG=1477.7042790651192
-
 203 34946671993430016 0 "Jeff Jarvis on BBC World Business News mentions Yahoo! and follows with &quot;may it soon rest in peace.&quot; lol!  Also, good morning!" total_AG=1466.588708901775
-
 204 29559136538599424 0 "Blast rocks Moscow's main airport - http://www.bbc.co.uk/news/world-europe-12268662" total_AG=1464.1313116120855
-
 205 34948503532732416 0 "You ever looked at a kids face when you cant fix a toy for them? Its like the end of the world." total_AG=1462.069812461349
-
 206 30419324359417857 1 "'Silenced' by cuts: By Torin Douglas Media Correspondent, BBC News The BBC has revealed the full extent of the W... http://www.bbc.co.uk/news/uk-12293102" total_AG=1461.9478619891768
-
 207 33655626433429504 0 "@aliciawitty its was on a documentary on BBC UK http://www.bbc.co.uk/news/world-latin-america-12360013 &amp; the 1 hour Doc: http://www.bbc.co.uk/programmes/b00rrd83 (might be restricted to UK only)" total_AG=1461.092256479731
-
 208 31347762272411648 0 "Nursing Jobs: Staff RN: Nursing Registered Nurse/Staff Nurse (RN) at Samaritan Medical Center in NY http://www.hospitaldreamjobs.com/JobDescription.aspx?tag=Twitter&JobID=10551875&utm_source=twitterfeed&utm_medium=twitter" total_AG=1458.8327680140137
-
 209 34914035174473729 0 "CHEF DE PRODUIT  H/F: Filiale du groupe Air Liquide, ORKYN est le leader en France des services à la personne po... http://cadres.apec.fr/offres-emploi-cadres/1___28499953W__________.html?xtor=RSS-426527444&utm_source=twitterfeed&utm_medium=twitter" total_AG=1453.8426665080874
-
 210 31201653633851393 0 "BBC World News for Children: Weekday news bulletins for children, updated daily. UK and international headlines ... http://www.techlearning.com/news/0049/bbc-world-news-for-children/47553" total_AG=1452.1587423686376
-
 211 33481475881967616 0 "Plan to end empty home tax cuts: Scottish local authorities are to be given new powers to increase council tax o... http://www.bbc.co.uk/news/uk-scotland-12365250" total_AG=1449.1570499324894
-
 212 30223544906424320 1 "[BBC-Africa] BBC cuts Portuguese for Africa service: The BBC is due to outline its plans to close five of its 32... http://www.bbc.co.uk/news/entertainment-arts-12283356?utm_source=twitterfeed&utm_medium=twitter" total_AG=1445.6183524624962
-
 213 32827938114113536 0 "Nursing Jobs: RN-Staff: Nursing Registered Nurse/Staff Nurse (RN) at Anderson Regional Medical Center in MS http://www.hospitaldreamjobs.com/JobDescription.aspx?tag=Twitter&JobID=10560184&utm_source=twitterfeed&utm_medium=twitter" total_AG=1442.1780016951357
-
 214 29944142427586560 0 "Ffs first the bbc kill the best spooks actor now silent witness kill their best, is there anyone point in even having the bbc anymore?" total_AG=1437.753659380359
-
 215 34623684111122432 0 "What issues do staff face in trying to ensure positive patient experience? Health care staff share their stories here http://www.kingsfund.org.uk/current_projects/the_point_of_care/staff_stories.html" total_AG=1428.5232784320197
-
 216 29991643910242304 1 "So painful to hear about the 5 language services cut at the BBC. The BBC constantly exceeds my expectations and earns my admiration." total_AG=1427.9123190705754
-
 217 30923924376125441 0 "dear #localgovdearjohnletters thanks 4 donating ur services &amp; staff to the &quot;bankers bonuses appeal&quot; plz find signed bin by bob diamond" total_AG=1422.6719107427095
-
 218 31490509839007744 0 "How Amazon's New Bulk E-mail Service Works &#10;    (PC World)&#10; - http://www.newzfor.me/Shorten.aspx?shorten=csoh" total_AG=1422.5217725600444
-
 219 32777419622457344 0 "Financial Services Office - Advisory Staff - Insurance Technology #Indeed #jobs #finance #SFO http://3taps.com/w/9RHW96" total_AG=1421.0661538644051
-
 220 34829899881512960 0 "Love this CBS-TV promo I just heard 2nite about World Ag Expo (Feb. 8 -10)... &quot;The Super Bowl of Ag coming up at 11...&quot; #agvocates #sports" total_AG=1411.5648736346773
-
 221 34882307697414144 0 "John Lewis to create 200 new jobs: Retailer John Lewis is to create 200 jobs at its call centre at Hamilton ... http://www.bbc.co.uk/news/uk-scotland-glasgow-west-12382754?utm_source=twitterfeed&utm_medium=twitter BBC" total_AG=1403.29726976528
-
 222 32080604065431552 1 "News: BBC Cuts Affect The Galaxy Guide http://www.frequencycast.co.uk/blog/2011/01/bbc-cuts-affect-the-galaxy-guide.html" total_AG=1399.1472645376714
-
 223 31649109051965440 0 "10:00 BBC News: Only the BBC brings you World News every half hour. http://www.bbc.co.uk/programmes/p00d627d" total_AG=1397.8760473759044
-
 224 31866979291766784 0 "http://www.youtube.com/watch?v=jkMGf2_NKvs the best song in the world !!" total_AG=1393.1815195508432
-
 225 33230810693763072 0 "Toyota Cuts U.S. Staff http://native-radio.com/sitemap/" total_AG=1388.3972278043748
-
 226 31230480170876928 0 "BBC News - BBC journalist arrested and beaten by Egyptian police http://www.bbc.co.uk/news/world-africa-12308244 #jan25" total_AG=1388.132963937604
-
 227 30409363562692608 0 "What in the world...my parents are coming to visit me." total_AG=1387.9363452788987
-
 228 33391140686274560 0 "Sr. Staff Engineer/Supplier Engineering Job jobs in Michigan at ...: Browse more Sr. Staff Engineer/Supplier Eng... http://www.engineering.com/Jobs/Engineering_Jobs_Search/jobctl/ViewPost/ID/45399.aspx" total_AG=1384.7741784525708
-
 229 34917620188717056 0 "ohmygosh, I cannot cut a straight line." total_AG=1379.2387555393677
-
 230 31653409140514816 1 "http://www.theguardian.com/technology/2011/jan/30/bbc-world-service-cuts-networker?CMP=twt_gu  Analysis of BBC cutting online budget by 25%" total_AG=1376.067311797649
-
 231 33287402286088192 0 "22:30 BBC News Summary: Only the BBC brings you World News every half hour. http://www.bbc.co.uk/programmes/p00d875d" total_AG=1374.1467932891671
-
 232 33685475038474240 0 "I need the world to stop spinning round." total_AG=1366.811841749966
-
 233 34946476572409856 0 "BBC iPlayer hits the iPad Thursday http://gadget.ca/reader/" total_AG=1356.8935653771357
-
 234 29143071471964160 0 "Rehab Services Manager (RSM) Or Staff Physical Therapy Assistant (PTA) job in Connersville, IN at Ame... http://jobhits.net/job/Rehab-Services-Manager-RSM-or-staff-Physical-Therapy-Assistant-PTA-udfn6?utm_source=twitterfeed&utm_medium=twitter #christmas" total_AG=1354.9030220121388
-
 235 33478072141352961 0 "Photo Blog : You may like. - #ecademy @shamsery http://www.sunzu.com/articles/photo-blog-you-may-like-160047/ Million man march #Egypt" total_AG=1348.9309536223623
-
 236 30051954050727936 1 "BBC World Service. Cut anything, everything even, but not this. http://tiny.cc/notfound Politicians. Duh." total_AG=1343.6893189009681
-
 237 32119399087341568 0 "[DAILY STAR]: BBC wins battle over climate show: The BBC has fought off a High Court challenge to a broadcast of... http://www.dailystar.co.uk/news/pa-news/174558/BBC-wins-battle-over-climate-show" total_AG=1342.4324288045107
-
 238 31663242979844096 0 "Sunday Papers: Blackstone eyes UK firms after raising $15bn - bids, comment ...: Property tycoons Glenn Maud and... http://www.citywire.co.uk/new-model-adviser/sunday-papers-blackstone-eyes-uk-firms-after-raising-15bn-bids-comment-and-tips/a467034?ref=new-model-adviser-latest-news-list" total_AG=1333.3590544114716
-
 239 28972570082541568 0 "BBC world news: BBC apology for Japan bomb jokes - The BBC apologises after Japan's embassy complained over jokes br... http://www.bbc.co.uk/news/entertainment-arts-12260577" total_AG=1331.3507033221651
-
 240 29593214549753856 0 "bombs in Moscow main airport http://www.bbc.co.uk/news/world-europe-12268662" total_AG=1330.8931810610607
-
 241 30686548747882496 0 "BBC 'council cuts' film: 20 dogs foul in street to show services benefit - from Daily Mail: The show, fronted by... http://www.mediauk.com/tv/news/go/124523/bbc-council-cuts-film-20-dogs-foul-in-street-to-show-services-benefit" total_AG=1323.0542801710305
-
 242 34915697993719808 0 "Bryan Adams to open ICC Cricket World Cup - Hindustan Times http://feeds.feedburner.com/~r/CanadianMarketing-GoogleNews/~3/LVMOE00Vhcg/url?utm_source=feedburner&utm_medium=twitter&utm_campaign=peterjamesfreer" total_AG=1322.491449299462
-
 243 30025535761420289 1 "World:  BBC World Service axes five language services - http://wharfyouth.org/bbc-world-service-axes-five-language-services/32115" total_AG=1318.1231685652315
-
 244 32804229630402561 0 "@BanggNsaaDiddy it cut on yet?...i had to go to work for fourty minutes &amp; i dont plan on leaving my house at all. fck everything!" total_AG=1317.11367465164
-
 245 32985385306955776 0 "02:30 BBC News Summary: Only the BBC brings you World News every half hour. http://www.bbc.co.uk/programmes/p00d873c" total_AG=1316.559396101588
-
 246 29263407261683712 0 "20:00 BBC News: Only the BBC brings you World News every half hour. http://www.bbc.co.uk/programmes/p00d2jsr" total_AG=1313.1125278795773
-
 247 30375540082872320 0 "Some hospital staff need customer service training.. they are trying to kill people instead of make people... http://www.facebook.com/permalink.php?story_fbid=121798014558153&id=223641260396" total_AG=1313.0219838967425
-
 248 34627341875417088 0 "Students: Resume Writing &amp; Interview Workshop Hosted by UNLV Career Services. In Student Union Room 219 from 1pm-2pm on Tuesday Feb. 8." total_AG=1311.6948915013256
-
 249 32658399627845632 0 "@EllenPislove @WalaaBridget @xtwinni @Gray_MD =D *bows* thank you.He does the SGH staff a service of loaning his pickle for penis lackers" total_AG=1308.4836542332512
-
 250 34593563899600896 0 "LEWISHAM - services for unemployed young people slashed in deprived area http://www.mercury-today.co.uk/News.cfm?id=2894&headline=Two%20jobcentres%20to%20shut%20as%20Government%20pulls%20funding #falseeconomy #ukuncut #lewisham #nocuts" total_AG=1307.6889210940042
-
 251 29984027783995392 0 "Too often, assns are too worried about plans and authorizing language.  Social media needs us to trust staff to do the right thing #assnchat" total_AG=1305.5466155842544
-
 252 34665469260599296 0 "News: Job checks for Cornwall's senior nursing staff - BBC News http://www.bbc.co.uk/news/uk-england-cornwall-12383868" total_AG=1296.5373699470792
-
 253 30828308941774848 0 "BBC: 'council cuts' film farce: Producers bring in 20 dogs 2 foul street 2 show wht wld happen if services wr removed: http://www.dailymail.co.uk/news/article-1351053/BBC-council-cuts-film-20-dogs-foul-street-services-benefit.html#ixzz1CISVRhyu" total_AG=1295.4675996292026
-
 254 33536977986912256 0 "15:00 BBC News: Only the BBC brings you World News every half hour. http://www.bbc.co.uk/programmes/p00d94nt" total_AG=1294.9072820076638
-
 255 32871708100665344 0 "BBC News - BBC's Craig Oliver replacing Andy Coulson at No 10 http://www.bbc.co.uk/news/uk-politics-12348159" total_AG=1294.5473994159086
-
 256 34744228391297024 0 "...WINTER STORM WARNING IN EFFECT FROM 6 PM TUESDAY TO 9 PM CST WEDNESDAY... THE NATIONAL WEATHER SERVICE IN TULSA HAS  http://s3z.us/wy.htm" total_AG=1293.3413202430545
-
 257 32453406425616384 1 "@DuncanBannatyne bbc cut backs are a pain..." total_AG=1290.1467982932143
-
 258 34301283682750464 0 "I want to change the world and everything within #themoment http://twitter.com/DregaC/statuses/34148839950651392 http://twitter.com/Doubleaxle/statuses/34165158364323840 http://www.mercedes-benz.tv/mixedtape http://twitter.com/Doubleaxle/statuses/34286249992781824" total_AG=1287.0925218401394
-
 259 34945879139942400 0 "http://www.rafikee.com/job/73718 - Sales - IT Consulting / Staffing Job in Austin, Texas (TX)" total_AG=1284.860433497337
-
 260 34890358110298112 0 "#sportingnews Nathan Hauritz and Mike Hussey ruled out of ICC World Cup http://blogs.bettor.com/Nathan-Hauritz-and-Mike-Hussey-ruled-out-of-ICC-World-Cup-a55266" total_AG=1284.8003282642144
-
 261 33935246105772032 0 "BBC News - Iraqi hopes and fears for government http://www.bbc.co.uk/news/world-middle-east-11740780" total_AG=1280.0599427789123
-
 262 34326030139260928 0 "One of the greatest guitarists in the world died :( &#10;RT @BreakingNews: Thin Lizzy guitarist Gary Moore dies - BBC http://www.bbc.co.uk/news/uk-northern-ireland-12377862" total_AG=1275.7344776490647
-
 263 30325247257354240 0 "@TheeCYRUSKING o absolutely I always tip!!!!!! I expect world class service pa lol" total_AG=1264.3437997723026
-
 264 30267076497121280 0 "Unions meet over council job cuts: Union representatives at Aberdeen… http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-12286313?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%253A+CityCouncil+%2528%255Bccf%255D+City+Council+News%2529 http://www.citycouncilforum.com/news.php" total_AG=1256.5046408288222
-
 265 34387751537217536 0 "BBC News - Berlusconi critics clash with police after calls to resign http://www.bbc.co.uk/news/world-europe-12377810" total_AG=1256.311980554473
-
 266 29208850963898368 0 "Staff Accountant Job in Tampa 33602, Florida US: Staff Accountant job in Tampa, Florida, US. Read the Staff Acco... http://jobview.monster.com/Staff-Accountant-Job-Tampa-FL-US-96048821.aspx" total_AG=1256.311460176826
-
 267 34918967202029568 0 "Travel Nursing Jobs: Registered Nurse: Nursing Registered Nurse/Staff Nurse (RN) at UHS - Spring Mountain Treatm... http://www.hospitaldreamjobs.com/JobDescription.aspx?tag=Twitter&JobID=10568036&utm_source=twitterfeed&utm_medium=twitter" total_AG=1255.526588857167
-
 268 31484225664327680 0 "#wheniwaslittle the world was a wonderful place and everyone was nice." total_AG=1254.3551803342823
-
 269 30317913206431744 1 "BBC Caribbean to be shut down - Stabroek News - Guyana: (BBC) BBC World Service today announced cuts which will ... http://www.stabroeknews.com/2011/archives/01/26/bbc-caribbean-to-be-shut-down/" total_AG=1251.416992105778
-
 270 34932825786417152 0 "Gettin a quick hair cut before my test." total_AG=1247.534862496652
-
 271 32947243380113409 1 "HSBC recognises and rewards long service staff | The Brunei Times http://www.bt.com.bn/happenings/2011/01/29/hsbc-recognises-and-rewards-long-service-staff" total_AG=1247.051372458282
-
 272 33525582021009408 0 "Radiology News- Pennine Acute Trust probes manager’s redundancy blunder – BBC News: Pennine Acute Trust probes m... http://radiologyrounds.org/pennine-acute-trust-probes-managers-redundancy-blunder-bbc-news/?utm_source=twitterfeed&utm_medium=twitter" total_AG=1242.1119056631396
-
 273 29373112583725056 0 "How I bought my African bride: Christian Parkinson has to pay the price of a herd of ... http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/9369284.stm?utm_source=twitterfeed&utm_medium=twitter http://twitter.com/BILLSPAID/status/13812071486" total_AG=1236.7992718038283
-
 274 29937877387317248 0 "you old cynic RT @gdpreston: Andy Gray sacked ... Andy Gray who's suing the News Of The World over phone-tapping allegations #justsaying" total_AG=1229.9337110711476
-
 275 31001167404212224 0 "The Murray match was so popular Friday in Britain that it crashed the British Broadcasting Corporation's website server's live footage. :)" total_AG=1228.92535240162
-
 276 31016423132233728 0 "BBC journalist arrested &amp; beaten in Egypt; curfew announce; internet &amp; phone service stopped." total_AG=1227.2662674143196
-
 277 34577306567581697 0 "#top #stories Funding to target 'music divide' (BBC): Share With Friends:  |  | World news - Top Stories New... http://feedzil.la/fN7q0c" total_AG=1224.1279787928984
-
 278 34703780100448257 0 "Another great staff meeting at AHS.  We have staff meetings every week in order to educate our staff &amp; work out any issues we may have." total_AG=1222.8505105042866
-
 279 30505596528623616 1 "http://tinyurl.com/4o3bcag -- BBC World Service to axe more than a quarter of it's jobs" total_AG=1221.9905430710746
-
 280 34598980834824192 0 "&quot;Video game industry 'should be government priority', MPs have said&quot; http://www.bbc.co.uk/news/uk-scotland-12373513 - BBC" total_AG=1219.50318074494
-
 281 30275282464153600 1 "&quot;BBC World Service to cut [...] a quarter of its staff - after losing millions in funding from the Foreign Office.&quot; http://www.bbc.co.uk/news/entertainment-arts-12287528?utm_source=twitterfeed&utm_medium=twitter" total_AG=1219.1581691733275
-
 282 29314312799526912 0 "Al-Jazeera leaked docs suggest Palestinian negotiators agreed 2 Israel keeping parts of illegally occupied East Jerusalem http://www.bbc.co.uk/news/world-middle-east-12263095" total_AG=1217.8379155133161
-
 283 34178675104546816 0 "Staff Nurse - Cleveland - Not stated (per year): Position Summary: The Staff Nurse is a profes... http://www.temp-jobs.org/viewjob.asp?strFrom=rssfeed&numStartRecord=0&numJobID=681244&utm_source=twitterfeed&utm_medium=twitter&utm_content=temp%2C+tempting%2C+jobs www.temp-jobs.org" total_AG=1217.4669960807385
-
 284 34931669714604032 0 "Good morning world! Today’s cabaret events are posted on CABARET HOTLINE ONLINE http://www.cabarethotlineonline.com/ Not listed? E-mail me a press release!" total_AG=1209.3510894925794
-
 285 30084412947308545 0 "NG staff visit grade 8 students at MPS on Thursday at 9:30 a.m.  Parents have a session at MPS with NG staff Thursday evening at 6:45 p.m." total_AG=1205.8279658436327
-
 286 34587324784320512 0 "Customer Service Online: What To Watch In 2011 - http://www.sussexbusinesstimes.co.uk/news/view-story.php?id=205" total_AG=1203.9285623101737
-
 287 34853834631151616 0 "Cut Throat/Chopper City" total_AG=1203.4281286824262
-
 288 34896325799583744 0 "Best Micro Jobs In The World from All Sites Like http://www.website-unavailable.com/?wc=EWJvEgpmDBtfBxZ1GAkDEQ==&url=ping%2Efm%2F4vptE" total_AG=1196.1565639589303
-
 289 33332326909874178 0 "DTN World News: BBC in Top Gear apology to Mexico: The BBC apologises over remarks on the TV show Top Gear that ... http://www.bbc.co.uk/news/world-latin-america-12361790?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=DTN+World+News%253A" total_AG=1189.4355840342046
-
 290 32188969437364225 0 "BBC: How Egyptians have been getting around the Internet blackout http://www.bbc.co.uk/news/technology-12322948 #Jan25 #Egypt" total_AG=1185.5691259763282
-
 291 34186687638667264 0 "Probation hostel cuts risk public safety, http://www.bbc.co.uk/news/uk-12375470 :When will they learn. Privatising public services does not work !" total_AG=1184.6918820755127
-
 292 34389878783348736 1 "Cuts at the BBC in full force. They're not even in the the stadium." total_AG=1184.1670127519396
-
 293 33502424622702592 0 "lEIA: BBC News - Weekly world news quiz http://www.bbc.co.uk/news/world-12241500" total_AG=1184.1169774332875
-
 294 34553453812387840 1 "BBC exodus: Huge bill for moving shows and staff around UK [pic] http://friendfeed.com/ivork/fe1d45d1/bbc-exodus-huge-bill-for-moving-shows-and-staff" total_AG=1180.9388030043385
-
 295 29940639818842112 0 "So Andy Gray sues the News of the World over phone tapping and then gets sacked by Sky over sexist comments? Yeah, totally unrelated." total_AG=1177.5483338343283
-
 296 31485272021536768 0 "@signerosberg tell him that he means the world to me " total_AG=1176.5844356314549
-
 297 34912073804681216 0 "http://service.tradepad.net/company-2889-ningbo-winbang-electronics-co-ltd.html  #service Ningbo Winbang Electronics Co., Ltd." total_AG=1176.4845417700158
-
 298 34778255236005888 0 "OTHER - Amerigas- Biggest crooks in the world.: I ended service with Amerigas in October of 2010 because w... http://amerigas.pissedconsumer.com/amerigas-biggest-crooks-in-the-world-20110207220345.html" total_AG=1175.0348984434984
-
 299 34109736261525504 0 "Get Quote Tonik Health Insurance Blue Cross San Francisco South Bay  #craigslist #services #financial #SFO http://3taps.com/w/BAAVZNZ" total_AG=1175.029349469989
-
 300 29733292613828608 0 "At Hoyts TTP, there were three Ticket staff on when I got here and no line. Now there is a massive line and one ticket staff." total_AG=1169.778196051199
-
 301 34932089400999936 0 "Diramazioni illustration featured in MY CIRCUS WITHOUT ANIMALS FOR A BETTER WORLD!  by DisgustingEmperor79 on @Etsy http://www.etsy.com/treasury/MTE1NTIxNTZ8MzY0Njkz/my-circus-without-animals-for-a-better" total_AG=1167.1945097185137
-
 302 33249624546480128 0 "19:57 BBC News and Regional News: The latest national and international news stories from the BBC, followed by Weather. http://www.bbc.co.uk/programmes/b00y8sy2" total_AG=1167.031183880716
-
 303 30374269892431872 0 "Listening to @TODDLAT on BBC Radio 1 while working. Dope dancehall right now!" total_AG=1166.5464108240794
-
 304 34142019685187584 0 "Clwyd Job: Urgent locum Staff Grade in Paediatrics - long term in Wales: Medecho - Denbighshire - Staff Grade... http://jobviewtrack.com/en-gb/job/e812c355d8687487a301f0f32291e30f.html?affid=7b2e27d9738a79f5 #Jobs" total_AG=1166.4301910608108
-
 305 29943747139604480 0 "BBC News - Lord Taylor guilty of making false expenses claims http://www.bbc.co.uk/news/uk-politics-12275821" total_AG=1165.8417080031604
-
 306 34100702682816512 0 "Cameron rules out major tax cuts: &quot;Significant&quot; tax cuts will be ruled out while the government is cutting spend... http://www.bbc.co.uk/news/uk-politics-12375561?utm_source=twitterfeed&utm_medium=twitter" total_AG=1162.8188869373337
-
 307 32834102369456130 0 "Senior Staff Technologist (Naturejobs.com) at Maharastra: JOB DESCRIPTION *Position title * Sr. Staff Technologist... http://www.classifs.com/Maharastra/biotech-pharma-jobs" total_AG=1160.9373702611565
-
 308 31485846519545856 0 "I'm tired of living in this world" total_AG=1160.1661842354954
-
 309 33960633200279552 0 "Surgery Jobs: RN Acute Care: Nursing Registered Nurse/Staff Nurse (RN) at Bassett Medical Center in NY http://www.hospitaldreamjobs.com/JobDescription.aspx?tag=Twitter&JobID=10572600&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Surgery+Jobs&utm_term=surgery #hospital, #jobs" total_AG=1158.2717409020347
-
 310 34934670521016320 0 "then where is ur home? @ghecil This world is not my home" total_AG=1158.246474321587
-
 311 34329741490135040 0 "Google exec. feared 'taken' by Egyptian security forces: COM STAFF A Google executive who has been missing for m... http://www.jpost.com/Breaking-News/Google-exec-feared-taken-by-Egyptian-security-forces" total_AG=1155.8865212919136
-
 312 31295093545635840 0 "World news links Davos 2011: Aung San Suu Kyi speech in full - BBC: BBC - Burmese pro-democracy leader Aung San ... http://www.grnlive.com/apps/blog/show/5977071?utm_source=twitterfeed&utm_medium=twitter" total_AG=1149.4243941058544
-
 313 34952194402811904 0 "Save BBC World Service from Savage Cuts http://www.petitionbuzz.com/petitions/savews" total_AG=1147.3853212848146
-
 314 29307050177597440 0 "Palestinian 'offers' in peace process - papers leaked - BBC News: The GuardianPalestinian 'offers' in peace proc... http://www.bbc.co.uk/news/world-middle-east-12263095" total_AG=1146.8081459425102
-
 315 30006250078998528 0 "Report: MINI’s next redesign to offer major “leap�? from current language http://www.leftlanenews.com/report-minis-next-redesign-to-offer-major-leap-from-current-language.html" total_AG=1146.6811750511001
-
 316 34934940659359744 0 "See Poddely Brand Manager James Collis-Pritchard in the live theatre at the Nursery World show http://www.nurseryworldshow.com/live-theatre" total_AG=1146.5646455898097
-
 317 31218241376358400 0 "@djlogansama south mimms service staff are ledge!" total_AG=1136.1847762926498
-
 318 34949851661729792 0 "BBC News - Charles Taylor lawyer storms out of war crimes trial http://www.bbc.co.uk/news/world-africa-12389550" total_AG=1135.5340281123629
-
 319 30276766429880320 0 "BBC Sport: All-rounder Sean Ervine pulls out of Zimbabwe's World Cup squad to continue his county career with Ha... http://news.bbc.co.uk/sport1/hi/cricket/counties/hampshire/9376803.stm" total_AG=1133.245852453014
-
 320 34936400340058112 0 "World Youth Chess Championship 2011 - Caldas Novas, Brazil, is the new venue: Source: www.dailychesslesson.com -... http://www.dailychesslesson.com/?p=15170&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+DailyChessLesson+%28Daily+Chess+Lesson%29" total_AG=1131.9131883203036
-
 321 30620268149866496 0 "World News: US diplomat kills two Pakistanis: An American diplomat in the Pakistani city of Lahore has shot and ... http://www.bbc.co.uk/news/world-south-asia-12298546?utm_source=twitterfeed&utm_medium=twitter" total_AG=1130.504628951205
-
 322 34933149133705216 0 "Verizon's #iPhone 4 packs 'world mode' chip - http://www.newzfor.me/Shorten.aspx?shorten=ctar" total_AG=1126.7204537826112
-
 323 34949400304435200 0 "@technicalfault loving those swinging cuts in public services, groovy baby..." total_AG=1124.9837326449604
-
 324 30419535756533762 1 "BBC reporter told me recently he still gets thanked by Jewish people in Paris for the World Service's role during WW2. http://www-nc.nytimes.com/2011/01/27/world/europe/27bbc.html?=hp&_r=6&" total_AG=1121.381837825295
-
 325 34771675715211265 0 "New post: Is it a disaster waiting to happen? - Someone had to post on it. It's Rugby World Cup year.  The Great Fea... http://www.beingfrank.co.nz/is-it-a-disaster-waiting-to-happen" total_AG=1121.142259407896
-
 326 30163260250521600 0 "Very informed reaction from the staff attending the staff meetings to discuss restructuring yesterday.  Good constructive debate. Bodes well" total_AG=1119.1330925252776
-
 327 32585308528713728 0 "What Business Is It When The Fckin World Know And Yo ' Main ' Ah Damn Fool For Stayin` . . Bitch Yu Ah Fooh . . I Wish He Would . Fck Love !" total_AG=1118.7027331240197
-
 328 33584653612875776 0 "Cuts to Forest Service are too deep http://www.policyalternatives.ca/publications/commentary/cuts-forest-service-are-too-deep #BC &quot;94 per cent of BC is Crown or public land&quot; “war in the woods�? #eco #cndpoli" total_AG=1116.2389154080838
-
 329 33925179675516928 0 "The biggest threat is a professional library service.  Local enthusiasts determined to keep library open, but Council won't pay for staff." total_AG=1116.162889999889
-
 330 34929624383234048 0 "I wonder when the BBC will take an objective view of productions like Outcast, Spooks, Dr Who and realise they (cont) http://www.twitlonger.com/show/8me5fj" total_AG=1116.0691334405635
-
 331 33553634578931714 0 "CheckOut @NetSparsh: 10 Insanely Great iPad Apps We Can’t Wait to Use - 10 Insanely Great iPad Apps We... http://netsparsh.com/wp/blog/2010/04/02/10-insanely-great-ipad-apps-we-cant-wait-to-use/" total_AG=1114.284529898682
-
 332 33324493715808256 0 "Rugby Union from BBC World Cup no distraction - Hines - Players will not have one eye on the World Cup as the Six Na... http://news.bbc.co.uk/sport1/hi/rugby_union/scottish/9386553.stm" total_AG=1110.5509301208645
-
 333 34834260657446912 0 "HSE will be closed by HG, staff levels to be cut by 8000 | TopNews ...: Company News · Real Estate · Hotels Sect... http://topnews.ae/content/26052-hse-will-be-closed-hg-staff-levels-be-cut-8000" total_AG=1103.0036440004387
-
 334 30236041789050880 1 "Details of the BBC World Service cuts - Guardian http://www.theguardian.com/media/2011/jan/26/bbc-world-service-cuts via @kevglobal @sambrook [&quot;30 million listeners around world&quot;]" total_AG=1102.1316766219722
-
 335 29084350452600832 0 "WN Language of signs and hints at Iran nuclear talks - BBC News: CBC.caLanguage of signs and hints at Iran nucle... http://www.bbc.co.uk/news/world-middle-east-12261073" total_AG=1100.9085399916244
-
 336 30149086560657409 1 "BBC World Service axes five language services      (AFP) - AFP - The BBC World Service has said it will close five o... http://news.yahoo.com/s/afp/20110126/wl_uk_afp/britainmediabbc/" total_AG=1100.3303969030906
-
 337 34696531139371008 0 "BBC News - South Sudan backs independence - results http://www.bbc.co.uk/news/world-africa-12379431" total_AG=1100.0530746499214
-
 338 34937780991688704 0 "DTN World News: Pair leapt from burning city flat: Two people are taken to hospital after they leapt from a seco... http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-12390129?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=DTN+World+News%253A" total_AG=1099.3559612316042
-
 339 34355020711337984 0 "'Scores' of cuts in Obama budget: President Obama's upcoming budget will propose cuts to &quot;scores&quot; of federal spending programs, accor..." total_AG=1097.8281140804659
-
 340 29103119283523584 0 "Sign language: The unspoken messages behind Iran nuclear talks impasse http://www.bbc.co.uk/news/world-middle-east-12261073?utm_source=twitterfeed&utm_medium=twitter" total_AG=1097.3335370776647
-
 341 29109203574464512 0 "Job Post : Nurse Vacancies for Year 2011 (Staff / Senior Staff / Research / Executives) -- RECRUIT EXPRESS PTE L... http://siva-sg.jobstreet.com/_ads/sg/jobs/2011/1/r/20/2469182.htm?fr=R&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Jobs+Singapore" total_AG=1091.9734343064029
-
 342 34607321665507329 0 "�?�れ�?�最終�?論�?��?�る�?��?��?�？ BBC Sport - Football - Sepp Blatter hints at 2022 summer World Cup in Qatar http://news.bbc.co.uk/sport2/hi/football/9387891.stm?utm_source=BBC+Middle+East&utm_medium=twitter" total_AG=1089.7360424198519
-
 343 30299217419304960 1 "BBC World Service confirms cuts: TV News: Broadcaster to lose Macedonian, Albanian and Serbian programming -- Th... http://variety.com/2011/scene/news/bbc-world-service-confirms-cuts-1118030946/" total_AG=1084.3823731715468
-
 344 34951749731090432 0 "http://www.travod.com/ if you are interested in professional global translation services" total_AG=1083.0624418483621
-
 345 34756451956166656 0 "@iamwill @TMobile I never have service when I go into a stadium, or large parade, or Disney World...and i have T-mobile" total_AG=1082.1310935609015
-
 346 33231028642385920 0 "World News: Karachi police swoop on 'killers': Police in Pakistan's southern port city of Karachi arrest three m... http://www.bbc.co.uk/news/world-south-asia-12360896?utm_source=twitterfeed&utm_medium=twitter" total_AG=1080.5379396989551
-
 347 34707839490588672 0 "has just done a job in Petty Theft in #MobsterWorld http://www.playmobsterworld.com/?platform=twitter&amp;source=oneline_dojob" total_AG=1079.4135221035006
-
 348 30809856231342080 0 "BBC News - US diplomat charged with Pakistan double murder  http://www.bbc.co.uk/news/world-south-asia-12304457" total_AG=1078.7697801271856
-
 349 32740337151643648 0 "Head of Tymoshenko's staff summoned to PGO for questioning, says Batkivschyna press service http://www.interfax.co.uk/ukraine-general-news-bulletins-in-english/head-of-tymoshenkos-staff-summoned-to-pgo-for-questioning-says-batkivschyna-press-service/" total_AG=1078.7282695421993
-
 350 31698534671581184 0 "BBC London: Residents march over council cuts http://www.bbc.co.uk/news/uk-england-london-12318150" total_AG=1077.8073664585181
-
 351 31066259206447105 0 "Been very reminiscent of Bible College tenure over the past few days... Much of who I am in ministry I owe to IBC/Calvary Tab &amp; staff..." total_AG=1077.0004547809078
-
 352 34462866182639616 0 "http://service.tradepad.net/company-1699-zhejiang-kangle-color-printing-co-ltd.html  #service Zhejiang Kangle Color Printing Co., Ltd." total_AG=1076.555943856747
-
 353 29209817457360896 0 "CUT #TAXES: #Save $32 MILLION by eliminating Justice Dept's Community Relations Service. #waste #tcot #ocra #youcut @GOPLeader" total_AG=1076.287379146122
-
 354 34934069821186048 0 "#MikeBailey: Best way to enjoy the Super Bowl: Golf and DVR | World Golf News http://www.worldgolf.com/newswire/browse/66160-Mike-Bailey-Best-way-enjoy-Super-Bowl-Golf-and-DVR&nbsp;…" total_AG=1066.8805416416267
-
 355 29491259903049728 0 "Toyota holds on as top carmaker: Toyota beats General Motors to end 2010 as the world's largest carmaker despite... http://www.bbc.co.uk/news/business-12264396?utm_source=twitterfeed&utm_medium=twitter" total_AG=1065.2964180576191
-
 356 32725926353571840 0 "DTN World News: Hagman to return for new Dallas: US actor Larry Hagman has signed up to appear in a remake of th... http://www.bbc.co.uk/news/entertainment-arts-12342985?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=DTN+World+News%253A" total_AG=1060.0948966188682
-
 357 34948012610420736 0 "The average face of women across the world. : pics http://www.reddit.com/r/pics/comments/ffwlo/the_average_face_of_women_across_the_world/" total_AG=1058.9365586227811
-
 358 34807887138131968 0 "http://service.tradepad.net/company-2613-ningbo-jiangbei-ocean-star-trading-co-ltd.html  #service Ningbo Jiangbei Ocean Star Trading Co." total_AG=1049.6308736413177
-
 359 30399823257534465 0 "Massachusetts budget cuts: Biggest in 20 years: Massachusetts is bracing for the biggest budget cuts in 20 years... http://money.cnn.com/2011/01/26/news/economy/Massachusetts_Patrick_budget/index.htm?section=money_topstories&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+rss%2Fmoney_topstories+%28Top+Stories%29" total_AG=1049.2545890578153
-
 360 34340808291254272 0 "'Scores' of cuts in Obama budget: President Obama's upcoming budget will propose cuts to &quot;scores&quot; of federal spe... http://money.cnn.com/2011/02/06/news/economy/budget_cuts/index.htm?section=money_topstories&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+rss%2Fmoney_topstories+%28Top+Stories%29" total_AG=1048.6986231190642
-
 361 31089355871223808 0 "BBC News - Mother of James Blunt defends her son to BBC http://www.bbc.co.uk/news/entertainment-arts-12308068" total_AG=1048.1258808843525
-
 362 30019432113766400 0 "Link Staffing Services Inc.-Texas Food Sales Representative job in Dallas, TX Dallas, TX  #america #usa #jobs http://www.website-unavailable.com/?wc=EWJvEgpmDBtfBxZ1GAkDEQ==&url=ping%2Efm%2FPMThY" total_AG=1046.0570458017248
-
 363 34200890051141634 0 "http://service.tradepad.net/company-1006-dongguan-city-small-ear-electronic-co-ltd.html  #service Dongguan City Small Ear Electronic Co." total_AG=1044.888477398738
-
 364 34613104696360960 0 "http://service.tradepad.net/company-2098-yuyao-huanyu-lamps-co-ltd.html  #service Yuyao Huanyu Lamps Co., Ltd." total_AG=1043.2464112189907
-
 365 34212967838908418 0 "http://service.tradepad.net/company-1037-shenzhen-justtide-tech-co-ltd.html  #service Shenzhen Justtide Tech Co., Ltd." total_AG=1043.2464112189907
-
 366 34487777118654464 0 "http://service.tradepad.net/company-1765-wujiang-wuzhou-plastic-co-ltd.html  #service Wujiang Wuzhou Plastic Co., Ltd." total_AG=1043.2464112189907
-
 367 34798638530035712 0 "Nursing Jobs: Dialysis RN: Nursing Registered Nurse/Staff Nurse (RN) at CLEVELAND CLINIC FOUNDATION... http://www.hospitaldreamjobs.com/JobDescription.aspx?tag=Twitter&JobID=10550842&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Staff+Nursing+Jobs #nurse #jobs" total_AG=1038.2376680108393
-
 368 34859287251517440 0 "d'aww Dream High, haha that's nice. &quot;Music is the common language of the world. It's cliche, but it's the truth.&quot; heh, don't we know it~" total_AG=1033.6698965508406
-
 369 34936355322601472 0 "#singapore news: Cricket greats feature in new Bollywood film: MUMBAI : As teams prepare for the cricket World C... http://www.channelnewsasia.com/news?utm_source=CNA&utm_medium=twitter" total_AG=1031.6483232553358
-
 370 30373279034253313 0 "BBC News Hundreds walked by Belfast bomb: NI police have said a bomb left outside a Belfast shop was an &quot;anti pe... http://www.bbc.co.uk/news/uk-northern-ireland-12289914" total_AG=1027.092159543074
-
 371 29694513467367425 0 "Staffnote - Staff Attendance, Share Messages and Notes - Online Staff Attendance, Exchange… http://staffnote.com/" total_AG=1021.6508135489316
-
 372 34933490407444480 0 "If you ever find yourself stuck in the middle of the sea, I'll sail the world to find you." total_AG=1019.9997363551553
-
 373 34921541489664000 0 "IT services market finished 2010 on a record high: Computing staff,   Computing,  Tuesday 08 February 2011 at 07... http://www.computing.co.uk/ctg/news/2024691/services-market-finished-2010-record?WT.rss_f=News&WT.rss_a=IT+services+market+finished+2010+on+a+record+high" total_AG=1019.9705633201779
-
 374 34949728642924544 0 "@Markfergusonuk is there a link to the BBC news piece?" total_AG=1019.6788227482875
-
 375 33084568277884928 0 "O_o The Hell Is Going On In The World You Look Like Your My Dad Age How Are You Even Allowed To Inbox Me We Not Friends #Perv" total_AG=1019.542520492747
-
 376 34942986982789120 0 "Waterford Schools Cut Down February Break - http://radius.com/a/51_235812c89b" total_AG=1014.5278574724265
-
 377 30423507347181568 0 "00:50 Joins BBC News: BBC Two joins the BBC's rolling news channel. http://www.bbc.co.uk/programmes/b00y650t" total_AG=1011.9343148285834
-
 378 32237318962159616 0 "#internettv_news Luton Airport also adopts hologram staff - London Luton Airport has two new members of staff. And a... http://www.techwatch.co.uk/2011/01/31/luton-airport-also-adopts-hologram-staff/" total_AG=1007.4215755425869
-
 379 34937416888352768 0 "BBC News: Church gives blessing to iPhone confessions http://www.bbc.co.uk/news/technology-12391129?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=nettechnews" total_AG=1006.126140566538
-
 380 32046198844030976 0 "People Mgt: Blackpool council staff agree to pay cuts http://www.cipd.co.uk/pm/peoplemanagement/b/weblog/archive/2011/01/88/blackpool-council-staff-agree-to-pay-cuts.htm?utm_source=twitterfeed&utm_medium=twi-2011-01.aspx" total_AG=1004.9871109338353
-
 381 34777298276192256 0 "#top #stories Website: Chechen Rebel Leader Claims Airport Bomb (ABC News): Share With Friends:  |  | World ... http://feedzil.la/eMePEE" total_AG=1004.5336733328143
-
 382 30198105513140224 2 "BBC News - BBC World Service cuts to be outlined to staff http://www.bbc.co.uk/news/entertainment-arts-12283356" total_AG=998.0571706659391
-
 383 34896284196282368 0 "Is so pleased the @OlivierAwards are being broadcast on the BBC! #finally theatre has got some mainstream airtime outside of Comic Relief!" total_AG=997.4509786886766
-
 384 32610941329735680 0 "#top #stories JJB and JD Sports in merger talks (BBC): Share With Friends:  |  | World news - Top Stories Ne... http://feedzil.la/hbwNbJ" total_AG=994.1998478158225
-
 385 29462533077204992 0 "All about Banners: Be it promotion of products, services or anything else, there are numerous ways in which it c... http://www.articlesbase.com/web-design-articles/all-about-banners-4095597.html?utm_source=twitterfeed&utm_medium=twitter" total_AG=988.1244907478447
-
 386 32051400745684992 0 "Does Australia back Egyptian democracy? Don't count on it http://www.abc.net.au/unleashed/43330.html" total_AG=984.8422157811475
-
 387 30354304527241216 0 "Australia Forum - Video: http://www.abc.net.au/news/2010-03-26/australia-forum/382758 Story: http://www.abc.net.au/news/2010-03-26/missing-national-institution-proposed-for-canberra/381756 Info: http://www.canberrabusinesscouncil.com.au/pages/page174.asp 07 #ausvotes #auspol #qt #pmlive #qanda" total_AG=984.3389944387466
-
 388 30242865485447168 1 "#BBCWorldService carries out fundamental restructure to meet 16% savings required by Government Spending Review. Info: http://www.bbc.co.uk/pressoffice/pressreleases/stories/2011/01_january/26/worldservice.shtml" total_AG=976.9608891025397
-
 389 34718307084935168 0 "How the SM World reacted to Super Bowl ads - http://mashable.com/2011/02/07/super-bowl-commercial-buzz/ http://mashable.com/2011/02/07/super-bowl-commercial-buzz/" total_AG=976.0766481251367
-
 390 34076491243466752 0 "Daughter baking cupcakes. Kitchen trashed. All is right with the world." total_AG=972.1240844384953
-
 391 33103643406241792 0 "Internet Marketing Services Agency on the Internet is potential World Challenge, which contact business online: ... http://leisure.ezinemark.com/diva-sheryl-crow-puts-her-villa-up-to-online-auction-77367b8967e6.html" total_AG=970.023767967514
-
 392 30783443688230912 0 "I knew I couldn't be the only fan in the world with a girl like you.. I mean your BEAUTIFUL and I'm sure that he's a very nice dude.. #JCole" total_AG=970.008072561082
-
 393 33823403328671744 1 "World Service Cuts: Why We Need the BBC http://content.time.com/time/world/article/0,8599,2045502,00.html" total_AG=968.2685939662473
-
 394 34674358152593408 0 "Business in #Sussex? Beck Business Services can help you cut costs   http://www.beckbs.co.uk/" total_AG=965.9455309103242
-
 395 34792710141378560 0 "#top #stories Fonseka rally planned for S Lanka (BBC): Share With Friends:  |  | World news - Top Stories St... http://feedzil.la/i2ORH0" total_AG=960.8667338126238
-
 396 33296892091699200 0 "@DanWetzel So if UGA didn't pay Stafford, did he take a pay cut to leave high school? Hahaha" total_AG=960.0465128847926
-
 397 34638664097079296 0 "Spinner Swann steps up recovery - BBC News http://news.bbc.co.uk/sport2/hi/cricket/england/9388928.stm" total_AG=958.4278028525556
-
 398 29117651632521216 0 "BBC apology for Japan bomb jokes: The BBC apologises after Japan's embassy complained over jokes broadcast on co... http://www.bbc.co.uk/news/entertainment-arts-12260577?utm_source=twitterfeed&utm_medium=twitter" total_AG=953.6470675355073
-
 399 34632054121439234 0 "SGVHS will soon have a blog, penned by a very special furry member of staff!  As soon as it's up and running we'll let you know!" total_AG=944.4717036747834
-
 400 29379252235272192 0 "DTN World News: Recovery 'unevenly spread' in UK: Economic recovery will be &quot;unevenly spread&quot; across the country... http://www.bbc.co.uk/news/business-12262995?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=DTN+World+News%253A" total_AG=938.7409933084328
-
 401 33911876198862848 0 "Budget cuts: British austerity and the price of black swan insurance -- http://www.economist.com/blogs/freeexchange/2011/02/budget_cuts" total_AG=937.7273268188059
-
 402 34852269115580416 0 "BBC News - Russian volcano erupts sending ash four kilometres high http://www.bbc.co.uk/news/world-europe-12385920" total_AG=936.3994285092022
-
 403 34352312872869888 0 "At Meadowbank wharf. Commuters concerned about ferry privatisation and service cuts under NSW Libs #nswvotes" total_AG=926.3095657927664
-
 404 30228477894463488 0 "#art Since being told that content is possible to Local navigation Skip to search Help BBC Weather TV Radio more Help Terms of BBC embedded" total_AG=922.7570544180522
-
 405 34458532887662592 0 "Cut Your Printing Costs With Inkjet Cartridge Refill Services http://www.passport2riches.ws/cut-your-printing-costs-with-inkjet-cartridge-refill-services/" total_AG=908.3847311852002
-
 406 34895445134147585 0 "Age of Ice part 1- Russia: The first final of the 2011 FIM Ice Racing World Championship was held this weekend i... http://www.fim-live.com//en/media/news/news-detail/article/1297154434-age-of-ice-part-1-russia/?utm_source=twitterfeed&utm_medium=twitter" total_AG=905.9434657754092
-
 407 34871207165693952 0 "Stage is set, will be live tweeting from our #SMWLDN event: Protecting Reputation In A Digital World http://bit.ly/HK_SMW. Do share any Qs" total_AG=905.210914093977
-
 408 34906319127314432 0 "@GabIsGleetastic  cut it all off." total_AG=903.3666032935365
-
 409 30318012988923905 0 "US deficit 'back to 2009 level': Tax cuts will help return the US budget deficit to nearly 10% of economic outpu... http://www.bbc.co.uk/news/business-12291143?utm_source=twitterfeed&utm_medium=twitter" total_AG=903.2023764999215
-
 410 29407064786739200 0 "Palestinians dispute leaked 'offers': Top Palestinian officials question the veracity leaked documents claim... http://www.bbc.co.uk/news/world-middle-east-12263671?utm_source=twitterfeed&utm_medium=twitter BBC" total_AG=899.7423171368655
-
 411 34845080003022848 0 "@errantwanderer: Does staff have 2 days off too?" total_AG=899.3219481772292
-
 412 30615645682925568 0 "@Maxwell3278 lol; I'm the best of both worlds" total_AG=896.1236968862277
-
 413 34623437011951617 0 "Learn all about the upcoming BBC comedy cuts in the new blog. Also, I say rude things about Harry Enfield. http://www.mediawank.com/2011/02/not-so-funny-business.html" total_AG=895.9506736384108
-
 414 34628078042873856 0 "@robstenguide Have you read the Terms of Service of Wordpress? &quot;Blog cannot contain threats or incite (cont) http://www.twitlonger.com/show/8lt5fl" total_AG=891.0745158863131
-
 415 33022313171525632 0 "10 Questions You Must Ask Your Service Provider Before Purchasing a Broadband Plan http://www.freearticles2.info/Broadband-Internet/10-questions-you-must-ask-your-service-provid_32124125140i_Feb2011.html?utm_source=twitterfeed&utm_medium=twitter" total_AG=890.4012762757816
-
 416 32240123013767168 0 "Student Service = emphaised to library staff that 1st years are essentially children - need to entertain as well as inform &lt;-- hmmm #aliaioc" total_AG=889.9197141454786
-
 417 34544817887252480 0 "BBC News - Belgian Stefaan Engels completes record 365th marathon http://www.bbc.co.uk/news/world-europe-12375646 #fb" total_AG=887.2265146261983
-
 418 29410102456885248 0 "BBC- Palestinians dispute leaked 'offers': Top Palestinian officials question the veracity leaked documents clai... http://www.bbc.co.uk/news/world-middle-east-12263671?utm_source=twitterfeed&utm_medium=twitter" total_AG=883.0875508179873
-
 419 34889484864585728 0 "Work at Sydney Airport? We treat the staff right with a Staff Menu. Show your ID to your server. #mjcsyd #freshonthego" total_AG=882.844677841501
-
 420 29971808702701568 0 "House Approps Chmn Rogers: staff going through budget 'line by line' for cuts for FY11 stopgap. May be sign cuts won't be across-the-board" total_AG=879.4962923572073
-
 421 29939220936134656 0 "Media Jobs: BBC: Sales Executives, BBC Magazines: unknown:&#10;&#10;BBC:&#10;As one of our Sales Executives you’ll specialis... http://jobs.brandrepublic.com/job/407446/sales-executives-bbc-magazines/?TrackID=2" total_AG=878.3801167563253
-
 422 34192568942071808 0 "BBC News - Sumo tournament cancelled amid match-fixing scandal‎ http://www.bbc.co.uk/news/world-asia-pacific-12375649 大相撲春場所中止" total_AG=874.2382351862911
-
 423 31766064534650880 0 "New Review: &quot;Personal dentists' service and friendly staff at Blandford Gentle...&quot; http://www.thediscdirectory.co.uk/sw/dt/blandfordforum/healthcare/dentists/gentle-dental-blandford-forum-4848847.html" total_AG=871.2638352654864
-
 424 29300667910717441 0 "Dominican Republic confirms first cholera death |BBC| http://www.bbc.co.uk/news/world-latin-america-12263115" total_AG=870.0632466905829
-
 425 30492945153003520 0 "@Vagaroam I write about food and travel 50/50 and love it when the worlds collide. Food is an integral part of traveling for me." total_AG=867.7427644286721
-
 426 31726868059131904 0 "Swinney criticises city job cuts http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-12319158" total_AG=864.1792615106885
-
 427 34903151513440256 0 "You must be the change you wish to see in the world" total_AG=863.7145867111116
-
 428 30700502123544576 0 "goodnight world!" total_AG=863.0928635892694
-
 429 34948891052867584 0 "... Can't decide if it's a coldplay or nina simone kind of morning. Thoughts, twitter world?? ... #fb" total_AG=861.872660054218
-
 430 31701120082518016 0 "BBC News : Balls questions King's cuts view: Shadow chancellor Ed Balls doubts Bank of England governor Mervyn K... http://www.bbc.co.uk/news/uk-politics-12317510?utm_source=twitterfeed&utm_medium=twitter" total_AG=857.8880722076623
-
 431 34880799350202368 0 "BBC News - Sri Lankan adventures to lure tourists http://www.bbc.co.uk/news/business-12281003" total_AG=857.583468867413
-
 432 30071404720300033 0 "bbc Concerns over 'GP bonus system': The GP bonus system has been called into question after research suggests i... http://www.bbc.co.uk/news/health-12274602?utm_source=twitterfeed&utm_medium=twitter" total_AG=855.2084260815723
-
 433 31487089228906496 0 "@Honeys_Money  Hell nawl no service" total_AG=852.8534944894643
-
 434 34906600250548224 0 "Become a Host School and have free training for your support staff team.&#10;Contact catherine@trainyourschool.co.uk" total_AG=851.3531517104321
-
 435 30360018473713664 1 "BBC World Service axes five languages, 650 jobs &#10;    (AFP): AFP - The BBC World Service said Wednesday it would ... http://news.yahoo.com/s/afp/20110126/wl_uk_afp/britainmediaradiobbc/" total_AG=848.6798258267676
-
 436 34934211093733377 0 "Gm world!!" total_AG=846.4380972703914
-
 437 34884310024728576 0 "Cold world" total_AG=846.4380972703914
-
 438 31491005534437377 0 "nyt world" total_AG=846.4380972703914
-
 439 31485908649779200 0 "@robgokee Welcome to my world." total_AG=846.4380972703914
-
 440 31627316090114048 0 "@VegasStorytime it's aiiiight. Hottest girls are def the staff. I prefer this joint on Sunday's n Monday's.. Bout to step to marquee.." total_AG=841.2181633878203
-
 441 34902244843470848 0 "@elliegoulding Please please please tell Stena Line! http://www.hugedomains.com/domain_profile.cfm?d=gofiq&e=com goFIQ is a UK Company improving the worlds service! Please?" total_AG=840.0692735523011
-
 442 31220758067814400 0 "Necesitamos Staff. We Need Staff. Quien Se ofrecer? Who Wants?" total_AG=830.8395900826944
-
 443 31485879465803776 0 "Now this is one *LUCKY* guy! http://www.bbc.co.uk/news/uk-12317356" total_AG=828.5837909683349
-
 444 34893909884669952 0 "Cut steak with vegetable salsa http://twitpic.com/3xn4kb" total_AG=825.1108995908095
-
 445 34884833444368384 0 "#nowplaying Cut Copy -'Zonoscope' #ausmusic" total_AG=825.1108995908095
-
 446 32087637779021824 0 "A quick glance at some of the technology stories breaking in the weekend papers http://www.siliconrepublic.com/business/item/20162-weekend-news-roundup via @siliconrepublic" total_AG=807.0378378603789
-
 447 34942316573626368 0 "Corporate Staff Accountant - http://www.internships2011.com/pennsylvania-internships/wayne/corporate-staff-accountant-J8D7JL5XZH24HG155TK.html #internships #SolomonEdwardsGroup #Wayne" total_AG=803.7721494883325
-
 448 29715156388810754 0 "@Aqua_Buddah @barackobama I have said before: AUDIT personal finances of SCOTUS Justices and staff!" total_AG=784.2999926164025
-
 449 33395096489566209 0 "BBC Sport - Football - Fifa opens 'corruption' hearing appeals: Football's world governing body Fifa starts hear... http://www.blogbookmark.com/story.php?title=bbc-sport-football-fifa-opens-corruption-hearing-appeals&utm_source=twitterfeed&utm_medium=twitter" total_AG=776.6128463862245
-
 450 30500781002063872 2 "A shame for info dissemination!  BBC confirms World Service cuts - http://www.bbc.co.uk/news/entertainment-arts-12283356" total_AG=773.9136167481199
-
 451 34755352532623360 0 "Social Services: Senior Communications Manager (Ref.: HKU/SCM /11/01)  - OXFAM HONG KONG http://www.seekjobs.asia/Hong_Kong/Search_Job/Civil_&_Social_Services/5298312/?utm_source=twitterfeed&utm_medium=twitter" total_AG=771.0539568937891
-
 452 32639842919645185 0 "Library study calls for staffing cuts: Two of four proposed service models ...: The proposed models recommend cu... http://www.mercurynews.com/breaking-news/ci_17263883" total_AG=768.2743062560676
-
 453 31202325624266752 0 "Pittsburgh Steelers Chances to Win the Super Bowl - Doc's Sports Service http://www.docsports.com/2011/pittsburgh-steelers-chances-to-win-super-bowl-573.html SteelersMobile" total_AG=767.0989499336824
-
 454 34447009125498881 0 "http://service.tradepad.net/company-1658-qingdao-tonghua-automated-control-technology-co-ltd.html  #service Qingdao Tonghua Automated Co" total_AG=766.4998462203896
-
 455 30407444110778369 1 "BBC to Trim World Service - New York Times http://www-nc.nytimes.com/2011/01/27/world/europe/27bbc.html?=src=twrhp&_r=6&" total_AG=765.2739536158685
-
 456 32117762864189441 0 "Amazon Launching a Netflix-like Unlimited Video Streaming Service  http://tiny.ly/oX9x" total_AG=761.617606869363
-
 457 34725541701627904 0 "It's official. People in the future live in IKEA showrooms. #outcasts #bbc" total_AG=760.3321177249272
-
 458 33939407534817280 0 "Grinding by myself live on camera, come and join me for 100 % free. http://www.openfreecam.com&nbsp;" total_AG=759.9699493531208
-
 459 34697496848646144 0 "&quot;BBC News   Home&quot; http://www.bbc.co.uk/news/" total_AG=757.6548709541443
-
 460 34860704469090305 0 "Aged Care Nurses required: Pulse Staffing are seeking Casual and Part-Time Community Aged Care Nurses for p... http://m.pulsejobs.com/ #job" total_AG=753.6754828822603
-
 461 29386330014220288 0 "I normally don't mind if my staff treat me as an equal, but if a staff acts like the boss while treating me like a staff? That's not good." total_AG=747.806596248506
-
 462 30091220889903104 0 "Yu Mean So Much To Me And I Dnt Even Knw Yur Name But I Knw That Im Yur Man And Yu My Girl And If I Ever Meet Yu Imma Give Yu The World.!&lt;3" total_AG=747.6352049736039
-
 463 34187281942183936 0 "New Issue! - LED World Time Travel Alarm Clock: ( — /5.0) LED World Time Travel Alarm Clock Product Name: LED Wo... http://www.website-unavailable.com/?wc=FwRnGAF5DXRADRduDggdFxQNThUGEA==&url=www%2Echeapprice4shopping%2Ecom%2Fled%2Dalarm%2Dclocks%2Fled%2Dworld%2Dtime%2Dtravel%2Dalarm%2Dclock%2F%3Futm%5Fsource%3Dtwitterfeed%26utm%5Fmedium%3Dtwitter" total_AG=741.8569158433465
-
 464 32513375283974145 0 "Calling all Indian land managers and tribal land office staff! We've got the conference for you. Please share! http://www.iltf.org/news/announcements/1st-tribal-land-staff-national-conference-set-april-18-20-2011" total_AG=737.48614660459
-
 465 34945315765231616 0 "#Hair Cuts | Trichet: Bondholder 'Haircuts' Would Send Wrong Market Message http://www.website-unavailable.com/?wc=EWJvEgpmDBtfBxZ1GAkDEQ==&url=ping%2Efm%2FGGNPS hair-cuts" total_AG=735.5697466242832
-
 466 34595314547560448 0 "Account Executive- For Leading IT Staffing &amp; Consulting Fir #Indeed #jobs #construction #facilities #SFO http://3taps.com/w/BACYBVC" total_AG=735.3383852127769
-
 467 34889723109449729 0 "100M plus utterly unfair cuts for #mcc sign http://manchesterpetition.org and RT please, see feed for 6 PDFs with details" total_AG=723.3362703278217
-
 468 32930976912904192 0 "Follow real time blogging and streaming on the BBC http://www.bbc.co.uk/news/world-middle-east-12307698  #EGYPT" total_AG=722.4417232128187
-
 469 34200991268208641 0 "Business Development Executives (Lahore): A well reputed company requires the following staff… http://www.careermidway.com/jobs/lahore/business-development-executives/28414?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%253A+careermidway+%2528Careermidway.com+%257C+Latest+Jobs+Daily%2529" total_AG=720.0464061163191
-
 470 33521585340022784 0 "Gd article about Labour engaging with reform of services. Lab shudn't be exclusively about cuts + public spending http://blogs.wsj.com/iainmartin/2011/02/04/large-hole-in-milibands-social-mobility-speech/?mod=wsj_share_twitter" total_AG=717.7880302487113
-
 471 34897505724399616 0 "bbc breakfast are using Jump by Criss Cross. Amazing stuff" total_AG=708.983906003112
-
 472 34807222911377408 0 "@Real_Liam_Payne Please Can You Follow/Tweet Me x It Would Mean The World x My Birthday Is On Valentines Day It Would Be The Best Present x" total_AG=704.9490716253637
-
 473 34617304075476994 0 "BBC &gt;&gt; Sir Bob calls Bill Turnbull stupid: Sir Bob Geldof talked to BBC Breakfast about his new album titled, Ho... http://www.bbc.co.uk/news/12382033" total_AG=701.3338719799038
-
 474 34396059736211457 1 "@Guymowbray @maltingsyork Wot? No chauffeur, Guy? I suddenly feel marginaly better about the imminent demise of the World Service." total_AG=700.4257118706805
-
 475 34756421987864576 0 "BBC - BBC Radio 3 Programmes - The Choir, Top Ten Choirs: Aled Jones introduces choirs recently picked as... http://www.bbc.co.uk/programmes/b00y6ggg #choir" total_AG=697.7705960571061
-
 476 34901924344111104 0 "Analysis On Indian And World Stock Markets, Live Nifty Chart, Amibroker And Trading System http://www.stockmaniacs.net/" total_AG=697.5188478910284
-
 477 30681770034728960 0 "World News: Gabon politician seeks UN refuge: Gabon opposition leader Andre Mba Obame takes refuge in the UN com... http://www.bbc.co.uk/news/world-africa-12294344?utm_source=twitterfeed&utm_medium=twitter" total_AG=695.7693200386135
-
 478 34551264511528960 0 "Featured Job: Waiting Staff, Doncaster: Our prestigious client is currently looking for waiting staff to j... http://www.cv-library.co.uk/cgi-bin/view-job.cgi?rss=1&jobref=105153191&s=100218 #Jobs" total_AG=694.858654083243
-
 479 34510222357700608 0 "Pupils taken from class over cuts: Parents in the north of Skye are taking their children out of... http://www.bbc.co.uk/news/uk-scotland-highlands-islands-12379662?utm_source=twitterfeed&utm_medium=twitter (#sprnch)" total_AG=693.7281628241827
-
 480 34472237180391424 0 "IBM Stepping Up Its Game In Cloud Computer Market http://www.electronicshardwarereviews.com/electronics-reviews/ibm-stepping-up-its-game-in-cloud-computer-market.html?utm_campaign=IBM Stepping Up Its Game In Cloud Computer Market&utm_medium=twitter&utm_source=twitter #Cloud #Computer #Game #Market" total_AG=686.9942609481346
-
 481 30149947860983808 0 "I will never use @Tmobile again Mandy and Gloria in Customer &quot;Service&quot;, thanks for being UN-helpful." total_AG=683.7265276519415
-
 482 34309737851916288 0 "My Mother Was Blow Dryin Her Hair. That Shyt SIZZLED &amp; CUT OFF LMFAOO &amp;&amp; She Just Bought IT O WELL." total_AG=683.3201813152407
-
 483 34444744465584128 0 "http://service.tradepad.net/company-1652-yangzhou-wealth-traveling-articles-co-ltd.html  #service Yangzhou Wealth Traveling Articles Co." total_AG=683.226014625999
-
 484 29026049920602112 0 "http://urluda.com/3s01 Mr Slate asks Fred why there have been 3 searches for #free #shuttle #service #timetables?" total_AG=681.5912892314223
-
 485 32061324829659136 0 "Why the BBC's old guard called time on the Wibbly Wobbly Web | Technology | The Observer: &quot;The BBC needs to spen... http://www.theguardian.com/technology/2011/jan/30/bbc-world-service-cuts-networker?utm_source=twitterfeed&utm_medium=twitter" total_AG=677.1003570401931
-
 486 34947995170648064 0 "BBC reveal that outcasts not really set on another planet but North West England in 2012" total_AG=676.3587323396193
-
 487 33616287452106752 0 "Clinic closed for the night, time to relax, arguing with the staff,  QPR v Reading or England v Wales!" total_AG=674.8039618694954
-
 488 32783211335524352 0 "Contact centre staff raise cash in the battle against cancer: Staff at Sunderland-based contact centre 2Touch, h... http://www.callcentrehelper.com/contact-centre-staff-raise-cash-in-the-battle-against-cancer-15323.htm?utm_source=twitterfeed&utm_medium=twitter" total_AG=673.0703648829384
-
 489 34254070491512832 0 "Ik zag net een stukje op BBC World over #Green #racing endurance, check it out! http://www.engadget.com/2010/11/24/racing-green-endurance-team-completes-its-16-000-mile-electric/ and http://www.bbc.co.uk/news/uk-11354875 looks good!" total_AG=668.8728385538058
-
 490 34801093854773248 0 "http://service.tradepad.net/company-2595-fuqing-carnival-arts-amp-crafts-co-ltd.html  #service Fuqing Carnival Arts &amp; Crafts Co., Lt" total_AG=666.5712483071209
-
 491 34026930940416000 0 "#job Experienced Hospitality Staff Required, #Christchurch -City We are looking for experienced chefs, bar staff http://www.job3rd.com/jobs/view/id/214/" total_AG=656.2727946341541
-
 492 31740027205582848 0 "@GregAtkinson more awkward is when an old church staff (70) asks a young church staff (same church) if they are visiting and know Jesus" total_AG=652.080061338001
-
 493 33651740842659841 0 "[BBC World News] Burma's ex-PM named new president: Burma's parliament has named former general and outgoing Pri... http://www.bbc.co.uk/news/world-asia-pacific-12371204" total_AG=647.9338924495769
-
 494 32158658863304705 0 "Save BBC World Service from savage cuts http://www.petitionbuzz.com/petitions/savews" total_AG=647.5585686028799
-
 495 33480447178575873 0 "Tough cuts 'threaten all our futures': The government's claims that severe spending cuts are necessary to reduce... http://news.bbc.co.uk/2/hi/programmes/question_time/9387396.stm?utm_source=twitterfeed&utm_medium=twitter" total_AG=639.3894348482677
-
 496 34889179104149504 0 "08:32 Business Daily: The daily drama of money and work from the BBC. http://www.bbc.co.uk/programmes/p00dbw5f" total_AG=639.2363651503971
-
 497 29629635817906176 1 "BBC online cuts shows 'contempt' for hard working staff says NUJ (The Drum) http://www.mediauk.com/newspapers/news/go/124082/bbc-online-cuts-shows-contempt-for-hard-working-staff-says-nuj #medianews" total_AG=638.2245860770026
-
 498 34303174483382273 0 "BBC Devon News: Dismay over cuts to abuse funding: A charity which helps victims of domestic abuse says it will ... http://www.bbc.co.uk/news/uk-england-devon-12377005" total_AG=634.4529203187537
-
 499 34918966904229889 0 "#BreakingNews #World New vaccine hope in fight against flu: Researchers hope a new treatment developed in the Un... http://edition.cnn.com/2011/HEALTH/02/07/universal.flu.vaccine.research/index.html?eref=edition&utm_source=twitterfeed&utm_medium=twitter" total_AG=634.1841552743374
-
 500 34242302733975552 0 "@shanerichmond Tuesday's Americana episode on World Service had Iv with Reagan's son on book about his dad. Interesting viewpoint on admin." total_AG=631.517721986615
-
 501 30191596309843968 0 "31 States, 1618 Languages, 6400 Castes, 6 Religions, 6 Ethnic Groups, 29 Major Festivals &amp; 1 Country.#ProudToBeIndian" total_AG=630.5310829371765
-
 502 34891169313996800 0 "@BEBHEQ hahaha cwnya samping gue cowonya depan gue..!! *parah* gue si nggu mereka gulet aja..baru gue cut..cut..cut expresinya manaaaaaaa??" total_AG=627.7485525355514
-
 503 29990983902961664 1 "Major cuts to BBC World Service (BBC): Share With Friends:  |  |  | Top News - Entertainment Ne... http://feedzil.la/evIV1Z @TweetSitter" total_AG=624.2344733813138
-
 504 30225639298568192 1 "@BBCLauraK Shouldn't that now be 'BBC Parts of the World Service'?" total_AG=622.0139011090338
-
 505 34171602044338176 0 "The Grocery Delivery Service industry is one of the fastest growing industries in America==&gt; http://www.doctortraffic.net/trafficmanager.php" total_AG=612.4988098863332
-
 506 34707878099161088 0 "work staff meeting in Venice." total_AG=608.2961785562962
-
 507 33915128260853761 0 "BBC News - At last - an explanation for 'bunga bunga' http://www.bbc.co.uk/news/world-europe-12325796 hmmm" total_AG=607.6078969427833
-
 508 33559470726447104 0 "[NEW] Rudman misses out on World title: Britain's Shelley Rudman misses out on World Cup title after she struggl... http://news.bbc.co.uk/sport2/hi/other_sports/winter_sports/9386703.stm?utm_source=twitterfeed&utm_medium=twitter" total_AG=606.2621997154525
-
 509 34930461952184321 0 "#news (TOI) timesofindia: World Cup: Sreesanth replaces injured Praveen Kumar http://toi.in… http://twitter.com/timesofindia/statuses/34924162115960832" total_AG=605.1654738059176
-
 510 34930476288442368 0 "#BrainwashedNation RT @siyantombela: 2012 End of the World floods have begun in Melrose Arch lol  http://pics.lockerz.com/" total_AG=604.1792705190923
-
 511 34292588471123968 0 "BBC News - Indian navy seizes pirates' Indian Ocean mothership http://www.bbc.co.uk/news/world-south-asia-12376695" total_AG=603.9617274931213
-
 512 29575250068897794 0 "@GregoryProject I don't care for them either. Aside from almost getting run over by the van-driving hockey Mom, the staff didn't have a clue" total_AG=598.5991321767661
-
 513 34886228193198080 0 "BBC-news更新 Government to increase bank levy http://www.bbc.co.uk/news/business-12389416 #bbc" total_AG=597.4965824962213
-
 514 29137476316569601 0 "Holocaust is remembered at event: The Holocaust and other genocides across the world are remembered at an event ... http://www.bbc.co.uk/news/uk-england-merseyside-12261501" total_AG=597.2235248432086
-
 515 34507566629261312 0 "Everyday the same little Sun reading chav gets to the station cuts past of everyone standing there and jumps on the train #iblametheparents" total_AG=594.4697382012303
-
 516 34779199482888192 0 "Yoga News Tranquil setting of Cantigny Park provides perfect backdrop for yoga: By Staff reports Yoga in the Par... http://www.mysuburbanlife.com/" total_AG=583.9116431421544
-
 517 34596009799581697 0 "FYI: Take A Bite: Foster's Macworld 2011 Tour &amp; Giveaway - By: Foster Scott (Contributing Editor) Staff... http://www.myrealitytech.com/macworld-2011-fosters-tour-giveaway/ #MRT" total_AG=583.4379218003426
-
 518 34100304148434946 0 "JobG8: IT Staffing Account Executive (Norcross, Georgia) http://staffingpower.com/display_job/180461/IT_Staffing_Account_Executive.html #Jobs" total_AG=577.8223901119286
-
 519 34870823353323520 0 "Best Web Hosting Service http://feeds.feedburner.com/~r/admad/tKXF/~3/Cw0TMo1GEv8/?utm_source=feedburner&utm_medium=twitter&utm_campaign=admadindia" total_AG=576.3864680392377
-
 520 33501942902685696 0 "Hundreds to rally against SUNY cuts - Hundreds are expected to protest SUNY budget cuts and proposed tuition hikes t... http://albany.twcnews.com/content/your_news/532355/hundreds-to-rally-against-suny-cuts/" total_AG=574.2258575424743
-
 521 30598140105072640 0 "Milwaukie's entire finance staff on the way out | OregonLive.com: The city's entire finance staff will turn over... http://www.oregonlive.com/milwaukie/index.ssf/2011/01/milwaukies_entire_finance_staff_on_the_way_out.html" total_AG=573.8034092107075
-
 522 29170344392654848 0 "INDUSTRIAL SALES Tool Service Corp, a large industrial - TOOL SERVICE CORPORATION -  Green Bay, WI: INDUSTRIAL S... http://www.indeed.com/viewjob?jk=576f13fcf77eb90c&from=rss&exp=1" total_AG=569.5502277349652
-
 523 29502956738969601 0 "Local government IT budgets and staff cuts ‘much lower than expected’&#10; http://www.computerworlduk.com/news/public-sector/3257644/local-government-it-budgets-and-staff-cuts-much-lower-than-expected/" total_AG=565.7334238886821
-
 524 33549983881895936 0 "new guarding shalom post: Part 3: A Sound Plan To Ensure The Kids You Raise Absolutely Positively Dominate The World &gt;&gt;&gt; http://tiny.ly/dlpt" total_AG=564.819759441791
-
 525 34872588857511936 0 "PAD call for big gathering on Fri Feb11, unknown venue. UDD call for a rally at Criminal court on Ratchadapisek, Sun Feb13.(via @jin_nation)" total_AG=558.5994810926427
-
 526 34931197188509697 0 "N Africa unrest hits Thomas Cook (BBC) http://feedzil.la/fUEvYD" total_AG=558.4660730636748
-
 527 30022487840391168 0 "Bbc | Online | Cut | Jobs | Service - http://thenewsportal.net/?p=721347 #news" total_AG=555.3832134463826
-
 528 33524120721428480 0 "@sussexlad I am but as BBC employee, I like to encourage folks to help pay for brilliant British television (I'm Canadian, our TV is shite)" total_AG=548.5559172076563
-
 529 30748753715527680 0 "Bilingual Customer Service Rep.: Company: Aerotek Location: Houston, Texas Requirements- Bilingual - fluent in... http://www.ihispano.com/job/employer/1886634/view/detail/results/aerotek/houston/texas&nosearch=0" total_AG=542.3641464700244
-
 530 30997660936704000 0 "If the art of diplomacy is to say nothing about the things you know, what's the art to say every- and anything... http://www.bbc.co.uk/blogs/legacy/worldservice/writerinresidence/2011/01/literature_and_journalism_part.html" total_AG=535.7316851123246
-
 531 33878396152840192 1 "Closure Of BBC Radio Service: Information Era Tragedy - Eurasia Review: OutlookClosure Of BBC Radio Service: Inf... http://www.eurasiareview.com/analysis/closure-of-bbc-radio-service-information-era-tragedy-05022011/" total_AG=535.1736555609907
-
 532 34792377113649153 0 "#nyt-world cup Timbers Forward Bright Dike Out 6 to 9 Months: Portland Timbers forward Bright Dike (DEE-kay) ha... http://feeds.nytimes.com/click.phdo?i=58fce9da75a88d4d13c7613310aac049&utm_source=twitterfeed&utm_medium=twitter" total_AG=533.018930865657
-
 533 34873300773502976 0 "Organized Crime: The World's Largest Social Network http://www.wired.com/2011/01/ff_orgchart_crime/" total_AG=524.3349666962336
-
 534 34390324029693953 0 "@BenCooper86 @PaulTwinn Shame :( Not even the commercial monster that is BBC Worldwide? lol" total_AG=522.8888668620541
-
 535 34526153217675264 0 "Wildfires Destroy Homes in Cyclone-hit Australia http://www.naharnet.com/?openform&C3B84C99FD2B311DC2257830002BA136 #World" total_AG=519.1042782105437
-
 536 32756779397947392 0 "Should at least have access to a brief outline of the crime and an easy feedback mechanism to report information about that specific crime." total_AG=519.0134515534232
-
 537 34664170259484672 0 "UCLA staff not Seto: UCLA still doesn't have a defensive coordinator after coach Rick Neuheisel's flirtati... http://collegetickets.biz/ucla-staff-not-seto/?utm_source=twitterfeed&utm_medium=twitter" total_AG=508.7413109083557
-
 538 29303189945716736 0 "Dominican Republic cholera death http://www.bbc.co.uk/news/world-latin-america-12263115?utm_source=twitterfeed&utm_medium=twitter @juancohen2" total_AG=505.85751794030125
-
 539 32916445591502850 0 "CheckOut @NetSparsh: Growth of the Internet from 1998 to 2008  - Growth of the Internet from 1998 to 2008... http://netsparsh.com/wp/blog/2010/03/09/growth-of-the-internet-from-1998-to-2008/" total_AG=502.98070678665147
-
 540 30554037510213632 1 "William Hague faces Tory criticism over BBC World Service cuts: ... it would conduct an inquiry into the implica... http://www.telegraph.co.uk/culture/tvandradio/bbc/8284521/William-Hague-faces-Tory-criticism-over-BBC-World-Service-cuts.html" total_AG=499.13407182866723
-
 541 34641380852629505 0 "#World #food prices hit record in Jan. - http://www.canoe.ca/Canoe/Money/business/international/archives/2011/02/20110203-082709.html #climatechange #ecomonday" total_AG=492.2832232659782
-
 542 34885972533452800 0 "Londoners step up cuts protests   http://www.presstv.ir/detail/163936.html" total_AG=483.27930408231276
-
 543 34952008683229185 0 "Latest:: Top World Releases http://globalclassified.net/2011/02/top-world-releases-2/" total_AG=477.4417771507685
-
 544 34946460357238784 0 "Movie: Spike and Mike's Cutting Edge Classics http://www.moviecityonline.com/spike-and-mikes-cutting-edge-classics/" total_AG=474.60245878560335
-
 545 29429100259057664 0 "Palestinians dispute paper leaks - http://www.bbc.co.uk/news/world-middle-east-12263671" total_AG=469.5763257307071
-
 546 30390314107666433 0 "Dear Cynthia Bowers. We forgive u for mid-staffs. We do not forgive you for making our lives hell. Yours sincerly CQC staff." total_AG=466.0663631086518
-
 547 34892425243660288 0 "jizzes RT @chawlieX: &quot;The World Would Be Boring Without Random People Kinda Like @LilykinsCUNT &quot; And For That, We Thank Yuw #FunnyTweetAward" total_AG=462.7835262326595
-
 548 33212352774017025 1 "Save  BBC World Service Drama Inquiry precipitated by announcement that World Service will slash spending by ₤46M http://www.savethebbcworlddrama.com/" total_AG=460.974648534639
-
 549 34603959033270272 0 "BBC Cymru: Gwynt: Swyddfa llywodraeth yn cau: Staff yn cael eu hanfon adre wrth i adeilad newydd £20 miliwn Llyw... http://news.bbc.co.uk/welsh/hi/newsid_9380000/newsid_9389600/9389648.stm" total_AG=456.99924932445185
-
 550 34917074212102144 0 "@Ghonim and for France 2 as BBC in france ;-)" total_AG=456.10729331699054
-
 551 34918395459674112 0 "Walcott advises Twitter caution (BBC) http://feedzil.la/fYYebF" total_AG=447.65277672573563
-
 552 34936439342899200 0 "[bcc] BG Group sees 2010 profits rise: Higher commodity prices help profits at energy producer BG Group jump 9% ... http://www.bbc.co.uk/news/business-12392087?utm_source=twitterfeed&utm_medium=twitter" total_AG=437.5838113517129
-
 553 34410291773050881 0 "Australia Medal for Design Institute's Madeline Lester: The award was for 'service to theprofession of interior ... http://www.architectureanddesign.com.au/article/Australia-Medal-for-Design-Institute-s-Madeline-Lester/527525.aspx" total_AG=436.70658632357225
-
 554 34728639425683457 0 "Watching Peter Green: Man of the World on BBC iPlayer.  Excellent prog, excellent guitarist." total_AG=436.6375783348491
-
 555 33168294152245248 0 "Leicester City add MK Dons player-coach Dietmar Hamann to their backroom staff. http://news.bbc.co.uk/sport2/hi/football/teams/l/leicester_city/9386293.stm?utm_source=twitterfeed&utm_medium=twitter http://www.visionsport.co.uk/" total_AG=428.28152804825123
-
 556 33044519750475776 1 "Listeners on three continents lament BBC World Service cutbacks | Media | The Guardian http://www.theguardian.com/media/2011/jan/28/bbc-world-service-cuts-response" total_AG=422.5477758157022
-
 557 30722460617805824 0 "CheckOut @NetSparsh: Google Goats Return to Lawn Mowing Duty in Mountain View - Google Goats Return to Lawn... http://netsparsh.com/wp/blog/2010/04/16/google-goats-return-to-lawn-mowing-duty-in-mountain-view/" total_AG=414.82288646501735
-
 558 30044145355591680 0 "Yahoo cuts 1% of staff ahead of earnings (Computerworld) - Share With Friends:  |  |  | Business - E-Business Storie... http://news.feedzilla.com/en_us/stories/business/e-business/50629964?client_source=feed&format=rss" total_AG=414.01827228232213
-
 559 30016851715031040 1 "A statement on the BBC World Service, ahead of staff briefings/ further details on Weds http://www.bbc.co.uk/pressoffice/pressreleases/stories/2011/01_january/25/world_service.shtml #bbcworldservice #bbccuts" total_AG=412.11822807736127
-
 560 33441501002342400 0 "If they capitalized the S, this could be misconstrued RT @abcnews: Residents told to leave as storms pound Victoria http://www.abc.net.au/news/2011-02-04/super-cell-thunderstorm-pounds-victoria/1930476?section=justin" total_AG=401.45123616985467
-
 561 33602042350010368 0 "College cuts could cost 37 posts (BBC) http://feedzil.la/hW91lM" total_AG=399.3289237630123
-
 562 30269207937548288 0 "BBC World Service confirmó el cierre de 5 de sus 32 servicios en lenguas extranjeras. Perderá 150 millones de escuchas http://www.bbc.co.uk/news/entertainment-arts-12283356" total_AG=390.6606850384723
-
 563 32569893618450433 0 "Brazil Quality Roofing - Transmission Auto Service Car Repair Shop ...: This business can Quality Inn Lexington ... http://www.tricitytrans.com/WkYg-brazil-quality-roofing.html" total_AG=385.33007658374197
-
 564 34934565327867904 0 "What does VCR mean in the party world???" total_AG=384.52277049481046
-
 565 29892575875833857 0 "Johnson set to return for 2011 TT: Lincolnshire's Gary Johnson will return to the TT in 2011 w... http://news.bbc.co.uk/sport2/hi/motorsport/motorbikes/9372887.stm?utm_source=twitterfeed&utm_medium=twitter BBC #Lincolnshire" total_AG=378.97803876675937
-
 566 34726680937369600 0 "Sea nomads slideshow. Four minutes thirtyeight seconds: http://www.bbc.co.uk/news/world-12354346" total_AG=365.8456363233265
-
 567 29881542083874816 0 "BBC: Heating oil market faces inquiry: The market for heating oil and other &quot;off-grid&quot; forms of energy ... http://www.bbc.co.uk/news/business-12274846 #economy" total_AG=364.8828416175378
-
 568 32106462016700418 0 "Carroll keen on Liverpool move (BBC): Newcastle striker Andy Carroll is keen on a proposed move to Liverpool BBC... http://news.bbc.co.uk/sport2/hi/football/eng_prem/9382215.stm?utm_source=twitterfeed&utm_medium=twitter" total_AG=363.5397835312682
-
 569 30767239233798144 0 "Did this have to happen - Who is suffering for who? http://www.bbc.co.uk/blogs/legacy/worldhaveyoursay/2011/01/cuts_and_job_losses_at_the_bbc.html" total_AG=360.98956354075557
-
 570 34919894097068032 0 "@juanpenguino Rapunzel accidentally had a hair cut?" total_AG=360.2829337169471
-
 571 33415288099700736 0 "From BBC Sport: Torres was worth £70m - Benitez: Former Liverpool boss Rafael Benitez tells the BBC a ... http://news.bbc.co.uk/sport2/hi/football/teams/l/liverpool/9387118.stm #football" total_AG=354.7977184570083
-
 572 31850686425600000 -2 "BBC World Service | Radio Frequency Guide [del.icio.us]: RT @BBCPhilippaT: Please RT @BBCNewshour: SW frequencie... http://www.bbc.co.uk/worldservice/schedules/frequencies/index.shtml?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Sacredfacts+%28SacredFacts%29" total_AG=354.57907571351785
-
 573 32478310793482241 0 "The staff at the Marriott in Hollywood Beach, Fl are steady griping front of guests. Whatever happened to customer service?" total_AG=354.32357481559285
-
 574 34885364355178496 0 "Service customer abeeess @fannyprasasty @dhiopratama" total_AG=354.32357481559285
-
 575 29336012429721600 0 "High Court OKs reopening of Israeli Gitmo http://blackflag-jihad.ucoz.org" total_AG=353.8308749043434
-
 576 29244822745260034 0 "Coverage starts 11pm GMT +3. TV coverage on the Internet for AJE http://www.livestation.com/en or AJA http://www.livestation.com/channels/43-al-jazeera-arabic" total_AG=346.8271579843251
-
 577 34613976952356864 0 "MegaPower Services is Leading Service Station for Maruti Suzuki cars in Jammu J&amp;K http://MegaPowerMaruti.com" total_AG=344.675035960482
-
 578 34334372953849856 0 "Legal aid cuts will have a cruel effect on vulnerable.(Features ...: Legal aid cuts will have a cruel effect on ... http://www.highbeam.com/doc/1G1-248304810.html?key=01-42160D517E1A1061100A0617076E4B2E224E324D3417295C30420B61651B617F137019731B7B1D6B39" total_AG=344.3061845817859
-
 579 34940996215111680 0 "This 6hrs of sleep ain't cutting it." total_AG=338.2759792903211
-
 580 34899331890814976 0 "Your voice  RT @kartikajahja: What is your favorite thing in the whole entire world?&quot;" total_AG=327.6262232450379
-
 581 33045690359889920 0 "#ALIAioc @TheLiB actively pursue open source; staff are adversley affected by financial cuts" total_AG=315.5644203512653
-
 582 34512565178613760 0 "@lbc973 The BBC staff will have to padlock all hub caps to their cars.  Will shell suits be compulsory dress? #bbc" total_AG=314.66313882300057
-
 583 30657079391813632 0 "@JDGDY @DCShalala Should be a staff decision, not the owners.Makes sense for staff to share with kitchen. Remember Duddy Kravitz. #nbpoli" total_AG=309.0632746087364
-
 584 29997002322345984 0 "Preach My Gospel: A Guide to Missionary Service (43 languages) http://tiny.ly/R21B #lds #missionary #mormon #missionaries #sharegospel" total_AG=296.2099764306034
-
 585 34885439919894528 0 "What is Sian Williams wearing on BBC breakfast!!!!??" total_AG=288.60742861630575
-
 586 29423030312640512 0 "Filtraciones sugieren que los palestinos ofrecieron a Israel parte de su territorio, fuente: BBC Mundo http://www.bbc.co.uk/mundo/noticias/2011/01/110124_documentos_secretos_palestinos_en.shtml" total_AG=286.30618584103524
-
 587 34932093502885888 0 "Cambridge University planning to raise fees to 9,000, BBC learns http://www.bbc.co.uk/news/education-12392734" total_AG=282.95892333006867
-
 588 34612306667114496 0 "La luna se aleja cada año de la tierra a un ritmo de 3,78cm @bbcmundo dedica un artículo a este tema http://www.bbc.co.uk/mundo/noticias/2011/02/110202_ciencia_luna_tierra_alejamiento_wbm.shtml" total_AG=281.5611296235845
-
 589 33148017498394624 1 "BBC in-house faces 15% cuts as pattern emerges #money http://www.hugedomains.com/domain_profile.cfm?d=myfeedme&e=com" total_AG=276.27325227501444
-
 590 34714824982134784 0 "Dutch recall envoy in Iranian row - http://www.bbc.co.uk/news/world-europe-12381284" total_AG=272.69078947600747
-
 591 34571364916535296 0 "♺ @PiratePartyUK: BBC interview with @LozKaye about #assange and #wikileaks: BBC http://www.bbc.co.uk/news/uk-12379794" total_AG=271.97565212087636
-
 592 34646326314541058 0 "College Tickets: UCLA staff not Seto http://collegetickets.biz/ucla-staff-not-seto/" total_AG=271.1371573825181
-
 593 34755549195145216 0 "Mumia 'After all the juice is gone, they throw him away.&quot; :: http://another-green-world.blogspot.com/ via Another #Green World :: #Egypt #jan25" total_AG=252.46719567081078
-
 594 29224350330654720 0 "En fotos: 60 años de videojuegos http://www.bbc.co.uk/mundo/noticias/2011/01/110121_galeria_videojuegos_bbc.shtml (@BbcMundo)" total_AG=237.7504567413886
-
 595 30325761801977856 0 "BBC World Service schrapt 650 banen: (Novum/AP) - De BBC gaat 650 banen schrappen bij zijn wereldomroep. Het gaa... http://www.nieuws.nl/buitenland/20110126/BBC-World-Service-schrapt-650-banen" total_AG=235.3671272363468
-
 596 29113433995608064 0 "The weird and wonderful from CES http://news.bbc.co.uk/2/hi/programmes/click_online/9369650.stm" total_AG=214.0799231233924
-
 597 34780826906394624 0 "Nasdaq Service Possibly Compromised - On Wall Street http://www.onwallstreet.com/news/nasdaq-omx-2671344-1.html" total_AG=211.8797791379268
-
 598 30986508492087297 1 "If the BBC mortgaged the #Strictly wardrobe to that (minted) wedding dressmaker in #MyBigFatGypsyWedding, they could save the World Service." total_AG=209.38173528991527
-
 599 34934988625420288 0 "World's Most Beautiful Birds Photos - http://coolhqpix.blogspot.com/2011/02/worlds-most-beautiful-birds-photos.html #bird #photos #photography RT @_Fleur__" total_AG=197.74434104105592
-
 600 34141526510534656 0 "[torrent] BBC Natural World - 2011 (english - PDTV): Natural World Is The Longest-Running Nature Documentary Ser... http://tvunderground.org.ru/index.php?show=episodes&sid=40711&utm_source=TVU&utm_medium=twitter" total_AG=192.8171187677405
-
 601 34871074684547072 0 "@jaeskeese716 &quot;Top Of The World&quot; = #Nice" total_AG=192.00150087107295
-
 602 29054742508347393 0 "A Sundance Tale: Liam Hemsworth Introduces An MTV Staffer To A World Of Pain http://www.filmring.com/notizie/a-sundance-tale-liam-hemsworth-introduces-an-mtv-staffer-to-a-world-of-pain.html" total_AG=189.41695788161684
-
 603 32797963470245888 0 "@nickminers @SFGPhoto It's ok - the BBC World Service can clarify things - http://www.bbc.co.uk/worldservice/learningenglish/radio/specials/1535_questionanswer/page2.shtml" total_AG=188.7926020586563
-
 604 30050959887433728 1 "heck. BBC weight loss. http://www.theguardian.com/media/2011/jan/25/bbc-world-service-jobs?CMP=twt_fd" total_AG=172.7621915627387
-
 605 29513312056115200 0 "Proud Of The BBC Model B #technologysongs" total_AG=157.51599510084833
-
 606 34951899295920129 0 "CDT presents ALICE IN WONDERLAND - Catonsville Dinner has posted 'CDT presents ALICE IN WONDERLAND' to the... http://setterdrive.com/requires_cookies" total_AG=154.67047237255002
-
 607 29524655479980032 0 "JCF Teams to Bring Distressed Services - http://www.newzfor.me/Shorten.aspx?shorten=cwkc" total_AG=146.22640999093215
-
 608 29059262076420096 0 "Is your staff safe? Who is training your staff? http://www.childsafetyincorp.com/staff-training-program" total_AG=144.59560327310982
-
 609 30126854627139584 0 "Salad Service Phrase FAIL - Epic Fail Funny Videos and Funny Pictures: Um, “tossing a salad�? is a real thing. It... http://failblog.cheezburger.com/" total_AG=139.78075759631622
-
 610 34200888859951104 0 "http://service.tradepad.net/company-1005-guangzhou-pinzhi-advertising-production-co-ltd.html  #service Guangzhou Pinzhi Advertising Prod" total_AG=133.23813055102502
-
 611 34351883074277376 0 "http://service.tradepad.net/company-1406-guangzhou-inflatablefun-plastic-manufacturing-factory.html  #service Guangzhou InflatableFun Pl" total_AG=133.23813055102502
-
 612 34323809263681536 0 "BBC Artwork of Kate as future Queen revealed http://www.bbc.co.uk/news/entertainment-arts-12377806?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=sexily&utm_term=tweet&utm_content=twitter+business http://goldfx.twittertan.hop.clickbank.net/hop/?CBRehoppp2=https%3A%2F%2Fssl.clickbank.net%2Forder%2Frestricted.html%3FerrCode%3Daccntstate%26cbhopvendor%3Dtwittertan&hstr=1399686978493%7Cgoldfx%7C%7C3zhb4essl5%7Ctwittertan&code=%7B0%2C+10%2C+11%2C+14%7D&key=F4CB3454&parms=&s=default&ds=-1" total_AG=133.23813055102502
-
 613 34888579704557568 0 "♫ Hey Daddy (Daddy's Home) - by Usher #bbc #radio1xtra" total_AG=131.92392098989635
-
 614 30254811135873024 1 "BBC World Service 'will be eclipsed by Voice of A.. http://www.theguardian.com/media/2011/jan/26/bbc-world-service-cuts-reaction?CMP=twt_fd" total_AG=129.57164367205402
-
 615 34948877027123200 0 "BBC-news更新 Devine denies expenses 'deceit' http://www.bbc.co.uk/news/uk-politics-12390386 #bbc" total_AG=128.72229650705853
-
 616 32244019295686656 0 "“New York Times�? Quietly Rolls Out Recommendations Service http://mashable.com/2011/01/31/new-york-times-recommendations/" total_AG=123.54182833107987
-
 617 34787633347428352 0 "Lecture used theory as scaffolding. It was holding up the World. With toothpicks. #academentiapoem" total_AG=117.49910030402002
-
 618 29354296369750016 0 "@illustrator85 Well there were scratches, cuts and bruises on the knuckles of the staff!" total_AG=106.2445209930967
-
 619 29286650777436160 0 "The BBC cover the proposed sale of English forests. http://www.bbc.co.uk/news/science-environment-12262797  #SaveOurForests" total_AG=101.47907746630453
-
 620 34917285848158209 0 "Yorkshire CCC: Scarborough refit picks up pace http://news.bbc.co.uk/sport2/hi/cricket/counties/yorkshire/9390455.stm?utm_source=twitterfeed&utm_medium=twitter (BBC)" total_AG=100.84433398514189
-
 621 30724317385859072 0 "Denial Of Service Attack http://networkedblogs.com/dxGCG" total_AG=99.92859791326876
-
 622 34705965907451905 0 "http://service.tradepad.net/company-2344-zhangjiagang-hallphay-paper-manufacture-co-ltd.html  #service Zhangjiagang Hallphay Paper Manuf" total_AG=99.92859791326876
-
 623 30310042716610561 0 "Samsung Scc-b2007p Service Manual &amp; Repair Guide: Samsung Manual Samsung Scc-b2007p Service Manual &amp; Repair Guid... http://samsung-manual.com/samsung-scc-b2007p-service-manual-repair-guide/?utm_source=twitterfeed&utm_medium=twitter" total_AG=97.70300577484393
-
 624 32128769699356672 0 "@oldhat Enjoy it while it lasts... http://www.bbc.co.uk/worldservice/news/2011/01/110126_world_service_cuts_nh_sl.shtml" total_AG=88.9732182376349
-
 625 34742203939028992 0 "http://service.tradepad.net/company-2439-binzhou-sky-rainbow-electrical-appliance-co-ltd.html  #service Binzhou Sky Rainbow Electrical A" total_AG=86.38109578136935
-
 626 32273316047757312 0 "Haiti to give Aristide passport - http://www.bbc.co.uk/news/world-latin-america-12330414" total_AG=81.60916906471303
-
 627 29195475794006016 0 "Disputan el partido femenino más largo de un Grand Slam http://www.bbc.co.uk/mundo/noticias/2011/01/110123_tenis_femenino_schiavone_mr.shtml?utm_source=twitterfeed&utm_medium=twitter&utm_term=News&utm_content=Noticias | BBC" total_AG=61.50818586367634
-
 628 34448730182651904 0 "Electricity agency staff cuts spark demos http://www.7days.ae/storydetails.php?id=102290" total_AG=49.96429895663438
-
 629 34877039056125952 0 "&amp;&amp; wouldnt trade him for the WORLd.!&#10;#random thought.!" total_AG=38.63608388225261
-
 630 34856961627389952 0 "http://service.tradepad.net/company-2743-toplink-campc-corp.html  #service TOPLINK C&amp;C CORP" total_AG=33.30953263775625
-
 631 34785287120879616 0 "pantes laptop sm modem gw ilang haha RT @fadlinisme: mantap bener dah hidup lo ted hahaha RT @teddisep: (cont) http://www.twitlonger.com/show/8m5k32" total_AG=24.52383861844582
-
 632 34725508193198080 0 "Jail staff accused of lewd acts http://nxy.in/xcjh1" total_AG=16.654766318878128
-
 633 34723453084897280 0 "Services Provides By A Vista Locksmith http://www.toparticleinformationblog.info/uncategorized/services-provides-by-a-vista-locksmith/" total_AG=11.10317754591875
-
 634 29281361277755393 0 "PFM – The World Became The World ♫ http://blip.fm/~111shy" total_AG=8.327383159439064
-
 635 32494503902314496 0 "Zonet voor BBC World Service het fenomeen Basta verklaard" total_AG=8.327383159439064
-
 636 34842670362923008 0 "BBC = Bobo Bobo Ciang :D" total_AG=7.198424648447446
-
 637 30236884051435520 1 "BBC confirm World Service cuts http://f.ast.ly/Q3Rfa" total_AG=0.0
-
 638 34867530111651840 0 "http://service.tradepad.net/company-2772-zhangzhou-lucky-horse-colour-printing-co-ltd.html  #service Zhangzhou Lucky Horse Colour Printi" total_AG=0.0
-
 639 34895952456335360 0 "Helloy World" total_AG=0.0
-
 640 31488619965317120 0 "Turmoil if cuts scrapped: Osborne http://f.ast.ly/CXgKc" total_AG=0.0
-
 641 34502121210515456 0 "http://service.tradepad.net/company-1804-shandong-anchen-storeskeeping-equipment-co-ltd.html  #service Shandong Anchen Storeskeeping Equ" total_AG=0.0
-
 642 34944481912430592 0 "@super_cuts @cuts_slice jam brapa??" total_AG=0.0
-

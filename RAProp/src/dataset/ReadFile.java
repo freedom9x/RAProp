@@ -106,7 +106,6 @@ public class ReadFile {
 	{
 		int N = CountTweet(path_file);		
 		Tweet[] tweets = new Tweet[N];
-		//BufferedReader reader = new BufferedReader(new FileReader(path_file));
 		BufferedReader reader = new BufferedReader(new FileReader(path_file));
 		String term;
 		int i = 0;
