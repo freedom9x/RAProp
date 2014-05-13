@@ -2,6 +2,7 @@ package dataset;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -25,21 +26,6 @@ public class CommonLib {
 	}
 	public static String NaiveURLExpander(String address){
         String result = address;
-//        try {
-//			URLConnection conn = null;
-//			InputStream in = null;
-//			URL url = new URL(address);
-//			conn = url.openConnection();
-//			in = conn.getInputStream();
-//			result = conn.getURL().toString();
-//			in.close();
-//		} 
-//		catch (IOException e) {
-//			// TODO Auto-generated catch block
-//			//e.printStackTrace();
-//			System.out.println("loi http");
-//		}
-     //   System.out.println("Short URL: "+ shortURL);
         URLConnection urlConn =  connectURL(address);
         
         if(urlConn!=null)
@@ -112,7 +98,8 @@ URL object representing the url address. */
 				String name = FindUserName(parts[2]);
 				if(name!=null)
 				{
-					PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/tweet2Topic.txt", true));
+					PrintWriter pw = new PrintWriter(new 
+							FileWriter("tweet2011/49TrecData/"+parts[0]+"_AG.txt", true));
 					pw.println(parts[0]+" "+ parts[2]+ " "+parts[3]+" "+name);
 					pw.close();
 				}
@@ -150,5 +137,18 @@ URL object representing the url address. */
 		String term="null";
 		return term;
 	}
-
+	public static void DevideFile(String path) throws IOException
+	{
+		BufferedReader reader = new BufferedReader(new FileReader(path));
+		String term;
+		while((term = reader.readLine())!=null)
+		{
+			String id = term.split("\t")[0];
+			//String content = term.split("\t")[0];
+			PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/tweetN/"+id+"_AG.txt"), true);
+			pw.println(term);
+		}
+		reader.close();
+		
+	}
 }

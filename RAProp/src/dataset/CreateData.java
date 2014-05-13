@@ -1,6 +1,9 @@
 package dataset;
 
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -34,4 +37,27 @@ public class CreateData {
 			pw.close();
 		}
 	}
+	public static void CreateQueryTable(String path) throws IOException
+	{
+		BufferedReader reader = new BufferedReader(new FileReader(path));
+		int dem = 0;
+		String term;
+		PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/test/QueryTable.txt"));
+		while(((term = reader.readLine())!=null))
+		{
+			if(term.contains("<num>"))
+			{
+				String term2 = reader.readLine();
+				int begin = term.indexOf("<num>");
+				String id = term.substring(begin+14,begin+18);
+				begin = term2.indexOf("title");
+				int end = term2.indexOf("</title>");
+				String query  = term2.substring(begin+7, end);
+				pw.println(id+"\t"+query);
+			}
+		}
+		pw.close();		
+		reader.close();
+	}
+	
 }
