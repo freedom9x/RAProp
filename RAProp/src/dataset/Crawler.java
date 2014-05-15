@@ -17,41 +17,7 @@ public class Crawler {
 	public static void main(String[] args) throws IOException {
 			// TODO Auto-generated method stub
 			Crawler crawler = new Crawler();
-			BufferedReader reader = new BufferedReader(new FileReader("tweet2011/tweet2Topic.txt"));
-			String term;
-			int dem = 0;
-			
-			while(( term = reader.readLine())!=null)
-			{		
-				PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/tweet_test_AG.txt", true));
-				String[] parts = term.split(" ");
-				
-				String content = crawler.getContentFromId(Long.parseLong(parts[1]), parts[3]);
-				if(content!=null)
-				{
-					if(IsRetweet(content)) continue;
-					pw.println(parts[0]+" "+ parts[1]+ 
-							" "+parts[2]+" "+parts[3]+" "+"\""+content+"\"");
-					dem++;
-					System.out.println(dem+"---\t"+parts[0]+" "+ parts[1]+ 
-							" "+parts[2]+" "+parts[3]+" "+"\""+content+"\"");
-					//if(dem==20) break;
-					
-				}
-				else {
-					System.out.println("tweet broken:" + parts[1]);
-				}
-				pw.close();
-				
-			}
-			
-			
-//			if(IsRetweet("BBC News - BBC journalist arrested and http://www.bbbc beaten by Egyptian police http://www.bbc.co.uk/news/world-africa-1230824 #jan25 #egypt #wfegfer http://www.bbc.co.  "))
-//				System.out.println("OK");
-//			else {
-//				System.out.println("NO");
-//			}
-		//	String content = crawler.getContentFromId(Long.parseLong("32797963470245888"), "onemanrace");
+			crawler.CrawlContent("tweet2011/49TrecData/MB01_AG.txt", "tweet2011/CrawlTweet/MB01_AG.txt");
 			System.out.println("-----------------DONE-----------------");
 			
 		}
@@ -64,7 +30,7 @@ public class Crawler {
 		String[] result= new String[5];
 		String url = "https://twitter.com/"+user_name+"/status/"+tweetID;
 		String data = null;
-		int favorites = 0;
+		//int favorites = 0;
 		try {
 			data = this.getURL(url,true);
 			String tag = "<div class=\"stream-item-footer clearfix\">";
@@ -174,13 +140,13 @@ public class Crawler {
 		}
 		return text;
 	}
-	public static boolean IsRetweet(String tweet) throws IOException
+	public static boolean IsRetweet(String tweet, String path_result) throws IOException
 	{
 		tweet = RemoveTerm(tweet, "http://");
 		tweet = RemoveTerm(tweet, "#");
 		tweet = RemoveTerm(tweet, "@");
 		tweet = tweet.replaceAll("\\s+", "");
-		BufferedReader reader = new BufferedReader(new FileReader("tweet2011/tweet_test_AG.txt"));
+		BufferedReader reader = new BufferedReader(new FileReader(path_result));
 		String term;
 		while(( term = reader.readLine())!=null)
 		{
@@ -219,5 +185,34 @@ public class Crawler {
 		}
 		return text;
 	}
-	
+	public void CrawlContent(String path, String path_result) throws IOException
+	{
+		Crawler crawler = new Crawler();
+		BufferedReader reader = new BufferedReader(new FileReader(path));
+		String term;
+		int dem = 0;
+		
+		while(( term = reader.readLine())!=null)
+		{		
+			PrintWriter pw = new PrintWriter(new FileWriter(path_result, true));
+			String[] parts = term.split(" ");
+			
+			String content = crawler.getContentFromId(Long.parseLong(parts[1]), parts[3]);
+			if(content!=null)
+			{
+				if(IsRetweet(content, path_result)) continue;
+				pw.println(parts[0]+" "+ parts[1]+ 
+						" "+parts[2]+" "+parts[3]+" "+"\""+content+"\"");
+				dem++;
+				System.out.println(dem+"---\t"+parts[0]+" "+ parts[1]+ 
+						" "+parts[2]+" "+parts[3]+" "+"\""+content+"\"");
+				//if(dem==20) break;
+				
+			}
+			else {
+				System.out.println("tweet broken:" + parts[1]);
+			}
+			pw.close();		
+		}	
+	}
 }

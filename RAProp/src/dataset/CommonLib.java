@@ -21,8 +21,8 @@ public class CommonLib {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 	//	FindUserName("32899374300266497");
-		//GetALLUserName("tweet2011/qrels.microblog2011.txt");
-		System.out.println(NaiveURLExpander("~http://goo.gl/dnsmz"));
+		GetALLUserName("tweet2011/Available/qrels.microblog2011.txt");
+		//System.out.println(NaiveURLExpander("~http://goo.gl/dnsmz"));
 	}
 	public static String NaiveURLExpander(String address){
         String result = address;
@@ -88,13 +88,13 @@ URL object representing the url address. */
 		while(( term = reader.readLine())!=null)
 		{
 			String[] parts = term.split(" ");
-			
-			if(!parts[0].equals("MB01") && !parts[0].equals("MB02"))
-			{
-				return;
-			}
-			else
-			{
+//			
+//			if(!parts[0].equals("MB01") && !parts[0].equals("MB02"))
+//			{
+//				return;
+//			}
+//			else
+//			{
 				String name = FindUserName(parts[2]);
 				if(name!=null)
 				{
@@ -105,13 +105,13 @@ URL object representing the url address. */
 				}
 				
 				
-			}
+			//}
 		}
 		reader.close();
 	}
 	public static String FindUserName(String tweetID) throws IOException
 	{
-		File folder1 = new File("tweet2011");
+		File folder1 = new File("tweet2011/TRECdataset");
 		File[] folder2 = folder1.listFiles();
 		for (File folder : folder2) 
 		{
@@ -127,6 +127,7 @@ URL object representing the url address. */
 					{
 						System.out.println(folder1.getName()+"/" +folder.getName()+"/"+ file.getName()+"\t"+part[1]+"\t"+tweetID);
 //						System.out.println(part[1]);
+						reader.close();
 						return part[1];
 					}
 				}
