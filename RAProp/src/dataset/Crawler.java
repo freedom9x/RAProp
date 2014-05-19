@@ -1,7 +1,7 @@
 package dataset;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
+import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -14,24 +14,35 @@ import java.net.URLConnection;
 
 public class Crawler {
 
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws NumberFormatException, Throwable {
 			// TODO Auto-generated method stub
 			Crawler crawler = new Crawler();
-			crawler.CrawlContent("tweet2011/49TrecData/MB01_AG.txt", "tweet2011/CrawlTweet/MB01_AG.txt");
-			System.out.println("-----------------DONE-----------------");
+			//crawler.CrawlContent("tweet2011/49TrecData/MB01_AG.txt", "tweet2011/CrawlTweet/MB01_AG.txt");
 			
+			//Crawler crawler = new Crawler();
+			File folder1 = new File("tweet2011/49TrecData");
+			File[] folder2 = folder1.listFiles();
+			for (File file : folder2) 
+			{
+				System.out.println("-------------------"+file.getName()+"-------------------------------");
+				crawler.CrawlContent(file.getPath(), "tweet2011/CrawlTweet/"+file.getName());
+				
+			}
+			System.out.println("-----------------DONE-----------------");
 		}
 
 	/**
 	 * @param args
+	 * @throws Throwable 
 	 */
-	public String getContentFromId(long tweetID, String user_name)
+	public String getContentFromId(long tweetID, String user_name) throws Throwable
 	{
 		String[] result= new String[5];
 		String url = "https://twitter.com/"+user_name+"/status/"+tweetID;
 		String data = null;
 		//int favorites = 0;
 		try {
+			Thread.sleep(5000);
 			data = this.getURL(url,true);
 			String tag = "<div class=\"stream-item-footer clearfix\">";
 			while(data.contains(tag))//tim chuoi chua content
@@ -185,7 +196,7 @@ public class Crawler {
 		}
 		return text;
 	}
-	public void CrawlContent(String path, String path_result) throws IOException
+	public void CrawlContent(String path, String path_result) throws NumberFormatException, Throwable
 	{
 		Crawler crawler = new Crawler();
 		BufferedReader reader = new BufferedReader(new FileReader(path));
@@ -200,7 +211,7 @@ public class Crawler {
 			String content = crawler.getContentFromId(Long.parseLong(parts[1]), parts[3]);
 			if(content!=null)
 			{
-				if(IsRetweet(content, path_result)) continue;
+				//if(IsRetweet(content, path_result)) continue;
 				pw.println(parts[0]+" "+ parts[1]+ 
 						" "+parts[2]+" "+parts[3]+" "+"\""+content+"\"");
 				dem++;

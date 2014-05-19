@@ -8,6 +8,7 @@ import java.util.List;
 import java.util.Set;
 
 import dataset.ReadFile;
+import edu.berkeley.nlp.optimize.PowellSearch;
 
 
 public class TFIDF {
@@ -42,7 +43,7 @@ public class TFIDF {
 				if (Term_in_text(term, t.content))
 					n = n + 1;
 		}
-		double idf = Math.log(N/n);
+		double idf = Math.log(N/(double)n);
     	return idf;
     }
     
@@ -52,6 +53,8 @@ public class TFIDF {
     	List<String> list = Arrays.asList(text.split(" "));
     //	Set<String> uniqueWords =  new HashSet<String>(list);
     	if(Collections.frequency(list, term)==0) return false;
+//    	if(text.contains(term)) return true;
+//    	else return false;
     	return true;
     }
     
@@ -130,9 +133,137 @@ public class TFIDF {
    	}
    	public static void main(String[] args)//main to test
    	{
-   		String query= "BBC World Service staff cuts";
-   		
-   		
+//   		String query= "BBC World Service staff cuts";
+//   		System.out.println(1+Math.log(3/2.0));
+   		String query = "life learning";
+   		Tweet[] tweets = new Tweet[3];
+   		tweets[0] = new Tweet("i love my life the game of life is a game of everlasting learning", 1);
+   		tweets[1] = new Tweet("the unexamined life is not worth living", 2);
+   		tweets[2] = new Tweet("never stop learning", 3);
+   		int N = 3;
+//   		System.out.println(tfidf(query, tweets[0].content, tweets, N));
+//   		System.out.println(tfidf(query, tweets[1].content, tweets, N));
+//   		System.out.println(tfidf(query, tweets[2].content, tweets, N));  		
+   		System.out.println(total_distance(query, tweets[0].content));
+   		System.out.println(TFIDFSimilarity(query, tweets[0].content, tweets, N));
+   		System.out.println(total_distance(query, tweets[1].content));
+   		System.out.println(TFIDFSimilarity(query, tweets[1].content, tweets, N));
+   		System.out.println(total_distance(query, tweets[2].content));
+   		System.out.println(TFIDFSimilarity(query, tweets[2].content, tweets, N));
    	}
-    //public static boolean
+   	public static double tfidf(String query, String doc, Tweet[] tweets, int N)
+   	{
+   		double sim= 0.0;
+   		//List<String> parts = Get_same(query, doc);
+   		String[] parts = query.split(" ");
+   	//	String test = parts[0];
+   		double[] v_query = new double [parts.length];   	
+   		double[] v_doc = new double [parts.length];
+   		double[] idf_term = new double[parts.length];//idf cua tung tu
+   	//	int i = 0;
+   		for (int i = 0; i<parts.length; i++) {//idf cua tung tu
+			idf_term[i]=idf(parts[i], tweets, N);
+			
+		}
+   		
+   		for (int i = 0; i<parts.length; i++) {//tao 2 vector
+			v_query[i] = tf(parts[i], query)*idf_term[i];
+			v_doc[i] = tf(parts[i], doc)*idf_term[i];
+			
+		}
+   		sim = dp_2_vector(v_doc, v_query)/(d_vector(v_doc)*d_vector(v_query));
+   		return sim;
+   	}
+   	public static double idf(String term, Tweet[] tweets, int N)
+   	{
+   		
+   		int n = 0;
+    		for (Tweet t : tweets)
+				if (Term_in_text(term, t.content))
+					n = n + 1;
+		double idf =1+ Math.log(N/(double)n);
+    	return idf;
+   	}
+   	public static double tf(String term, String text)
+	{
+		// double max_TF = 0 ;
+   		if(!text.contains(term)) return 0.0;
+		 List<String> list = Arrays.asList(text.split(" "));
+
+		 return Collections.frequency(list, term)/(double)list.size();
+	}
+   	public static double d_vector(double[] vector)// tinh do dai vector
+   	{
+   		double term = 0.0;
+   		for (double d : vector){
+			term = term + d*d;
+		}
+   		return Math.sqrt(term);
+   	}
+   	public static double dp_2_vector(double[] vector1, double[] vector2)// tinh tong 2 vector
+   	{
+   		double result = 0.0;
+   		for(int i = 0 ; i< vector1.length; i++)
+   		{
+   			result = result + (vector1[i]* vector2[i]);
+   		}
+   		return result;
+   	}
+   	public static int total_distance(String query, String tweet)
+   	{
+   		int dis = 0;
+   		String[] parts = tweet.split(" ");
+   		String first_splip = "";
+   		for(int i = 0; i<parts.length; i++)
+   		{
+   			if(Term_in_text(parts[i], query))
+   			{
+   				for(int j = i; j<parts.length; j++)
+   					first_splip = first_splip + parts[j]+" ";
+   				break;
+   			}
+   		}
+   		first_splip = first_splip.trim();
+   		parts = first_splip.split(" ");
+   		while(check_q_t(query, first_splip))
+   		{
+   			for(int i = 1; i< parts.length; i++)
+   			{
+   				if(Term_in_text(parts[i], query))
+   				{
+   					dis = dis + i-1;
+   					String[] term = first_splip.split(" ");
+   					first_splip = "";
+   					for(int j = i; j< term.length; j++)
+   					{
+   						first_splip = first_splip+term[j]+" ";
+   					}
+   					first_splip = first_splip.trim();
+   					parts = first_splip.split(" ");
+   					break;
+   				}
+   					
+   			}
+   		}
+   		return dis;
+   	}
+   	public static boolean check_q_t(String query, String tweet)
+   	{
+   		int dem = 0;
+   		for (String  term : query.split(" ")) {
+			if(tweet.contains(term)) dem++;
+			if(dem==2) return true;
+		}
+   		return false;
+   	}
+	public static double TFIDFSimilarity(String query, String doc, Tweet[] tweets, int N)
+   	{
+   		double result = 0.0;
+   		double l = doc.split(" ").length;
+   		double d = total_distance(query, doc);
+   		double w = 0.2;
+   		result = tfidf(query, doc, tweets, N)* Math.pow(Math.E,(-w*d)/l);
+   		System.out.println(Math.pow(Math.E,(-w*d)/l));
+   		return result;
+   	}
 }

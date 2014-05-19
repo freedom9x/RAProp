@@ -12,6 +12,8 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 
+import com.temesoft.google.pr.PageRankService;
+
 public class CommonLib {
 
 	/**
@@ -21,8 +23,11 @@ public class CommonLib {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 	//	FindUserName("32899374300266497");
-		GetALLUserName("tweet2011/Available/qrels.microblog2011.txt");
-		//System.out.println(NaiveURLExpander("~http://goo.gl/dnsmz"));
+		//GetALLUserName("tweet2011/Available/qrels.microblog2011.txt");
+		PageRankService ps = new PageRankService();
+		String domain = "http://google.com";
+		int pr = ps.getPR(domain);
+		System.out.println(domain+" PG=" + pr);
 	}
 	public static String NaiveURLExpander(String address){
         String result = address;
