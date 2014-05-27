@@ -10,8 +10,6 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
-import rank.Query;
 import rank.Tweet;
 
 
@@ -102,9 +100,9 @@ public class ReadFile {
 //		return tweets;
 //	}
 	//doc 200tweet tu file
-	public static Tweet[] GetNtweet(String path_file) throws Exception
+	public static Tweet[] GetNtweet(String path_file, int N) throws Exception
 	{
-		int N = CountTweet(path_file);		
+	//	int N = CountTweet(path_file);		
 		Tweet[] tweets = new Tweet[N];
 		BufferedReader reader = new BufferedReader(new FileReader(path_file));
 		String term;
@@ -114,13 +112,16 @@ public class ReadFile {
 			int begin = term.indexOf("\"");
 			int end = term.indexOf("\"", begin+1);
 			String content = term.substring(begin+1, end);//content
-			String[] parts = term.split(" ");
+			String[] parts = term.split("\t",8);
 			String queryID = parts[0];
 			long ID = Long.parseLong(parts[1]);
 			int label = Integer.parseInt(parts[2]);
 			String user_name = parts[3];
-			if(ContentIsOveride(content, tweets)) continue;
-			tweets[i] = new Tweet(queryID, ID, label, user_name, content);
+			int favourite = Integer.parseInt(parts[5]);
+			int retweet = Integer.parseInt(parts[6]);
+			String date = parts[7];
+		//	if(ContentIsOveride(content, tweets)) continue;
+			tweets[i] = new Tweet(queryID, ID, label, user_name, content, retweet, favourite, date);
 			i++;
 		}
 		reader.close();
@@ -129,6 +130,7 @@ public class ReadFile {
 	
 	public static boolean ContentIsOveride(String text1, Tweet[] tweet)
 	{    //no co roi la true
+		if(text1.split(" ").length<4) return true;
 		for (Tweet tweet2 : tweet) {
 			if(tweet2==null) return false;
 			String temr1= Tweet.Remove1(text1);

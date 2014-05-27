@@ -475,7 +475,7 @@ MB01	34918395459674112	0	peteroriola	"Walcott advises Twitter caution (BBC) http
 MB01	33602042350010368	0	FZscotland	"College cuts could cost 37 posts (BBC) http://feedzil.la/hW91lM"	0	0	11:05 AM - 4 Feb 2011
 MB01	34889723109449729	0	ChrispLOL	"100M plus utterly unfair cuts for #mcc sign http://manchesterpetition.org and RT please, see feed for 6 PDFs with details"	0	0	12:22 AM - 8 Feb 2011
 MB01	34456614933106689	0	1mpd	"INVESTIGATION [#milwaukeepolice]: 110371682, 02/06/2011 08:50:55 PM, N OLD WORLD THIRD ST / W JUNEAU AV,MKE, 1, Service in Progress"	0	0	7:41 PM - 6 Feb 2011
-MB01	33939407534817280	0	Teddi_H8Heauxs	"Grinding by myself live on camera, come and join me for 100 % free. http://www.openfreecam.com&nbsp;"	0	0	null
+MB01	33939407534817280	0	Teddi_H8Heauxs	"Grinding by myself live on camera, come and join me for 100 % free. http://www.openfreecam.com&nbsp;"	0	0	8:24 PM - 27 Oct 2013
 MB01	34507566629261312	0	Miss_Baines	"Everyday the same little Sun reading chav gets to the station cuts past of everyone standing there and jumps on the train #iblametheparents"	0	0	11:03 PM - 6 Feb 2011
 MB01	34730882833063936	0	readingj	"First meeting re restructuring of school staff today. Meeting two tomorrow. We find out if we still have a job. 30% cuts fingers crossed."	0	0	1:51 PM - 7 Feb 2011
 MB01	30163260250521600	0	PeternoyesVC	"Very informed reaction from the staff attending the staff meetings to discuss restructuring yesterday.  Good constructive debate. Bodes well"	0	1	11:20 PM - 25 Jan 2011
@@ -613,4 +613,3 @@ MB01	34697496848646144	0	Wiltpensionista	"&quot;BBC News   Home&quot; http://bbc
 MB01	34598980834824192	0	tweetminster	"&quot;Video game industry 'should be government priority', MPs have said&quot; http://bbc.in/e4GzrQ - BBC"	3	11	5:06 AM - 7 Feb 2011
 MB01	34716864869306368	0	CoreefJanus	"Top 12 New World Notes Posts From Last Week http://bit.ly/fCTOp1"	0	0	12:55 PM - 7 Feb 2011
 MB01	34707839490588672	0	fireitup4USA	"has just done a job in Petty Theft in #MobsterWorld http://www.playmobsterworld.com/?platform=twitter&amp;source=oneline_dojob"	0	0	12:19 PM - 7 Feb 2011
-MB01	34718307084935168	0	HJMT	"How the SM World reacted to Super Bowl ads - http://on.mash.to/eyAJcX http://fb.me/Rsg3jEHn"	0	0	1:01 PM - 7 Feb 2011

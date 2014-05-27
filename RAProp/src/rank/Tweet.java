@@ -1,7 +1,11 @@
 package rank;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.Arrays;
+import java.util.Date;
 import java.util.List;
+import java.util.Locale;
 
 
 
@@ -20,6 +24,8 @@ public class Tweet {
 	public String hash_tag;
 	public int feature_score;
 	public int rank_score;
+	public int favorite_count;
+	public Date date_create;
 	public double total_AG = 0.0;
 	
 	/*public Tweet(String text_info)//example: text_info= "id username  follow_count friend_count img_url source retweet_count content"
@@ -60,13 +66,18 @@ public class Tweet {
 		this.content = content;
 		this.ID = id;
 	}
-	public Tweet(String queryID,long id, int label, String user_name, String content )
+	public Tweet(String queryID,long id, int label, String user_name, String content,
+			 int retweet, int favourite, String date ) throws ParseException
 	{
 		this.queryID = queryID;
 		this.ID = id;
 		this.label = label;
 		this.user_name = user_name;
 		this.content = content;
+		this.favorite_count = favourite;
+		this.retweet_count = retweet;
+		//9:14 AM - 31 Jan 2011
+		this.date_create = new SimpleDateFormat("h:mm a - dd MMM yyyy", Locale.ENGLISH).parse(date);
 	//	this.ID = id;
 	}
 

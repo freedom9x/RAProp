@@ -25,7 +25,7 @@ public class TopK_result {
 		Tweet[] tweets = new Tweet[N];
 		AG_graph = new double[N+1][N];
 		//ReadFile.GetTweetResult(tweets, "/tweet2011/Available/MB01_200_fix.txt", N);
-		tweets = ReadFile.GetNtweet(path_tweet);
+		tweets = ReadFile.GetNtweet(path_tweet, N);
 		ReadFile.GetAG(AG_graph, N, path_AG);
 		ReadFile.RankingAG(tweets, AG_graph, N);
 		//topK = ReadFile.TopK_AG(K, AG_graph, N);
@@ -42,9 +42,9 @@ public class TopK_result {
 		pw.close();
 		System.out.print("done");
 	}
-	public static void TopK(String path_file) throws Exception
+	public static void TopK(String path_file, int N) throws Exception
 	{
-		Tweet[] tweets = ReadFile.GetNtweet(path_file);
+		Tweet[] tweets = ReadFile.GetNtweet(path_file, N);
 		int sum5 = 0;
 		int sum10 = 0;
 		int sum30 = 0;

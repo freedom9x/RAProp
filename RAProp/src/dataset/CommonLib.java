@@ -25,7 +25,7 @@ public class CommonLib {
 	//	FindUserName("32899374300266497");
 		//GetALLUserName("tweet2011/Available/qrels.microblog2011.txt");
 		PageRankService ps = new PageRankService();
-		String domain = "http://google.com";
+		String domain = "http://www.bbc.co.uk";
 		int pr = ps.getPR(domain);
 		System.out.println(domain+" PG=" + pr);
 	}
@@ -66,25 +66,27 @@ URL object representing the url address. */
 }
 
 
-	public static String expandURL(String text2) throws IOException
+	public static int PageRank(String text2) throws IOException
 	{
 		
-		String result= "";
+		int result = 0;
 		String[] parts = text2.split(" ");
+		PageRankService ps = new PageRankService();
 		for (String string : parts)
 		{
 			if(string.contains("http://"))
 			{
-				string = string.substring(string.indexOf("http"));
-				System.out.println(string);
-				string = NaiveURLExpander(string);
-				System.out.println(string);
+//				string = string.substring(string.indexOf("http"));
+//				System.out.println(string);
+//				string = NaiveURLExpander(string);
+				//System.out.println(string);
+				String domain = NaiveURLExpander(string);
+				domain = domain.substring(0,domain.indexOf("/",8));
+			//	System.out.println(domain);
+				result =  result + ps.getPR(domain); 
 			}
-				
-			result = result + string + " ";
 		}
-		
-		return result.trim();
+		return result;
 	}
 	public static void GetALLUserName(String path_file) throws IOException
 	{

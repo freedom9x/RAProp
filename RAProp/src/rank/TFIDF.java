@@ -263,7 +263,7 @@ public class TFIDF {
    		double d = total_distance(query, doc);
    		double w = 0.2;
    		result = tfidf(query, doc, tweets, N)* Math.pow(Math.E,(-w*d)/l);
-   		System.out.println(Math.pow(Math.E,(-w*d)/l));
+   	//	System.out.println(Math.pow(Math.E,(-w*d)/l));
    		return result;
    	}
 }

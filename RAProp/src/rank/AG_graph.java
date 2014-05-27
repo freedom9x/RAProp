@@ -20,7 +20,7 @@ public class AG_graph {
 		//query = "nexus 5";
 		//lay 200 tweet
 		try {
-			tweets=ReadFile.GetNtweet(path);
+			tweets=ReadFile.GetNtweet(path, N);
 			ReadFile.WriteResult(tweets, "tweet2011/result/AG/"+queryID +"_rm.txt", true, query);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
