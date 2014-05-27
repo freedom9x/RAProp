@@ -1,601 +1,544 @@
-MB30 35108366829232128 2 spirit2012 "Keith Olbermann To Current TV: Hosting New Show, Becoming Chief News Officer http://goo.gl/uL7Cn"
-MB30 34814214983913472 1 USRealityCheck "Keith Olbermann to Current TV:  NYT has the news on Keith O's newest home:   Keith Olbermann, the former ... http://bit.ly/i8wj1M dk #P2"
-MB30 34808563134103553 2 SocialUtility "Keith Olbermann to Join Current TV [REPORT]:    Keith Olbermann, the controversial liberal pundit... http://bit.ly/e1R1su #socialutility"
-MB30 34810964821938176 2 PennaTMT "Keith Olbermann to Join Current TV [REPORT]:    Keith Olbermann, the controversial liberal pundit and former hos... http://bit.ly/dFjz2x"
-MB30 34808671800135680 2 smsprep7news "Keith Olbermann to Join Current TV [REPORT]:    Keith Olbermann, the controversial liberal pundit and former hos... http://bit.ly/dFjz2x"
-MB30 34808587465261056 2 altt1 "Keith Olbermann to Join Current TV [REPORT]:    Keith Olbermann, the controversial liberal pundit and former hos... http://bit.ly/dR9e3c"
-MB30 34808698459131905 2 makeitsolutions "Keith Olbermann to Join Current TV [REPORT] http://bit.ly/dJdSD4"
-MB30 34926518085877760 2 AmitV_Tweets "Keith Olbermann to Join Current TV [REPORT] http://bit.ly/hvDUKK"
-MB30 34816022426943488 2 emarketinggeek "Keith Olbermann to Join Current TV [REPORT] http://bit.ly/g3lVWO"
-MB30 34858772568477696 0 Now2Become "http://bit.ly/H2Bjob Green Jobs Conference Seeks Sustainable Economy, New Jobs | AFL ... http://bit.ly/hl1LUS"
-MB30 29961253262725120 0 TheDragonEssett "How Steve Jobs gets things done: &quot;He was able to figure out a new business model.&quot; Now eyes... http://bit.ly/gyaqNq http://bit.ly/94cftb"
-MB30 35048801446133760 0 GO2_London_Jobs "London Jobs: New Business Sales Consultant : London, London: New Business Sales Consultant : London : £26.... http://bit.ly/gmljmc #Jobs"
-MB30 35107597245747200 0 jobschicago "Technical Architect Consultant: Details: We’re in search of an experienced Technical Architect Con... http://bit.ly/h5Q0xc #jobs #hiring"
-MB30 34038540807446528 0 ServSafePro "Now hiring: Help Setting Up Wordpress Theme...: Hello,  I installed a new wordpress theme (no... http://bit.ly/gl5J1L #jobs #hiring #job"
-MB30 32940778477064192 0 JackPatrick4 "Now hiring: Graph Counter For C++ Project: Write a new member function &quot;degree&quot; for the Wtgra... http://bit.ly/fGH3BK #jobs #hiring #job"
-MB30 35106842912755712 0 sgbreakingnews "#int'l #news: Dow rises for seventh straight day: NEW YORK (Reuters) - The Dow notched a seventh stra... http://bit.ly/e0Kh6r #singapore"
-MB30 34033245712551940 0 beccarter28 "New York Rangers At Montreal Canadiens: Rangers Need A Big Win: 2 days ago: New Jersey Devils' Mark Fayne (34) a... http://bit.ly/eoO1Ak"
-MB30 34823971778068480 1 mychatbox_blog "New external post Olbermann to Join Al Gore's Current.tv, NY Times Reports from the blog feed Web Technology Fee... http://bit.ly/eXAuNT"
-MB30 34799052138741760 1 beckbs "Olbermann to Join Al Gore's Current.tv, NY Times Reports: TV star Keith Olbermann will join Current.tv, the onli... http://bit.ly/gqG1e6"
-MB30 34798383809957888 1 LETMEDEFINE "news Olbermann to Join Al Gore's Current.tv, NY Times Reports: TV star Keith Olbermann will join Current.t... http://bit.ly/dIE0c7 media"
-MB30 34809400715649024 1 cheung31 "Olbermann to Join Al Gore's Current.tv, NY Times Reports by @marshallk http://rww.to/hEww9Z&nbsp; via @RWW"
-MB30 34805355380736000 1 jtjn "NYT: Olbermann to join … Al Gore’s Current TV http://bit.ly/ffyqdM"
-MB30 35036072291479552 1 Carl_Fox "Yay!  The sooner, the better.  #FOK  RT @dailykos It's official: Keith Olbermann to host nightly show on Current TV http://bit.ly/hL1p6z"
-MB30 35027423238160384 0 greenedwardl "&quot;Twitter Explodes After Keith Olbermann Announces Move to Current TV&quot; - actually it was just my head."
-MB30 35065226357379073 1 BestBlogPosts "DrudgeReport: Olbermann announces move to Al Gore's CURRENT TV...: Olbermann announces move to Al ... http://bit.ly/gIyrE0 #biz #science"
-MB30 35092790660562945 1 paulconant "Keith Olbermann joins Al Gore's Current TV: Matthew Flamm&#10; - Keith Olbermann has a new home, but it's a lot smal... http://bit.ly/dMGPMn"
-MB30 35034191590592512 1 billyzimmer "Ex-MSNBC host Keith Olbermann heads to Current TV &#10;    (AP): AP - Keith Olbermann, who last... http://bit.ly/efTpMD #News #Entertainment"
-MB30 35034192811134976 1 Worksofmany "Entertainment: Ex-MSNBC host Keith Olbermann heads to Current TV \n    (AP)\n: AP - Keith Olbermann, who last mo... http://bit.ly/hyKeBb"
-MB30 35044456474349568 1 pinkisright "Ex-MSNBC host Keith Olbermann heads to Current TV      (AP) - AP - Keith Olbermann, who last month abruptly left his... http://ow.ly/1bePHf"
-MB30 35032915037388800 1 deeje "&quot;@sfgate: Ex-MSNBC host Keith Olbermann heads to Current TV http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2011/02/08/entertainment/e081256S74.DTL&nbsp;…&quot; congrats to Current!"
-MB30 35033877152006144 1 ScenebyPaula "Independent media FTW! Ex-MSNBC host Keith Olbermann heads to Current TV http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2011/02/08/entertainment/e081256S74.DTL&nbsp;… via @sfgate"
-MB30 35017427079139328 1 DailyCaller "YAY!!........Ex-MSNBC host Keith Olbermann heads to Current TV - http://ht.ly/3Swjh #media #TCOT"
-MB30 34804801686478848 1 newsery10 "Why Keith Olbermann Makes Sense For Current TV - http://bit.ly/if1luf - [Paid Content]"
-MB30 34813732219518976 1 awallenstein "Why Keith Olbermann Makes Sense For Current TV http://cnt.to/nw8  #tcot"
-MB30 35105429532966912 1 Packard_Sonic "Report: Keith Olbermann to join Current TV http://usat.ly/h5kX5z"
-MB30 34794699868868609 1 awallenstein "In a word, wow RT @brianstelter: Breaking: Keith Olbermann to join Current TV. @mediadecodernyt: http://tinyurl.com/476oov8"
-MB30 29104614473211904 0 Eve2938 "Countdown with Keith Olbermann Countdown with Keith Olbermann: Nine days since Tucson. In a Special Commen... http://tinyurl.com/4foxk7a"
-MB30 29112447222685698 0 DarylEbeling "Countdown with Keith Olbermann Countdown with Keith Olbermann: Nine days since Tucson. In a Special Comment, Cou... http://bit.ly/gf1kbV"
-MB30 34952094221860864 1 Shojib7 "Current TV may become the new home of Keith Olbermann: Former host of MSNBC's &quot;Countdown,&quot; Keith Olbermann, is s... http://bit.ly/g5xzCP"
-MB30 34952093886320640 1 JosephineMun "Current TV may become the new home of Keith Olbermann: Former host of MSNBC's &quot;Countdown,&quot; Keith Olbermann, is s... http://bit.ly/efkx7W"
-MB30 29478193383604224 0 140celebs "Keith Olbermann -- The Rich Get Richer: Filed under:     Keith Olbermann,     TV    &#10;            &#10;&#9;        &#9; Kei... http://bit.ly/ehZtCV"
-MB30 29470666637967360 0 Paparazzi4U "TMZ SEZ Keith Olbermann -- The Rich Get Richer: Filed under:     Keith Olbermann,     TV    &#10;         ... http://bit.ly/e1bxF3 #HiTechCJ"
-MB30 29469902117011456 0 celebrimania "TMZ - Keith Olbermann -- The Rich Get Richer: Filed under:     Keith Olbermann,     TV    &#10;            &#10;&#9;       ... http://bit.ly/h1dq0Y"
-MB30 29588435576561664 0 GlamCeleb "GlamCelebrities.com Keith Olbermann -- The Rich Get Richer: Filed under:     Keith Olbermann,... http://bit.ly/hV3rkK #glam #celebrities"
-MB30 29488979447390209 0 clndstnone "New post: Keith Olbermann -- The Rich Get Richer http://bit.ly/h2glQJ"
-MB30 29551372231774208 0 noahhonesty "Keith Olbermann -- The Rich Get Richer - http://newzfor.me/?cfkc"
-MB30 30194652992770048 0 citinasoooyy "Keith Olbermann -- The Rich Get Richer - http://newzfor.me/?cfkc"
-MB30 30165805312245760 0 raymonddarmawan "Keith Olbermann -- The Rich Get Richer - http://newzfor.me/?cfkc"
-MB30 29953523294666752 0 RBChindranai "Keith Olbermann -- The Rich Get Richer - http://newzfor.me/?cfkc"
-MB30 30473679909429248 0 cintyaandini "Keith Olbermann -- The Rich Get Richer - http://newzfor.me/?cfkc"
-MB30 35092625195274241 0 satasiyakalpesh "Sprint's New Dual-Screen Smartphone - http://newzfor.me/?cnvr"
-MB30 29915880506789888 0 mediacrity "@ashleyodell KEITH WHAT HAPPENED??? http://news.blogs.cnn.com/2011/01/21/keith-olbermann-leaving-msnbc/?hpt=T1"
-MB30 29747008562528256 0 nycHope "what a shock: Bill O'Reilly attacks Keith Olbermann - http://watching-tv.ew.com/2011/01/24/bill-oreilly-keith-olbermann-glenn-beck/"
-MB30 29885743832760320 0 DTNUSA "DTN USA: Bill O'Reilly, Craig Ferguson address Olbermann's exit: Bill O'Reilly didn't mention Keith Olbermann by... http://bit.ly/fXHLGi"
-MB30 35096973673500673 0 kknight58 "Obama Tells Bill O'Reilly: Let's Face It, Fox News Has A Point Of View: Here is the part of Bill O'Reilly's Supe... http://bit.ly/eCQzov"
-MB30 34989670014128128 0 Mary4Jane "What's Next For Keith Olbermann??? Announcing New Job Today ...: He's the Lindsay Lohan of pseudo- journalism. E... http://bit.ly/eD2YmZ"
-MB30 30032804997758977 0 K9_Conceptz "Alec Baldwin to Replace Keith Olbermann?: Amid the shocking news that MSNBC fired Keith Olbermann late last week... http://bit.ly/fjfg0w"
-MB30 30126875930001408 0 ssfashion "NBC Wants Alec Baldwin To Replace Keith Olbermann [Dirt Bag (After Dark)]: &#10;&#10;&#9;&#9;... http://bit.ly/e2A1r4"
-MB30 35026874094583808 1 deepthroatfiles "Keith Olbermann Officially Announces His Marriage to Al Gore [Television]: &#10;&#10;&#9;&#9;&#9;... http://bit.ly/hsK1nk #Strange"
-MB30 29737095501189121 0 fitness_shoe "Cenk Olberman premieres: &#10;&#9;&#10;Cenk Uygur got a 6 PM nightly gig at MSNBC when Keith Olbermann gave up his 8 PM gig... http://bit.ly/h56Yp8"
-MB30 29311416548720640 0 wickedlyhip "Week One of the Age of iPad was barely weekended when Keith Olbermann was removed from his position at NBC/Comca... http://bit.ly/hhKvic"
-MB30 29310458594861056 0 Tanning_Booths "The AirPlay Network: Week One of the Age of iPad was barely weekended when Keith Olbermann was removed from his ... http://bit.ly/hXggEk"
-MB30 29309559541600257 0 Geekeez "The AirPlay Network: Week One of the Age of iPad was barely weekended when Keith Olbermann was removed from his ... http://bit.ly/hCLC2R"
-MB30 29319573199126528 0 nycTrend "Olbermann wanted out a year ago: Departed MSNBC bloviator Keith Olbermann was singing his own swan song... http://bit.ly/dToLz9"
-MB30 31783125906362368 0 Bola_Kalejaiye "I Can Think We Can Assume Keith Olbermann Won't Be Working At ESPN After This ... http://bit.ly/g5tZWs"
-MB30 29228554164117504 0 LaneyAbigail "Behind the Keith Olbermann Firing: What Went Down? What’s Next For Host? – The Hollywood Gos... http://bit.ly/ihvnE9 Breaking news today"
-MB30 29544906452111360 0 VannsaHudgens "Keith Olbermann to Collaborate With Aaron Sorkin on New HBO Pilot?: In the 72 hours since MSNBC fired Keith Olbe... http://bit.ly/igIDLq"
-MB30 29559323877187584 0 blgx_Celeb "Keith Olbermann to Collaborate With Aaron Sorkin on New HBO Pilot? http://bit.ly/evw6wO"
-MB30 29355544636563456 0 bizleads "Keith Olbermann's Next Move -- Getting Social with Aaron Sorkin ...: Write what you know, the old saying goes --... http://bit.ly/e2ZtmY"
-MB30 29568649786294272 0 Paparazzi4U "#Perez #Hilton Keith Olbermann's Termination Gets The Taiwainese Animation Treatment!: Check out the L... http://bit.ly/eVmVtC #HiTechCJ"
-MB30 29840154139033600 0 Sixpaww "After Olbermann, Is Comcast Set to Overhaul MSNBC? Don't Bet on It ...: Keith Olbermann's sudden departure from ... http://bit.ly/hb9ee8"
-MB30 29928837219360768 0 AdzProz "Learning from Comcast, NBC and Keith Olbermann: Image via Wikipedia After the recent and sudden departure of Kei... http://bit.ly/g8p8A7"
-MB30 29137409614548992 0 Ur_WebInfoNews "Could Keith Olbermann be going back to his sports? Twitter profile says to ... http://bit.ly/h2qrpT"
-MB30 29122270815326208 0 AllGossipNews "#celeb #gossip #news Could Keith Olbermann be going back to his sports? Twitter profile says… http://goo.gl/fb/GykoG"
-MB30 35019841169653760 1 FINworldnews "MSNBC’s Keith Olbermann to host on Al Gore’s Current TV: Former MSNBC Show host Keith… http://goo.gl/fb/1rWxG"
-MB30 34977744446038016 1 AmericasNewsNow "Keith Olbermann headed to Current TV: Report: msnbc.com: Top msnbc.com headlines: Former MSNBC anchor Keith Olber...  http://goo.gl/3bBox"
-MB30 34738387298557952 0 recordsANDradio "Nauseating! RT @CNNshowbiz: Former MSNBC anchor Keith Olbermann will announce plans for his next job at 11AM tomorrow"
-MB30 29739385855414272 0 DTNHollywood "DTN Hollywood: Former MSNBC anchor Olbermann says career not dead: LOS ANGELES (Reuters) - Former MSNBC anchor K... http://bit.ly/h5zpTU"
-MB30 28981666257047552 0 stephenjlambert "TV Critic: Keith Olbermann Should Join Fox News | DAILYSPORTS NEWS ... http://bit.ly/fw9kK1"
-MB30 30900927636439040 0 WallStAndMain "Back so soon?: We may get only a brief reprieve from booted MSNBC gasbag Keith Olbermann. Sources say his ex... http://bit.ly/fLcaRi NYP"
-MB30 35036881632624640 2 advertisables "Olbermann Lands at Current, but Can He Grow?: NEW YORK (AdAge.com) -- Outspoken TV host Keith Olbermann, fresh f... http://bit.ly/iezYTA"
-MB30 35018849527009280 1 liberalideals "Keith Olbermann to Be &quot;Chief News Officer&quot; of Current Network: So if a liberal bloviates in the forest and only ... http://bit.ly/eWQYa9"
-MB30 35045204402642944 1 norelledone "Oh, dear: Keith Olbermann's new gig, revealed as &quot;Chief News Officer, Current Media&quot; | from Mediaite http://bit.ly/hEIrg3"
-MB30 35100242865029120 1 aviduser "Keith lands!&#10;&#10;&quot;@KeithOlbermann: Greetings from Keith Olbermann, Chief News Officer of Current Media! And awayyyyyy we go! #FOK&quot;"
-MB30 35005226276626432 1 katnip2011 "RT @KeithOlbermann: Greetings from Keith Olbermann, Chief News Officer of Current Media! And awayyyyyy we go! #FOK&#10;YAYYYYYYY!!!!!"
-MB30 35012493759750144 1 changents "Gr8 news! RT @algore: Welcome 2 Current RT @KeithOlbermann Greetings frm Keith Olbermann, Chief News Officer of Current Media! &amp; away we go!"
-MB30 35013184611950592 1 popGeezerRadio "New Chief News Officer of Current TV, @KeithOlbermann show will start in the spring. http://current.com/keith-olbermann/"
-MB30 29457689180372992 0 sloppygossip "&gt;&gt;&gt;: Keith Olbermann To Be A TV Comedy Writer? http://sloppygossip.com/perez-hilton/keith-olbermann-to-be-a-tv-comedy-writer/"
-MB30 34829699771269121 0 sekuritas "Keith Olbermann's New Job Is... - Keith Olbermann knows how to get people talking - and tweeting! http://ow.ly/1behHV"
-MB30 29549798671515648 0 AdAgencyNews "How Long Until MSNBC Regrets Dumping Keith Olbermann?: Now that the news of Keith Olbermann's stunning departur... http://read.bi/f0IbAF"
-MB30 35013770719789057 1 ThePlatznerPost "Reading about Keith Olbermann's move to @current TV: http://current.com/keith-olbermann/&nbsp;… via @keitholbermann"
-MB30 35038705525719040 1 MsMichelle "Reading about Keith Olbermann's move to @current TV: http://current.com/keith-olbermann/&nbsp;… via @keitholbermann"
-MB30 35033407956189185 1 QuixotedeMancha "Reading about Keith Olbermann's move to @current TV: http://current.com/keith-olbermann/&nbsp;… via @keitholbermann"
-MB30 35033208445730816 1 KCDurling "Reading about Keith Olbermann's move to @current TV: http://current.com/keith-olbermann/&nbsp;… via @keitholbermann"
-MB30 35041837710319616 1 zeldavross "Found him! Reading about Keith Olbermann's move to @current TV: http://current.com/keith-olbermann/&nbsp;… via @keitholbermann"
-MB30 29327816357060608 0 JohnTagliaferro "#TeaParty wins another round: Keith Olbermann http://sukiproject.blogspot.com/search/label/Keith%20Olbermann&nbsp;… #tcot #twisters"
-MB30 29240374220300288 0 martha_davidson "The Disappearance of Keith Olbermann http://shar.es/31g1f&nbsp;"
-MB30 34869477292122112 0 famegamenews "[Wall Street Journal] Olbermann May Have Current TV Deal: Mentions Al Gore and Keith Olbermann http://fga.me/eD1nWs"
-MB30 29971246665957376 0 shaun_fossett "Stephen Colbert Ruthlessly, Hilariously Mocks Keith Olbermann http://is.gd/XLCacy"
-MB30 29925616664969216 0 DeadlineTV "Lawrence O'Donnell Talks Keith Olbermann http://dlvr.it/F3msV"
-MB30 31213225030713344 -2 news4trends "#Media Keith Olbermann | Mediapart http://dlvr.it/FKS7C #KeithOlbermann"
-MB30 30921939086213120 0 weallbe "Keith Olbermann And The Death Of The ‘Left’ via W.E. A.L.L. B.E. - Keith Olbermann And The Death Of The ... http://tinyurl.com/6gov7bh"
-MB30 30416797735849984 0 Jean_ie "Keith Olbermann’s MSNBC Departure a Wake-up Call to Fix Broken US Corporate Media... http://tinyurl.com/4n2nlsb via http://commondreams.org/"
-MB30 29815769898418176 0 esterrick "Lawrence O'Donnel's TV Op-Ed on @KeithOlbermann 's Op-Eds for Countdown. Stunning commentary. http://tinyurl.com/4f3zxjl"
-MB30 29622651370610688 0 metheenaveeda "Keith Olbermann Is Out: An Analysis - http://tinyurl.com/66etfy9 - BiodunIginla"
-MB30 35092653800566784 0 shortsaledn "New blog posting, Two Big Lenders Loosen Mortgage Restrictions - http://tinyurl.com/4kko5zd"
-MB30 34801182207647745 1 BrushfireOrg "A bag of hot and and AlGore's global warming wet dream. A match made in hell. #tcot #bfire http://tinyurl.com/476oov8"
-MB30 30097449716555776 0 savannahterr88 "New 2GB SD Memory Card for Digital Camera PDA MP4 DC 2G: US $1.99 (0 Bid) End Date: Tuesday Jan-25-2011 19:56:40... http://bit.ly/eev2Uh"
-MB30 29395927944929281 0 savannahterr88 "NEW 12.0 MP 2.7&quot;TFT LCD DIGITAL Anti-shake CAMERA Black: US $24.99 (0 Bid) End Date: Sunday Jan-23-2011 21:50:10... http://bit.ly/gyUO9m"
-MB30 31675753112272896 0 Jesicaleen "New Top LCD + Bottom Touch Screen for Nintendo DS LITE: US $14.19 (0 Bid) End Date: Sunday Jan-30-2011 6:36:42 P... http://bit.ly/h18D30"
-MB30 30988390186881024 0 Jesicaleen "New Black Touch Stylus Pen For Nintendo DS NDS Lite x1: US $0.19 (2 Bids) End Date: Friday Jan-28-2011 7:38:15 P... http://bit.ly/gZdeO7"
-MB30 29417714116198400 0 rumerzradio "now if we could get rid of the rest of those wack political commentatorsStatistics: Posted by Brittle Ri... http://bit.ly/gzGWgb #Rumerz"
-MB30 35053026599243776 0 anthony_851 "Choosing the Right Antidepressants: By Dr. Keith Ablow Major depression affects millions of Americans, bringing ... http://bit.ly/gztEud"
-MB30 35084951967768577 0 telissa100 "Jane Harman's resignation is CIA's loss: In her new job as president and CEO of the Wilson Center, she's getting... http://bit.ly/h9eA3Z"
-MB30 35041113286905856 0 CoverLetterKing "Keith Olbermann to announce career move Tuesday – The Marquee Blog ... http://bit.ly/hTNbFj"
-MB30 34944116676632576 0 athesar "http://bit.ly/dQ4YoD Keith Olbermann to unveil new career on Tuesday"
-MB30 35095013121593344 1 coolmoviestuff "Keith Olbermann takes act to Current TV &#10;    (Reuters) http://bit.ly/hjwpdT"
-MB30 35082334201978880 1 PharmaSy "Celebrity Business: Keith Olbermann takes talents to Current TV? http://bit.ly/gv5Ntj"
-MB30 35107141077434368 1 Sports_A_Holic "Celebrity Business: Keith Olbermann takes talents to Current TV? -  http://ow.ly/3SMg6 #MSNBC Al Gore @current"
-MB30 31124183601647616 0 DaveWhitman "Egyptian President Hosni Mubarak has asked the government to resign.  Who does he think he is, Keith Olbermann?  http://ow.ly/3Mi57 #Egypt"
-MB30 29972757747867648 0 Danielb48 "Keith Olbermann breaks Twitter silence http://huff.to/giZCQK via @huffingtonpost"
-MB30 30662000795189248 0 jwf "OMG &quot;Keith Olbermann Breaks Twitter Silence&quot; -- so this is the state of journalism in 2011. back to pretending huffpo doesn't exist..."
-MB30 29984620619501568 0 Letsbcom "Keith Olbermann breaks his silence via Twitter http://bit.ly/h2pEAS #breaks #Keith #Olbermann"
-MB30 35108241729912832 0 knittaprince "@SpeakerBoehner Was that sandwich for lunch also job-crushing? How about that drive home? I'll bet more than a few jobs were crushed, eh?"
-MB30 32880320118267905 0 PesecCreative "How about this Media Decoder: Debut of The Daily iPad App: 'The Daily,' unveiled today, combines print, video a... http://nyti.ms/h4SMui"
-MB30 32220483856371712 0 camashta "Media Decoder: With Egypt in Crisis, Anchors Head to Cairo: As the uprising in Egypt approaches the one-week ma... http://nyti.ms/hYJdLB"
-MB30 29389974885371904 0 Dita_VonTesse "Olbermann Split Came After Years of Tension: Underlying the decision to part ways with Keith Olbermann were yea... http://nyti.ms/fOyxPa"
-MB30 34795900052176896 1 vicinomaha "Keith Olbermann is headed to Current TV, reports the NY Times: http://nyti.ms/dQoa9p Announcement planned for tomorrow."
-MB30 34798668628496384 1 rhythm7a "Is this true @KeithOlbermann ? Are you going to Current TV? http://nyti.ms/gvaEZD"
-MB30 34929094906880000 1 expatina "Olbermann going to Current TV? NYT http://nyti.ms/h4TOe5"
-MB30 35000675188350977 1 boygolly "Media Decoder: Olbermann Said to Be Going to Current TV http://nyti.ms/e3zcVz #politics"
-MB30 34804130178408448 1 GottaLaff "Miss this? Report: Keith Olbermann Said to Be Going to Current TV http://dlvr.it/G2QS1 #TPC"
-MB30 34846906664353792 1 Junior_Senior "Keith Olbermann Said to Be Going to Current TV http://dlvr.it/G2nn1"
-MB30 34850240989376512 0 Aurora_Jobs_USA "Aurora Job: Seasoned Sales Pros Looking For A New Home: GlobalCheck90 - Aurora, CO - Rainmakers and Go-getters... http://dlvr.it/G2qYx #Jobs"
-MB30 33853144312197120 0 Issaquah_Jobs "Issaquah Job: Staff Nurse - Issaquah Pre Admit at Swedish Medical Center (Issaquah, WA): our new... http://dlvr.it/FsJ9c #Jobs"
-MB30 35092773472444416 0 RealDownToMars "New @SoulCulture: Talib Kweli ft CyHi Da Prynce – “I’m On One (Remix)�? | New Music x Free DL http://dlvr.it/G68cm"
-MB30 35088763625537536 0 ML_Jobs "New #Job Business Development Mgr/ CA – Philips – West, TX http://dlvr.it/G66X4 #Jobs"
-MB30 31486990436278272 0 jobs4youu "Find job Business Applications/Soft Skills Trainer Hawaii Job in ...: Find job Business Applications/Soft Skills... http://bit.ly/gkVSTC"
-MB30 35105693551824896 0 CassidyQuinn "new blog post for Emerson Social Media (@socialemerson) - &quot;Easier Job Applications? Yes, Please!&quot;: http://bit.ly/e8IRoY #ESM"
-MB30 33009179241218048 0 hotincleveland "More KO from 1990: an obituary for b-ball legend Bob Davies on LA Channel 2's &quot;The Keith Olbermann Show&quot;: http://bit.ly/i4FYpP"
-MB30 29761486368808961 0 StudioBuzzBox "Keith Olbermann - MSNBC on 1 Fav Source+16 others like Gawker- http://bit.ly/fsKM2d"
-MB30 29241825080385536 0 abq77 "OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; statement and pass it on. http://bit.ly/f5JMLK @KeithOlbermann @brianstelter"
-MB30 29090724490248192 0 hummingbird1492 "OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; statement and pass it on. http://bit.ly/f5JMLK @KeithOlbermann @BoldProgressive"
-MB30 29053846495961088 0 headinguphill "OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; statement and pass it on. http://bit.ly/f5JMLK @KeithOlbermann @BoldProgressive"
-MB30 29031060394213376 0 Dowhower "OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; statement and pass it on. http://bit.ly/f5JMLK @KeithOlbermann @BoldProgressive"
-MB30 28980951778332672 0 halmay "OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; statement and pass it on. http://bit.ly/f5JMLK @KeithOlbermann @BoldProgressive"
-MB30 29988255407542273 0 MaryCPage "OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; statement and pass it on. http://bit.ly/f5JMLK @KeithOlbermann @BoldProgressive"
-MB30 29578245590482944 0 AdamH8sYou "OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; statement and pass it on. http://bit.ly/f5JMLK @KeithOlbermann @Romenesko RT!"
-MB30 29579375242379265 0 christik57 "OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; state&#10;Thank you Keith!"
-MB30 29290734393753600 0 TraceAbsence "Olbermann gone! But where will he pop up next?"
-MB30 34830179641597953 1 csjd "Olbermann going to Al Gore's 'Current TV.&quot; Wow, that's a big step up. Nice career move . . . .  #tcot"
-MB30 35085871237709824 0 BarackObamaLies "AP: Fired Keith Olbermann gets crappy job at some loser station that is seen by 20 liberals a night. LOL at loser Olbermann!"
-MB30 31180073339981824 0 NewNBCLogo "@kscottderrick I look awesome and Keith Olbermann is a hack."
-MB30 34802371464929280 0 Rushlimbang "looks like @keitholbermann is working for @algore  this will be a trainwreck."
-MB30 34816267248476160 0 DCdebbie "Guess what, bitchez! @KeithOlbermann is back! http://huff.to/f25AVe #FOK"
-MB30 30335249808363520 0 friendsofkeith "Per @FOKNewsChannel  &quot;Olbermania&quot; http://shar.es/30bFB and &quot;The True Meaning of Keith Olbermann&quot; http://huff.to/hhynUT via @huffingtonpost"
-MB30 29937761096044544 0 AndrewJasonB "Insightful take on @olbermann departure that gave me pause: &quot;Why I'll Miss Keith Olbermann&quot; http://j.mp/gt4Uii @WSJ"
-MB30 29950788285505536 0 freckles50 "I miss Keith Olbermann already."
-MB30 30108271826182144 0 MarcusNeal85 "This makes me miss Keith Olbermann. Would have loved to see him digest this live. @GSDouglas @CopAPhil"
-MB30 28992005367406592 0 gator_guy "This includes Keith Olbermann... &gt;&gt;&gt;Piers Morgan Reveals List of Celebrities Banned From CNN Show http://ad.vu/6myh"
-MB30 30459617989365760 0 Pistilwhipped "@KeithOlbermann   ..........and still raining in Oregon. - [Re:] http://moby.to/70f1kp"
-MB30 30481865592799232 0 PatriciaKellogg "This year it seems the Cleveland winters have shifted to NYC #HappyinCLE @KeithOlbermann  - [Re:] http://moby.to/70f1kp"
-MB30 30784946436055040 0 upnuzz "@KeithOlbermann I know! &quot;Best in Snow NYC&quot; calendars would be a hit! Make some $ - [Re:] http://moby.to/u2m89a"
-MB30 34797413155733504 0 Muse_Inc "@ImOlbermannLOL U r not the real KO. @keitholbermann only RT to palin/beck follows and girls on Plan B that show their boobs in the avatar."
-MB30 29196200179662849 0 SenatorLaw "Keith Olbermann -- Free Time http://bit.ly/hhXh80"
-MB30 29740145678749696 0 MattDickson "Keith Olbermann Turns to Twitter, Ignores Glenn Beck (For Now) http://bit.ly/hnYGKs"
-MB30 29699258110181376 0 NationalTalk "Vids Worth Talking About: Watch Keith Olbermann's Goodbye and Glenn Beck's Nov. Prediction That It Was Going to Happen http://bit.ly/hY75uU"
-MB30 29908997658116096 0 footballearner "Liberals trying to draft Keith Olbermann for Joe Lieberman's Senate seat - The Hill's Ballot Box http://bit.ly/g1wpOg"
-MB30 30800324566450177 0 WorldSpinnerUs "[Olbermann] A movement has begun to draft Keith Olbermann to run for the Senate in Connecticut. T... - http://wo-s.us/nr1"
-MB30 33984479601106944 0 ScanMyPhotos "Keith Olbermann should run to replace Joe Lieberman Connecticut senate seat. RT"
-MB30 35052919053099008 0 ReverendMojo "I think @KeithOlbermann should just call his show &quot;Keith.&quot;"
-MB30 28973478086451200 0 Hokey1feeds "Richard Geldard: Countdown, Network and Mad As Hell: When Keith Olbermann signed off his show… http://goo.gl/fb/evXNk"
-MB30 29548507777990656 0 ustechtweets "Keith Olbermann Hints About Why He Left MSNBC on Twitter - Hollywood Reporter http://goo.gl/fb/ijdgf #twitter #news"
-MB30 29816617319792640 0 ustechtweets "Keith Olbermann: unanswered questions may be coming via Twitter - Christian… http://goo.gl/fb/IVgUG #twitter #news"
-MB30 29628059120304128 0 bloggerstown "Keith Olbermann leaves MSNBC http://goo.gl/fb/7iDxx"
-MB30 28988927054450689 0 topitube "Keith Olbermann Leaves MSNBC, Ends `Countdown'"
-MB30 28967418856480768 0 GodDiscussion "Blog Update | Olbermann Leaves MSNBC, Ends Countdown Show http://bit.ly/fe7UYI"
-MB30 35092954200670208 0 jackiortega007 "Producers of global TV reality shows turn to India for profits: Endemol International BV, which produces the Big... http://bit.ly/fESVfn"
-MB30 34201131391393792 0 isabellajones88 "Polaroid 18.5 HD LCD TV &amp; DVD COMBO Model 1921-TDUB NEW: US $155.00 (1 Bid) End Date: Sunday Feb-06-2011 8:15:20... http://bit.ly/fES0uu"
-MB30 34302941850505216 0 Bidfactor "Ebay,Ending Soon! : Freddi Fish Water Worries PC MAC Game Software NEW CD: US $4.99 (0 Bid) End Date: Sunday Feb... http://bit.ly/gAzDXb"
-MB30 35087306696163328 0 webbyslist "Web Jobs -- Omnistar Etools Developer Needed  (New York USA): I purchased a few products from Omn... http://bit.ly/eQTCFF #webdesignjobs"
-MB30 35018582517616640 0 newsinru "#ново�?ти Ex-MSNBC хоз�?ин Кейт Olbermann возглавл�?ет к на�?то�?щему TV (AP): AP - Кейт Olbermann, которое по�?ледний... http://bit.ly/eFpOny"
-MB30 35108292325801985 0 upiqcom "Upiq Reviews : Monster Beats Lady Gaga Headphones - $59 buy.com free ship new: Rating: -2 Posted By: mbenzgt Vie... http://bit.ly/enrGX4"
-MB30 35108020551684098 0 SportsSyndicate "NHL Betting Tips – Toronto Maple Leafs at New York Islanders: Toronto Maple Leafs continue to confound hockey be... http://bit.ly/eyb1it"
-MB30 33949371229806592 0 1jobhelp "How is the job market for economists and finance professionals in ...: How is the New Zealand economy currently ... http://bit.ly/gfh3nF"
-MB30 34998193439637505 0 cmswire "FatWire Software's got some new job openings. Check out the Professional Services Architect position: http://bit.ly/i60dEv  #jobs"
-MB30 34870883625472000 0 Beliebin_Selena "I just took &quot;Justin Bieber Is A New Student , A Bad Boy , What Happens When He Meets You?&quot; and got: Part 1! Try it: http://bit.ly/gt3bUP"
-MB30 32817953808318464 0 XxSexyLexiXx "I just took &quot;Justin Bieber Is A New Student , A Bad Boy , What Happens When He Meets You?&quot; and got: Part 1! Try it: http://bit.ly/fRQNCx"
-MB30 32785651392839680 0 JenniB_JustinBx "I just took &quot;Justin Bieber Is A New Student , A Bad Boy , What Happens When He Meets You?&quot; and got: Part 15! Try it: http://bit.ly/fjGl39"
-MB30 32669919170527232 0 mzprinceton16 "I just took &quot;Justin Bieber Is A New Student , A Bad Boy , What Happens When He Meets You?&quot; and got: Part 2! Try it: http://bit.ly/fBYvN0"
-MB30 34683146989477888 0 Justforquizzes "I just took &quot;[SEASON 1; ALL PARTS] You hate Justin Bieber, but what hap...&quot; and got: Part 31: New Years' Party! Try it: http://bit.ly/dKskCN"
-MB30 33402624166334464 0 KyleighBentley "I just took &quot;LET ME GO! YOUR HURTING ME! ( a justin bieber vampire story all parts ...&quot; and got: part 12! new!! Try it: http://bit.ly/eLxMjB"
-MB30 31566600792449024 0 biebersisrock "I just took &quot;You were a new Vitoria's Secret model and you were a...&quot; and got: Part 1 Yay!!! I GOT THE JOB!!!!! Try it: http://bit.ly/gbNutC"
-MB30 33916046565965825 0 Kensiegirl121 "I just took &quot;(All Parts) + (* New Season 2, All Parts*) You've been friends wit...&quot; and got: PART 18, SURPRISE! Try it: http://bit.ly/i0s1Ga"
-MB30 34330690833092608 0 Princess1996san "I just took &quot;(All Parts) + (* New Season 2, All Parts*) You've been friends wit...&quot; and got: PART 18, SURPRISE! Try it: http://bit.ly/eAf10y"
-MB30 34861930996834304 0 16Sylvia "I just took &quot;(RATED R) UR A NEW CHEERLEADER AND ONE DAY JUSTIN AND HIS &quot;CREW...&quot; and got: INFO!!!!(READ FIRST)! Try it: http://bit.ly/gJw3UX"
-MB30 35103893276856320 0 NETROBE "We love this rumor!!! Blake Lively as the new Carrie? Look at their similarities... http://bit.ly/gJaIFA http://fb.me/GLkjfCw6"
-MB30 31269473738559489 0 rushty9999 "Aaron Sorkin delivers the news to HBO; The CW hunts zombies - From ...: Aaron Sorkin is moving back into televis... http://bit.ly/fhP57Y"
-MB30 35107715915194368 0 net_media "Google WM: I brought up a new proxy server on a new IP in the USA and I get redirected to Google Nicaragua, how ... http://bit.ly/fCWxJC"
-MB30 35092709626609664 0 emmapeel1960 "Arthritis in Dogs; New Videos to Help Pet Owners from The ...: Arthritis in dogs is an ongoing and serious chall... http://bit.ly/gkobyP"
-MB30 34863969403408385 0 JobWinstonSalem "Winston Salem Jobs Postdoctoral Research Associate, CEES - Wake Forest University -  Winston-Salem, NC: The newl... http://bit.ly/dIl5Ax"
-MB30 34948668163362816 -2 santaclause09 "#books #hot #trend #4: I Can Make You Thin - Love Food, Lose Weight: New Full Colour Edition (Includes Free DVD ...  http://bit.ly/bJ9oEL"
-MB30 34176929124843521 0 GulfOilSpills "New Mexico Politics: Regulators answer to Martinez: 1 story for 2010 was the BP deepwater oil well explosion and... http://bit.ly/e3OtMq"
-MB30 34217512027553792 0 CreditFinanceGo "iPad News, Reviews, Apps, Accessories, and Tips: By Bill | February 5, 2011 | 1 comment For today's Daily Deal w... http://bit.ly/etGV7L"
-MB30 34661761147731968 0 DNM_Tor_Bars "1/2 Price Appetizers and $5.00 pints of Keith's and Keith's Red pre and post Leaf Game tonight!... http://bit.ly/etqmb3"
-MB30 35078629301944320 0 TWT_NEW_TRUCKS "BIG GAY ICE CREAM TRUCK ON THE COOKING CHANNEL TONIGHT | New York ...: Our buddies in the Big Gay Ice Cream Truc... http://bit.ly/hrZgc8"
-MB30 35092614692741120 0 MaryMorrow123 "Matthew Morrison &amp; Chace Crawford Ready to Swap Shows!: And as for one celebrity who's already locked in her sec... http://bit.ly/ibOCS5"
-MB30 33895962699104256 0 jobs4youu "Find job Inside SalesSales Support Job in Queens 11435 New York US ...: Find job Inside Sales/Sales Support Job ... http://bit.ly/fXy2zM"
-MB30 30143877788729344 0 TheJobNinja "New Article: What are some job agencies in the US that help recent graduates from university find H1B visa jobs?... http://bit.ly/fB8qiz"
-MB30 33960788972544000 0 networkingjob "New Job Listing: Senior Network Engineer, Lead, Cisco, Juniper, MPLS, CCIE, JNCIE or JNCIP at P. Murphy &amp; ... http://bit.ly/f3cHSp #jobs"
-MB30 29707354828185600 0 jessieclmn "Based Business Free Home Idea Job Work: You can apply for a wider range of online computer work from home jobs. ... http://bit.ly/fyfBuJ"
-MB30 30614424804917249 0 peoplestring88 "A jobs strategy that works for workers?: Along those lines, the book, &quot;The New American Workplace,&quot; identifies t... http://bit.ly/f4kos7"
-MB30 30240155105234944 0 GermanJobsUS "German Job: Country Manager- Germany at Shutterstock (New York, NY): business in Germany * Fluent ... http://bit.ly/fnypUM #german #jobs"
-MB30 31156839374659584 0 Flatblack59 "Richlee Introduces The Hip, New Richlee Collection: One of the newest and fastest-growing classic car shows in t... http://bit.ly/h8pJuR"
-MB30 35084615215484929 0 JobsNewOrleans "New Orleans Jobs Maintenance Technician I OPS - Severn Trent Services -  Belle Chasse, LA: Overview :&#10;&#10;The Maint... http://bit.ly/g3PXJP"
-MB30 34672782952366081 0 GayMXtours "Let's Make Sex More Like Air Travel: Sometimes Tedious And Invasive Before That Sweet Take Off: &#10;In New York Cit... http://bit.ly/g2Q4jA"
-MB30 33890828145393664 0 AndroidDigest "androidpolice.com: Angry Birds v1.5.1 Is Here With A Wild West-Themed Episode, 30 New Levels, And A Graphics Tog... http://bit.ly/hXxqO0"
-MB30 34208313155522560 0 technicaqueen "Talk Android: Angry Birds Gets Updated Today, Adds 30 New Levels And Wants Access To Your SMS? http://bit.ly/hfqJtP"
-MB30 35107014719832064 0 JuanSrchAllJobs "Senior SAS Programmer job at Affinion Group - Stamford, CT http://bit.ly/hf0bgE #Indeed #jobs"
-MB30 34888268189278208 0 JuanSrchAllJobs "IB Tech - Global Rates &amp; Rates Exotic -… job at JPMorgan Chase - New York, NY http://bit.ly/hFZbgF #Indeed #jobs"
-MB30 35042328104148992 1 twit_new "Olbermann confirms new Current TV job via Twitter - Lost Remote: Olbermann confirms new Current TV job via Twitter. http://bit.ly/hnlov4"
-MB30 35024907704209408 1 avidvid "Looking forward to Keith Olbermann's new Current TV gig. Hope he brings Worst Persons with him."
-MB30 29725927323738112 1 danmar5 "#FOK News... Keith Olbermann's new cable news network!"
-MB30 29941605972578304 0 igossip "http://igossip.com/1402775 Craig Ferguson Addresses Keith Olbermann's Departure from MSNBC on 'The Late Late Sh"
-MB30 29761185796595712 0 gattotony "Keith Olbermann: Watch Craig Ferguson Tonight: http://wp.me/p10xlr-uo"
-MB30 35032113459896320 0 Yahoo "#YSpiking in am on @YahooSearch: Ken Olsen, narwhal, 20000 leagues under the sea, Priscilla Chan,  Keith Olbermann: http://yhoo.it/hiRl9y."
-MB30 31389492329848832 0 catclawtheatre "Good riddance, Keith Olbermann. Yelling insults and angry opinions at a camera isn't &quot;news&quot;. Now if only Bill O'Reilly would disappear too!"
-MB30 35054692371267586 0 ahscottnyc "@KeithOlbermann Congrats KO! Let the Current of great information and commentary continue to flow from the mind of Olbermann..:)"
-MB30 35008608190074880 1 denike "@KeithOlbermann Congrats Keith!!! How I wish Current was part of non uber-premium cable line-ups. Miss my nightly dose of Keith!"
-MB30 35018733135077377 0 sherrywilkins "@KeithOlbermann congratulations. This is exciting!!!!"
-MB30 34985126807085056 1 novismutz "Keith Olbermann Could Head Of Current TV, And 6 Other Stories To Talk About Today http://goo.gl/fb/mCjvb"
-MB30 29026787451215872 0 YourWorldNews "Keith Olbermann Has Reportedly Been Negotiating His Exit For a While, Now – New York Magazine http://goo.gl/fb/QOEij"
-MB30 34865606306037760 0 My_Alabama_Job "Occupational Therapist OT Travel Job - Medical Connections Inc. - New Hope… http://goo.gl/fb/Cnvic #huntsville #jobs"
-MB30 35107523174477824 0 Globaljobsdesk "Latest Job Openings Shaneika Dabney: The Packers Won This One…But Who’s Next?: Get Free Apple… http://goo.gl/fb/UJtHS"
-MB30 29058556569325568 0 perminute "Media Decoder: Olbermann's MSNBC Exit Was Weeks in the Making - New York Times (blog) http://goo.gl/fb/HqRg7"
-MB30 35108187162017792 0 dandyprojectjob "Business Project Manager Immediate Need in Charlotte, NC #job #jobs #hiring #tweetmyJOBS http://goo.gl/fb/oxoOL"
-MB30 35072667346280448 0 googlyfish_uk "&quot;New Job Post&quot; SAP Project Manager - SAP Project Manager SAP Project Manager required by consultancy client. SAP Pro... http://ow.ly/1beY73"
-MB30 34120035530178560 0 googlyfish_uk "&quot;New Job Post&quot; Account Management Executive Job - Account Management Executive  Job ID #:  15321 Company:   TripAdvi... http://ow.ly/1bcxhn"
-MB30 29878265388732417 0 comedy_feed "New #Colbert VIDEO: Colbert Report: 1/24/11 in :60 Seconds - Stephen covers Keith Olbermann's last Countdown, review... http://ow.ly/1b1eZy"
-MB30 29668568731754496 0 PlatoandPluto "One word:  Pathetic RT@NewsBusters &#10;The Worst of the Worst: A Look Back at Keith Olbermann's Most Outrageous Quotes http://ow.ly/1b0Ftz"
-MB30 30171790135271424 0 UrieBay "SOU just isn't the same without Keith Olbermann's commentary."
-MB30 29955911334232064 0 bigmlongoria "The Colbert Report|Stephen Rejects Keith Olbermann's Power http://www.colbertnation.com/the-colbert-report-videos/372015/january-24"
-MB30 29693851081900032 0 Julietta662010 "In the UK but staying up tonight to read Keith Olbermann's first official tweet..."
-MB30 34803715500146688 0 KeninEastman "#KeithOlbermann spurs new Nielsen ratings. Neilsen will personally call Olbermann's realtives to see who's watching."
-MB30 29575383770726400 0 LATimesEnt "The Morning Fix: 'No Strings Attached' scores big! Keith Olbermann's exit gets tongues wagging! Sundance sizzles... http://lat.ms/ih2r5M"
-MB30 29126743709188096 0 1977dclinton "I liked a YouTube video -- Best Of Keith Olbermann - Keith Slams &quot;Quitter&quot; Palin For Ha... http://youtu.be/OuoeVaVizjY?a"
-MB30 29157695613308928 0 FelixHBrownIII "I favorited a YouTube video -- Keith Olbermann Says Goodbye to &quot;Countdown&quot; http://youtu.be/EEjhMFMU5T0?a"
-MB30 29224621978947584 0 jachoukian "Senator Keith Olbermann (D) Connecticut - http://shar.es/31oOG&nbsp; - Let the chatter begin..."
-MB30 30393468186533888 0 tjwalker "MSNBC May Be Chttp://ping.fm/p0BY9 Alec Baldwin as Replacement for Keith Olbermann"
-MB30 31415895796482049 0 JKEHAYAS "@waitwait would love to hear keith olbermann on the show,would be a great! Now that he  doesn't work for MSNBC/ comcast. Hahaha."
-MB30 35028915617529857 1 MichaelRisoli "Keith Olbermann on Current TV... perfect we'll never see him again"
-MB30 35026814074093568 1 businessinsider "COUNTDOWN: Keith Olbermann Will Launch New Hour-Long Show On Current TV This Spring by @GlynnMacN http://read.bi/fn2uPK"
-MB30 34797423222067200 0 itsjusttbagz "I liked his show =(RT @BreakingNews Keith Olbermann, ex-MSNBC TV host, expected to announce deal with public (cont) http://tl.gd/8m6ati"
-MB30 32365966599921664 0 MsLisa_Michelle "That's what I've been doing all night! Come see me when u dj at my job :P lol RT @DJWHUTEVVA: @MsLisa_Michelle (cont) http://tl.gd/8hb2ip"
-MB30 35092911045611520 0 oyequetal "Yeah, right! That's what he tells her. &quot;First lady: President Obama has quit smoking&quot; &#10;    (AP)&#10; http://viigo.im/5Xc2"
-MB30 35085472183099392 0 sunkast "i find it rather interesting how the entertainment blogs are on top of olbermann taking a job with al gore... wtf cares?!"
-MB30 35031434343223296 1 sockrollShowbiz "Olbermann to become “chief news officer�? of Al Gore’s cable channel http://sockroll.com/cuoa6y"
-MB30 30976483837087745 0 AuditorRhodes "J. Fred Muggs joined NBC-TV’s Today Show this day in '53.  He was a chimpanzee, sort of a miniature Keith Olbermann -- 'cept he was funnier."
-MB30 29360350755295232 0 mypregnantpause "Hey HBO: Give Keith Olbermann a new show, STAT. Thanks much."
-MB30 29526606154305536 0 HowardKurtz "Keith Olbermann and the limits of anger, which can fuel TV success but can also consume you - and rile your bosses. http://thebea.st/etX1Q3"
-MB30 29902282887790592 0 DTNIndonesia "DTN Indonesia: James Love: Keith Olbermann and David Frum as co-hosts: A lot of people are speculating about Ke... http://huff.to/g2lDD7"
-MB30 29063343721418753 0 obamaisfailing "Caleb Ezra &amp; many like you:&#10;&#10;Welcome to reality:&#10;&#10;Most of us are here talking about someone we respected an... http://huff.to/gRezhH"
-MB30 35108346566549505 0 Freedomman11 "Sarah Chasis: Whales Are Back in New York Waters -- Bring Back Whale Research, Too!: We do... http://huff.to/ewIbca http://bit.ly/5yluCl"
-MB30 29004324285710336 0 obamaisfailing "Here's a question:&#10;&#10;While I doubt it, there is an inherent conflict of interest in a cable company owning a broad... http://huff.to/gpftYN"
-MB30 35046020488368128 1 DonCarlitos "Olbermannn &amp; Al Gore team up to bring Keith to Current TV as host and Chief News Officer. Great team, I'll watch. http://huff.to/dTq954"
-MB30 29952618084171776 0 Mom_with2boys "Maddow: Olbermann was 'freaking successful,' a 'pioneer' http://huff.to/i09SZY #FOK"
-MB30 35021385818439681 1 Callmephyfe "Current TV just popped up on radar in a major way.  #Hello! http://huff.to/hF1Ib3 via"
-MB30 29261926756253696 0 cab0305 "Join LeftAction now! http://leftaction.com - Support Keith Olbermann!!"
-MB30 28981659269337088 0 rumpfshaker "Heh. RT @MelissaTweets: RT @ExJon: Right about now, Keith Olbermann is sitting in his bathtub muttering something about a red Swingline."
-MB30 30231246747471872 0 padotnet "The Olbermann Era: Keith Olbermann is Not Dead. We Will Hear From Him Again! http://nblo.gs/dtRMR"
-MB30 31194783313567744 0 Madwomanmoon "@ReasonVsFear @KeithOlbermann The Olbermann bump?! :D"
-MB30 35100776388890624 0 kobermo "@KeithOlbermann  Keith, I am thrilled about your new gig.  Can't wait to hear your voice again - have missed you so much.  Yeah!!!"
-MB30 35043232371064832 0 enichols "@KeithOlbermann Sorry Keith.  Our local cable company doesn't carry current.tv.  Do they have live streaming?"
-MB30 32185133016551424 0 Donna_West "@KeithOlbermann Nothing new, I dealt w/these whackos at DMV. Right to travel is not right to drive. Right also doesn't include free airfare."
-MB30 30336619609333760 0 skap5 "Ha. Just received this email: Keith Olbermann Now Available for Keynotes &amp; Appearances!"
-MB30 35107485161492480 0 cherrybombnow "DR DRE'S NEW GROUP 2 MILLION DOLLAR CONTRACT..WOW!! &quot;Alter'D Ego&quot; LEAKED song http://www.youtube.com/watch?v=kLuee1SAE94 @RangerAndBlast"
-MB30 35060904089362432 0 ArticleDAU "New: Finding a Good Job in a Bad Economy http://www.articledirectory.net.au/finding-good-job-bad-economy/"
-MB30 35108163309015040 0 Femc2 "http://www.101x.com/morningx/index.aspx go to the end of the 7am call to hear my terrible job lying @JasonAndDeb"
-MB30 35107514622279680 0 Byrdbz "has just done a job in Torch a Failing Racket in #MobsterWorld http://www.playmobsterworld.com/?platform=twitter&amp;source=oneline_dojob"
-MB30 29706240594542592 0 odetuxxz "has just done a job in Petty Theft in #MobsterWorld http://www.playmobsterworld.com/?platform=twitter&amp;source=oneline_dojob"
-MB30 31485177158963200 0 MAI331KURO "has just done a job in Shoplift from a Drug Store in #MobsterWorld http://www.playmobsterworld.com/?platform=twitter&amp;source=oneline_dojob"
-MB30 35092419187834880 0 trucano "New FOSI Tool Monitors Online Safety Practices Around The World http://www.fosigrid.org/ via @FamOnlineSafety"
-MB30 31493333431881728 0 IT_Jobs_Rafikee "http://www.rafikee.com/job/69464 - Senior Javascript Software Engineer Job in Los Angeles, California (CA)"
-MB30 31492210289541120 0 Haiti_11 "cashier jobs, customers service job - Columbus, OH, New Yok, Florida, California... http://htxt.it/xThG http://bit.ly/i9wkpm"
-MB30 35106291395334144 0 pakikaka "#Traffic Social Security Searches - Promote This New Public Records Niche! http://bit.ly/i9FI5c #website #blog #cash"
-MB30 35108260902076416 0 RondaB4 "Looking for some fun love-themed drinks for the 14th? Check out @iSwig seasonal update w/lots of sexy new drinks! http://bit.ly/bgTCac"
-MB30 35096912944168960 0 fresh_trends "Current TV to snag Olbermann? - CollegeNews http://bit.ly/ebGSbX"
-MB30 34277189813796865 0 socialnewsrooms "Seaway Media Hosts One Day Seminar on Social Networking – Sunday February 27 ... - Cornwall Free News http://bit.ly/f70dRT #socialmedia"
-MB30 31491608310448128 0 JobHitsUS "Mechanic job in Knoxville, TN at Tire Kingdom / NTB / Merchants http://bit.ly/fqpZSZ #technician"
-MB30 29309498418008064 0 intersrchmedia "Immelt In – Olbermann Out - http://bit.ly/fthaSA"
-MB30 29060183179137024 0 ArthurPolitics "The Huffington Post Blog- http://bit.ly/gUfQRh"
-MB30 29206084761690112 0 AmandaMarcotte "http://bit.ly/gpJM2T Good points. We shouldn't gnash our teeth, but instead move right into demanding a better replacement."
-MB30 35108223988154368 0 Journey2Financi "Post updated February 8, 2011 - New Coupons at coupons.com. Read it now at http://bit.ly/gcaJCT"
-MB30 33053034195984384 0 PA_Jobs_USA "PA Job: CLINICAL NURSE Pediatric ICU: Nursing Clinics at Yale New Haven Hospital in CT http://bit.ly/gLYaXG"
-MB30 31002392606547968 0 ResumeStrategy "&quot;The new platform, called the .JOBS Universe (www.universe.jobs), is a stunning transformation...&quot; http://bit.ly/hyrW6T #Yawn #Overstated"
-MB30 35107751008935936 0 EP_Questions "New Question: Did Rock and Roll save your life from unbearable tedium ? (Did for me).:  http://bit.ly/hX78xs"
-MB30 35107067807137792 0 zabohdan "If we would have new knowledge, we must get a whole world of new questions. http://bit.ly/cVNAlt"
-MB30 35085983829463041 -2 economyhosting "#hosting #webhost Bargain Hosting Plans: Virtual Machine: Reasons to Have One: The key to the ... http://bit.ly/hHoEOy #webhosting #host"
-MB30 34833170868215809 0 HipHoptweets21 "Hip-Hop Rumors: 50 Tyson Beaten Up? Ace Hood Run Outta Club?: 50 TYSON BEAT UP AGAIN?&#10;&#10;You know, people are g... http://bit.ly/fmEbfw"
-MB30 32224695155687424 0 people404 "#people Question: keith urban?: Question by tina m: keith urban? i think keith urban should be in jail if he bea... http://bit.ly/fMmZ9a"
-MB30 34464344670478338 0 feelmagazine "Keith Urban, Maroon 5 kick off party in Texas: ARLINGTON, Texas     (AP) -- Keith Urban, the father of a 5-week... http://apne.ws/gl5zyC"
-MB30 35074800288276480 0 JeffMoore_81 "Vibin out to some Keith Urban."
-MB30 35095735439458304 0 AEGLiveCarolina "Keith Urban will be rocking James Brown Arena on August 13th!! Tickets are on sale this Friday, more details on FB at http://on.fb.me/i7gO8s"
-MB30 34938044138131456 0 SportRecruit "NEW JOB: Customer Relationship Manager in Leicestershire. Apply at http://ow.ly/3Sibl"
-MB30 35086510696955904 0 CorvetteBlogger "Corvette Racing’s New 2011 C6.R Livery Spotted at Sebring Test http://ow.ly/3SJaW #corvette #alms @corvetteracing"
-MB30 35079188088098816 0 AsthmaSociety "New asthma drug being reviewed in Canada. Help us convince the government to list it on public drug plans: http://ow.ly/3Sxvl"
-MB30 35072594151481344 1 nobodysnews "#tcot #teaparty #p2 Limbaugh's advice to Fox News on Olbermann to Current TV: Ignore it http://ow.ly/1beYbo"
-MB30 34784872929169409 0 NMwork "NY BANK JOB - Financial Engineer - NY-New York, Job ID: 7152Position Description:Constantly rising volumes, around-t... http://ow.ly/1beau5"
-MB30 32478466137919488 0 DirectSEO "US-AR JB Hunt Fleet Manager Job http://ow.ly/1b828U"
-MB30 34572884634501120 0 befcreative "News Update Walt &amp; Company Named D-Link PR and Social Media Agency of Record - PR Newswire (press release) http://ow.ly/1bdubt"
-MB30 34984756227612672 1 meblakney "Check out &quot;Olbermann's New Job---on Current TV!?!?&quot; at http://current.com/items/92965508.htm"
-MB30 34833907069370368 1 parrisann "http://current.com/news/92965508_olbermanns-new-job-on-current-tv.htm http://fb.me/GHaiXh3Q"
-MB30 35092520497061888 0 RalphHipp "I've posted fresh snow storm video out of Wichita at this link. Special thanks to KAKE-TV for sending us these... http://fb.me/Ss842SQ1"
-MB30 34754825472180224 0 HipHopHitsRadio "Wanna See Our Top 5 Super Bowl Commercials? Check Em' Out @ hiphophitsradio.com!&#10;New Music This Week:&#10;Just Can’t... http://fb.me/OazUhQ2y"
-MB30 34878213394145280 1 fulscrn "Darling of the user-gen set, Current TV, scores darling of the progressive left Keith Olbermann. http://fb.me/UfbCqXV9"
-MB30 29036457582665728 0 AslamQazi "BREAKING: FoxNews Hires Keith Olbermann…. http://ff.im/-wH0lv"
-MB30 35023516856225792 0 VicksieDo "@current Great network adds Keith Olbermann, great news!"
-MB30 28991762634637313 0 lmarina55 "to Keith Olbermann,&#10;you will be missed greatly . . . &#10;ALOHA, Good Night, GOOD LUCK and &#10;aloha blessing rainbows from honolulu,&#10;omm&#10;marina"
-MB30 35042907433992192 0 EagleAdLab "NYT article refers to Keith Olbermann as &quot;the former top-rated host&quot;.  Top rated?  Compared to what?  Lawrence Welk? http://nyti.ms/gQu5hH"
-MB30 32514498879291392 0 houseofbamboo "Channels Join Fight To Broadcast Al Jazeera In Egypt http://nyti.ms/gsov3F"
-MB30 34852514805448704 1 lrrykeho "Is public affairs channel a euphemism 4 not profitable? Olbermann, has deal w/ public affairs channel Current TV - NYT http://nyti.ms/hpTTR1"
-MB30 30695513569370112 0 mhelft "Murdoch's iPad only newspaper coming Next Week - http://nyti.ms/gLoD4g"
-MB30 34942034594897920 1 tebuckey "Olbermann's announcement is he is joining Gore's Current TV. He found a spot with less viewers than MSNBC. I didnt think that was possible."
-MB30 34799400995786753 0 musikcommunity "Keith Olbermann Teases Big Announcement on Twitter http://bit.ly/eNV56k"
-MB30 29592299935633408 0 politicalwind "Glenn Beck: &quot;Keith Olbermann Is The Biggest Pain In The Ass In The World&quot; http://bit.ly/eKE0Mh #glennbeck #912project"
-MB30 34808165694443520 1 loveolbermann "@tduggerdick Yeaaa! Keith Olberman is going to join Al Gore at Current TV. Will u follow him? Here's the story: http://bit.ly/dQzZYP"
-MB30 35093025747251200 0 spintricity "AREA With MAURO PAGANI - Reunion In New York Brecht Forum 2/5/2010 http://bit.ly/eabSQx via Rarities Mattters http://rarities.mattters.com"
-MB30 35092791679787008 0 Roommate_NY "room for rent (elmhurst) $700 http://bit.ly/fYeRCA ►New York City"
-MB30 34040801348554752 0 brudinhasan "watching, playing with enjoy http://bit.ly/gq45eF (via @GetGlue) #olbermann"
-MB30 35048100355637249 0 freelanceonjobs "New Job: Mancuso Consulting Group http://bit.ly/gNGxx7"
-MB30 30091995246497793 0 blgx_Business "Black Eyed Peas Front Man Has a New Job at Intel http://bit.ly/gy1UQi"
-MB30 32870501240016896 0 healthcarejob__ "Healthcare Job: New Hampshire Urology Position: Physician Urologist at CompHealth in NH http://bit.ly/g21FZt #hospital, #jobs"
-MB30 33035116607442944 0 jobsnemployment "Good Phone Skills Are Critical To Your Job Search http://bit.ly/i6MU1Y"
-MB30 35040770519994368 1 news_essential "Olbermann and #Current TV: His Oprah Moment? http://bit.ly/ifrFFc"
-MB30 35092702248837120 0 StarGTANews "Hume: New subway station could be major stop on the road to Toronto’s future http://bit.ly/hTAYXl"
-MB30 31774521648218112 0 whyfake1 "Olbermann Unemployed http://bit.ly/e6fPxG"
-MB30 34326095771734016 0 OhReallyPoet "HAVE U HEARD... Eminem To Endorse Chrysler In New $9 Million Super Bowl Ad http://bit.ly/fO196R &lt;~ JUST CURIOUS??"
-MB30 35089426493210624 0 Bethel5952 "Proofreading Jobs http://bit.ly/gXhEpT"
-MB30 29569991107940352 0 EINMediaNews "Olbermann Leaves 'Countdown' on MSNBC http://r.einnews.com/vhjpPK"
-MB30 32207456406867968 0 Carol85719 "Love this man &amp; this video.#FOK #CNN #MSNBC http://thepoliticalcarnival.net/2011/01/28/video-blunt-good-night-and-good-luck-keith-olbermann/"
-MB30 35100745955020800 0 noni_keith "No looking back"
-MB30 35091625797488641 0 thewinnipegger "@Keith_Dowler the kid was on the news yesterday :D what an awesome experience for a boy his age."
-MB30 30407352846909441 0 saumarjyoti "Thw whole new stuff In your experience, have you ever fired a new employee during the first 90 days on the job... http://linkd.in/ghJLYq"
-MB30 35003484894011392 0 FN_Press "Quality Networking LLC - QNLINK.COM Free Job Board - Unleashes New Services for Job Seekers,... http://finanznachrichten.de/19305156"
-MB30 35106575240663040 0 shreyaskini "New HTC with Android spotted in promotional video, possibly Wildfire 2?: &#10;Look, it happens -- sometimes your vi... http://engt.co/dIB50Z"
-MB30 32243917562847232 0 jlhoekstra "Here's to new endeavors...  http://jlhoekstra.blogspot.com/"
-MB30 35107806919131136 0 jejefresh "Lol RT @kobikwelu: Changed?? Upon all deir advert. Rotfl. RT @ciiphii: na new specie cos i changed from mortein RT ... http://tmi.me/6xlcE"
-MB30 32009533433847808 0 nandhla "Nicole, Keith show off pics of their new baby girl:  Melbourne, Jan 31 - Nicole Kidman and husband Keith U... http://tinyurl.com/6knwv9n"
-MB30 35092854699196416 0 BellaDonnaizhot "**NEW VIDEO**!!! &quot;Behind the Scenes of @BellaDonnaizHot 'THE PAYBACK' Video Shoot!&quot; - http://tinyurl.com/MakingPB RT!"
-MB30 31486484259282944 0 MBAHighway "JOB: Industry Head, Multi-Sector - Oslo, Internet / New Media, Oslo, N/A, Norway http://tinyurl.com/6bo9uma #job #mba #jobangels"
-MB30 34687436235743233 0 BootCountry "Now playing Big Blue Note by Toby Keith from Toby Keith: 35 Biggest Hits #NowPlaying - iTunes: http://tinyurl.com/4f8d9wf"
-MB30 35068585340571649 1 theactionman "@marklevinshow Keith OberWoman has a new gig with Al Gore's &quot;Current TV&quot;. A match made in purgatory."
-MB30 35062140473712640 0 sophluvsbradley "@LinziByrne no. had 2 from keith though :-)"
-MB30 35052880113172480 0 iboudreau "@cottonrc @mcmuffinofdoom We hates Olbermann worshippers. Hates them."
-MB30 29283580844703744 0 bill_oreilly_DN "MSNBC FIRES OLBERMANN. &quot;What I hated most about Olbermann&quot; - Post Game Analysis by Roachenator #debsnews http://pod.ly/tvr/1372809"
-MB30 29774319663972352 0 bill_oreilly_DN "Olbermann FIRED from MSNBC - NBC ComCast executes HATE MERCHANT Olbermann #debsnews http://pod.ly/tvr/1369513"
-MB30 29701262417068032 0 KIngLou54 "Keith Olbermann for Senate!"
-MB30 29113152574590976 0 raynmaynard "Keith Olbermann or something of the like. Ha ha! Thunder stolen hermano!"
-MB30 29233767532986368 0 mass_writer "Well, well...looks like MSNBC cancelled Countdown w/Keith Olbermann. Time to complain to MSNBC. #msnbc"
-MB30 29212520212340736 0 careoctavia "#MSNBC: You really messed up this time. Keith Olbermann attracted like more than half of your nightly viewers. Carry on Rachel."
-MB30 35016607688425472 1 RVing5150 "For you fellow @DirecTV customers, Current TV is on channel 358! Woohoo! I get to watch @KeithOlbermann again! #FOK"
-MB30 32185388617437184 0 TeamOlbermann "@KeithOlbermann Hey Keith, perhaps when Baseball season starts, you should come down here to Tampa for @RaysBaseball! :)"
-MB30 35018560514437120 1 itsweezie "@KeithOlbermann #FOK | Direct TV - 358; Dish - 196; Comcast 107 &amp; 125; Time Warner 103 &amp; 142"
-MB30 29207829034311680 0 obssee "I hope Keith Olbermann, starts his own FM raido show. I wish you Good Luck, I miss watching you on MSNBC.  I"
-MB30 35015006298832897 0 proudbuck "Keith Olbermann, who cares..Keith and Al, peas in the pod"
-MB30 30082780733902849 0 salomey5 "@abaesel2 I've installed the patch. Seems to work since my &quot;celebs&quot; column is now flooded by tweets from Keith Olbermann, lol!"
-MB30 34977268832931840 0 Maxxadam64 "@floridaline Keith Olbermann put it perfectly when he responded to some other Palindiferous ramble with,&quot;that woman is an idiot!&quot; #FOK"
-MB30 29582966246088705 0 blossom423 "I'm supporting Keith Olbermann @teamolbo"
-MB30 30695116607848448 0 elisalorello "@MJMcKean I share a birthday with Keith Olbermann?"
-MB30 35008352257974272 1 KURV_ONLINE "Keith Olbermann to host primetime news/commentary show for Current TV, where &quot;news is produced independently of corporate interference&quot;."
-MB30 30841055502929920 0 DCdebbie "@FBerman I can't get Keith Olbermann to call me. I gotta work on one problem at a time. xoxo"
-MB30 29739778115112961 0 sabrinaco "keith olbermann &lt;3.  contract ended eh?  I blame comcast."
-MB30 32117435486183425 0 PMEWhite "Keith Olbermann Bashes Vietnam Vet's Letter to the Editor About Him  http://j.mp/dZevMP via @AddToAny"
-MB30 29200278376947713 0 geeoharee "'...his personal e-mail address references Fred Merkle...' As if we couldn't have guessed. http://j.mp/gxCV4N (ht @TheFix)"
-MB30 34716712821587968 0 Colin_Jones "Olbermann is going to announce what's next tomorrow morning. Interested to hear his next move. http://j.mp/heJyge"
-MB30 29378212928684033 0 MDMRN "Draft. Keith. Olbermann. Those Kos-kids really have lost it. http://j.mp/fnvnRn #asinine #tcot #tlot"
-MB30 29214376531599361 0 ronnie_bluesman "Keith #olbermann's support for the Free Clinics will be missed."
-MB30 30097361027993600 0 Raptor2u "If it were 20 minutes you'd be btchn about that. Relax. RT @BorowitzReport This speech is so long, Keith #Olbermann could have ... #SOTU"
-MB30 29052442716934144 0 ArielePratt "Olbermann's split with MSNBC may have been long in the making http://www.washingtonpost.com/wp-dyn/content/article/2011/01/22/AR2011012204023.html&nbsp;… via @washingtonpost"
-MB30 35092616949272576 0 restaurantcrfa "From our #Blog: Restaurant Central delivers! Here are a few new items posted to Restaurant Central in the past week: http://wp.me/p1cApE-8m&nbsp;"
-MB30 30008322966945792 0 MarketingMama "My new post today: 4 ways to stand out from the crowd in your job search: http://wp.me/p1hdku-2c&nbsp; #blog #marketing #HR #jobs"
-MB30 32870587370045441 0 PegsKatzencats "Funny how someone &quot;w/only 3 viewers&quot; is generating so much Press.  http://look.ac/dTAC3f  #FOK  They fear you, Keith. :D"
-MB30 33410580383539200 0 coverawards "@FOKNewsChannel Forbes on Keith tweet http://blogs.forbes.com/markpasetsky/2011/02/03/news_rupert_murdoch_keith_olbermann_fox_msnbc_19819/"
-MB30 35074542518931456 0 CPGjobs "New job! PROJECT ENGINEER (#27343) in Other, Chattanooga, TN http://cpg.jobs/B56 #cpg #jobs"
-MB30 34665147922391040 0 CPGjobs "New job! MERCHANDISING REPRESENTATIVE (#27328) in Merchandising, New Paltz, NY http://cpg.jobs/B4F #cpg #jobs"
-MB30 35108324609368064 0 thiiagonobre "A @biiarosseti nem me ama mais, vou chorar!"
-MB30 35108111157166080 0 thebfilmextras "A new song AND a few new photos...? Check it all out at www.thebfilmextras.com. Can't wait to give you all so much more!!"
-MB30 35108353818501120 0 iBonitoo "@CariiissaaBaybe Tell your new boo i said wassup."
-MB30 35106719482916864 0 robertojsg1 "Allrecipes.com Unveils Interactive Menu Planner; New Flexible Meal Planning Tool Allows Home Cooks to Plan Menus for ...: http://cheap.h..."
-MB30 35093157335011329 0 Letschatmoney "#younotfromWatts if u aint neva had a summer job wit waynewright lmao"
-MB30 35093087034286080 0 ReneWeistra "New favorite @sondcloud: Dj Got Us Fallin In Love Again (HYPER CRUSH REMIX) by Hyper Crush on #SoundCloud http://snd.sc/hIE3iy"
-MB30 35107371697045504 0 CamBusk "My new favorite song. The Spanish version of Hotel California. #awesome"
-MB30 35092555142008833 0 Paige_Victoria "Sooo no favorite music bloggers in the midwest area I see.. Maybe I will quit my job and start my own! Justkidding @wgpr..."
-MB30 35093063634255873 0 asphotos "I'm going to The HSV factory today. Unfortunately. I'm not collecting a new car :("
-MB30 32190284594941953 0 commsdan "@michaelsavage congrats on the new job."
-MB30 29927183866667008 0 aden_76 "@katebennet er...crowdsource what? Ps congrats on the new job."
-MB30 35074091006304256 0 ShellyStarz "Congrats to my boo @MissEazyBaby on the new job.. go ahead and get that cake girl!!!!... get it?...lol"
-MB30 32019758597537792 0 westcorkonian "@Dorasbeag best of luck in the new job. Hope all goes well for you"
-MB30 32599466846461952 0 tcsuliv "Day 2 at the new job. God I gotta study more Japanese."
-MB30 35065340064956416 0 6Magazine "First day at the new job"
-MB30 35081419256500226 0 DennisWestower "New followers, if u want me 2 follow back just ask"
-MB30 35046961262362624 0 sightofthenav "Thanks to all the new followers, sorry not much tweet action right now.  New job, a second emigration and a family bereavement all in Jan!"
-MB30 31866866444017664 0 CLamarFultz "Shouts go out to my new followers wats crackin!"
-MB30 35107370874970112 0 soINCONSIDERATE "s/o new followers i followed some of yall back"
-MB30 35093041505107968 0 manicvic "Only 6 months til New York"
-MB30 35092881698074625 0 sportalkorg "New post: snooker spin?"
-MB30 35092774432804864 0 umweezy "but it aint workin so I gotta let u go.....#np new impressions"
-MB30 35092750110162944 0 Shayne_Brown "MY NEW VIDEO IS ON MY BLOG NOW CHECK IT OUT!! http://shaynebrown.wordpress.com/"
-MB30 35092661492785152 0 OliveaCouture "Can somebody get me a new car...Thanks in advance :)"
-MB30 35092644115775488 0 throatspiders "Apparently you can listen to the new @DRUGS album already? But I believe in release dates, so I'll just wait till the 22nd :)"
-MB30 35092552310849536 0 lilruth "Job Interview Skills Need Polishing – New Report Finds | iNews Connect http://ff.im/xAwAs"
-MB30 35092530282364928 0 jpthadon "NEW SONG FT NEW WAVE UP NOWWWWW ON FB"
-MB30 35092522682290176 0 Helennn_Louise "@Sarah_A_Warner hey baby, I already know how to shake my hips so I needed to learn something new ;)"
-MB30 35092460921159681 0 tiggermouse "@Themoodymann did you see my new avi? *grins* *bats eyelashes*"
-MB30 35092320000933889 0 peter_j_gilbert "Hmm open syscall in #android with O_CREAT flag to create a new file and no mode argument results in random permissions bits. Seems broken."
-MB30 35090887075823616 0 carnaobeats "Shouts to all my new déjà family I feel welcomed !!!!!"
-MB30 35092981765783552 0 dan_martin29 "How unlucky, moving out of the family home and onto a caravan site in Slough, what dreams are made of! #bfgw"
-MB30 35090853663870976 0 scedmonds "New blog post from @kevineikenberry  http://tiny.ly/4nDd"
-MB30 35090588588048384 0 TravelOTC "Three Busker Festivals that Feature Crazy-Talented Street Performers : http://totc.us/qwg #TOTC_New_Story"
-MB30 29879089397506048 0 JimEltringham "In the MSNBC shakeup, Olbermann is Favre, Maddow is Aaron Rodgers: http://wp.me/psu0N-Dh"
-MB30 35088117077639168 0 NYCTrends "New music from Harlem's own B/A @HansomManson -Flight School - Buckle up, he's taking you on a ride! http://sns.ly/wSbty4 #JMG"
-MB30 35086977644761088 0 jimbeamofficial "Don't miss the TV premiere of our new commercial, airing tomorrow night on FX during the season premiere of &quot;Justified&quot; at 10 p.m. EST."
-MB30 29296063575752704 0 EmmaLoves_1D "@Mrs_Lauren_Murs :D thanks Lauren!&lt;3 x I thought it might bore some people!:L x lol!x urm, it should be up tomorrow night or maybe Tuesday!x"
-MB30 30356210267979776 0 julzz_neo "@Bundleberry. I now the feeling. Same here. I have Friday off so beer o'clock for me tomorrow night. Lol. What job do you do? :-)"
-MB30 32117857999388673 0 Monoxide "@JuggaloZombie we're supposed to get over 20 inch tomorrow night, I'm kinda scared lol"
-MB30 35084817108447232 0 sugaware "Old bitch acting funny im with my new hoe ........&quot;"
-MB30 35081446184058880 0 nemthakreation "Uncle @SnoopDogg you forgot to add New Mexico in your Get Wet Tour line up!! Holla at ya nephew @NemThaKreation one time.. New Mexico pls RT"
-MB30 35080828702691328 0 JAG1Prod "Madddd... Voicemail ! RT @chez_jop: think fat ppl cyaa dance well u mussi drunk.. watch biggi do di new dance biggi bounce"
-MB30 35080175133659136 0 DrJays_com "New Music: @RealWizKhalifa, @NBTPain, @ChrisBrown, @TrinaRockstarr http://goo.gl/3UGW8"
-MB30 30408268228599809 0 WeloveBravoloui "I Just Watched Khalil Video For The First Time I LOVE IT...He Remind Me Of Chris Brown &amp; Soulja Boy (When He Was Cooking) Lol...New Playlist"
-MB30 35089540737662976 0 3MillionDs "New post: Online Earn Money Job - 106247 | Free Global Classified Ads  #makemoney #money #earnmoney"
-MB30 35089107042435073 0 spottyj "Glee Season 1 + my makeup kit to type up + new job = blissful evening"
-MB30 35086265212866560 0 MuckyDesignz "Aite I have given up with my new job search and decided to become a full time #JobSeeker"
-MB30 35082736100184064 0 DBayesClarke "@DjDEANOg think of Ibiza mate. Thought u was getting a new job? Still looking? Xx"
-MB30 33530158036025344 0 duncangrantz "Man I'm glad I'm getting a new job."
-MB30 29004081334853633 0 JoeySPAZUM "These hours I'm getting are so whack, I NEED to find a new job."
-MB30 30447714873376768 0 jessicajo93 "@jwbrocket75 I'm trying to find a new job.then ill quit."
-MB30 33237241694257152 0 MartinPlante "I think someone behind @KennethCole should find a new job. http://slm.cd/eD6VkX  http://slm.cd/gCIfIz"
-MB30 31897790787362816 0 kjbrazil "@biscuiterie @Catthiel I'm moving in with my mom until I find a new job."
-MB30 30088970524172289 0 Maemesha "think its time I find a new job"
-MB30 30358697628663809 0 lig "today is a day when I would not mind a new job. *sigh*"
-MB30 35072136401915904 0 k8thegr81 "@mulktide how's the new job going so far?"
-MB30 35059498561441792 0 MaccaAddison "New job is taking up alot of my time at present, sorry for lack of tweets"
-MB30 35053490048864256 0 pixeldust30 "Sometimes I think that my new job is just too thinky think thinkie for me."
-MB30 30505165601636352 0 pmaisha "second at my new job and its great"
-MB30 35050555134976001 0 jdbutler88 "@stephbiagioni @tvanderloop  If you're constantly putting out info that's fast but false then you might need a new job.  #smcchat"
-MB30 32620903426695168 0 thehotchkid "This. RT @blackoutRF I need a new job."
-MB30 33918627652575233 0 OneCockySOB "@jazzabelle89 he'll yeah I need a new job."
-MB30 30053229370802177 0 dynaMIC_Heart "I need a new job.... &amp; a new location. Chicago is such a petty city lol. shoulda jus left"
-MB30 34496575807950849 0 Cryyyystal "Wow I've never had so much drama filled in a day before..... I need a new job."
-MB30 30491987480154112 0 mz_agood "i need a new job"
-MB30 30272488101384193 0 jasmineonlyone "I need a new job that pays more man this ish it for the birds!"
-MB30 35093246086479872 0 theloudfew "Did you know #Facebook has a Recommend button you can add to your blog? #bss11 @MariSmith"
-MB30 32472010986618880 0 MMaryMcKenna "Did you know that our new @MyLearningPool subscription contains a module called &quot;Get That Job&quot;? #elearning #socent #3rdsector #volsec"
-MB30 35093226671050753 0 PrettiBoiJULIAN "http://twitpic.com/3xt37e - Jus picked up my moms dog from the groomer, she dead ass has bows in her hair lol"
-MB30 35093064347291649 0 helena7623 "Second place always has alot to prove &lt;3 http://twitpic.com/3xt30r"
-MB30 35107743614373890 0 STREETTALKCEO "@LILBANKHEADV103 check out @T_WILL4real new single #GOOSEBUMPS  http://twiturm.com/s7sio ---meet &amp; greet 2morrow @ throbacks!"
-MB30 35092634343055360 0 MissShayMarie "is it fat to go home and eat then go work out #justwondering"
-MB30 35092551186780160 0 LucieOgara "who has been your friend the longest? — danielle and martha and abbie:) http://4ms.me/fpZu7q"
-MB30 30108904813756416 0 traciemcwilkes "@TruthBToldpoet do u think Olbermann will get another show?"
-MB30 29040760858873856 0 jelunde "Olbermann asking for more $$$ is like Obama asking for 8 more years.  Seriously?! #tcot #gop"
-MB30 31494174696022016 0 svj111 "Going to my new place to drop things off..hopefully my new roommates aren't drunk already.."
-MB30 31494024162447360 0 brentonmiles "Spiritual Warfare my friend. Comes with the job. �?� RT @taylorawelch: @brentonmiles it's like the same things happen to us."
-MB30 30751253059346433 0 SeeChelCGo "eww lol RT @ThatsWhatJVSaid I like how everyone noticed i'm wearing the same thing from last night. Great job for paying attention. -_____-"
-MB30 31493527829479424 0 P3T3RK3Y5 "Wow @tabulagaza - great job on @AJEnglish - way to bring it."
-MB30 31493421063471105 0 topdog72 "@RobbieSavage8 would you play for him? Did a fantastic job no reason for him to go! Hope he gets what he wants top bloke"
-MB30 31492972444917761 0 poptarts4life "@Jmurillo407 that's awsome...have you sent out any job aplications yet?"
-MB30 31492370054774784 0 jordo37 "@AndrePang new apartment or new home?"
-MB30 31490924626321409 0 CapoLove_ "@InhaleLexhale Hand job???lol"
-MB30 31490736222380032 0 safestephanie "Going to try get a job at Tesco when I leave school"
-MB30 29952350437244928 0 jenjeter2211 "@janeheller1. Congratulations on new. Job hope u soar"
-MB30 31488648876658688 0 EvaaLUFCx "A lovely mother, she's basically just told me I chose shit options and I won't get a job.."
-MB30 31486944437338114 0 dfAvefenix "@TameikaTekautz9 yet looking for a job?  What about?"
-MB30 31379331158638592 0 hrinformant "Hate your job? Don't stay somewhere that makes you miserable -- explore your options! http://www.bit.ly/lookingforwork"
-MB30 30174694464299008 0 grubbypishnik "Stefan was enjoying his new job working on Toyota fuel systems&#10;http://www.bbc.co.uk/news/uk-12284113"
-MB30 30326611240812544 0 TalentOysterJob "Get SMS alerts for new jobs. http://www.talentoyster.com"
-MB30 31486882697191424 0 eghalatoya "ah menolak dua job karena malas dan malas :b http://myloc.me/h9HRg"
-MB30 31485646308638720 0 cass_couture "Off job 1 , time to shower &amp; get ready for job 2."
-MB30 31481936497086464 0 mcbrideyy "my cousin's got a new job in Ralph Lauren, extremely jealous!"
-MB30 31481607177117696 0 careerbarn "Mid Level Java #Developer #Job - Yoh - @careerbarn Job Details http://dld.bz/Gp9A"
-MB30 31481300225359873 0 JoyfulGrrl "@claythornton66 Hope you will find the right place.  Does not interfere with job performance &amp; it's discriminatory to exclude for that."
-MB30 31481268650643456 0 DankandDrank4Me "Claimin other peoples kids and shit #dafuck bitch get a job and a car and some regular everyday money in yo pocket"
-MB30 31480905860124672 0 chucksahoy "@andrewberkshire it's bewildered me for years how that guy ever got a job as an analyst in the first place"
-MB30 34918843260338177 0 OmarionMyers "i need a job"
-MB30 34345419777515520 0 Maronda_ "i need a job"
-MB30 34139314233278464 0 Don_livinglife "i need a job"
-MB30 32465924762112000 0 ryanpdean "i need a job"
-MB30 34856640964464640 0 traxex_medusa "i want a job"
-MB30 31789341567094784 0 sweetestGIRL_xD "i want a job"
-MB30 34614321682063360 0 Dal_U2 "Job..."
-MB30 33975526091800576 0 kinda_gay "having a job"
-MB30 33632878084489217 0 lulitadesiempre "job"
-MB30 33551329699827713 0 WishUponMyStars "i think i want a job..."
-MB30 31791440103211008 0 ukbieberfan_x "i want a job."
-MB30 33541481226567680 0 CharmedBiScotty "Keith"
-MB30 33476671583551488 0 Bayu1928 "good job"
-MB30 32814588911161344 0 blakejanku "they took his job"
-MB30 32177675351105537 0 tasos1626 "i need to find a job!"
-MB30 30767668193656833 0 SkyFeeex "Job"
-MB30 30159362500599808 0 awanda_rp "good job.."
-MB30 33643625518731264 0 pijobi "New job? New job."
-MB30 34620844265177088 0 kangakat "Yay @nuttynikkik's mum has a new job."
-MB30 29965178820894720 0 Jasmine4488 "BREAKING NEWS. Andy Gray has a new job as the face of Yorkie Bars."
-MB30 34607801808453632 0 MatthewRoach7 "First day of the new job. (@ The Hartford Insurance) http://4sq.com/dG7Cf9"
-MB30 34419536161677313 0 lushday "I'm at Top of The Rock Observation Deck (30 Rockefeller Plaza, btw 5th and 6th Ave, New York) w/ 2 others [pic]: http://4sq.com/etBtG8"
-MB30 30115559832031232 0 RisSmile "I'm at Market Arts &amp; Crafts (Miami Road, btw 7th &amp; 8th Ave, New York) w/ 4 others http://4sq.com/e1J0Wb"
-MB30 35052642178830336 0 po_richard "#GOP Abortion police will create 1000's of new jobs. #tcot #icot #2012"
-MB30 33408738572517376 0 Locoya "@SC13NTISTXXX Yeah, started a new job. Gonna be spending less time partying."
-MB30 31189042779389953 0 lopezjen "Friday, Friday, Friday. Yay for Friday! Next week I start my new job. Yay!"
-MB30 29306420016979968 0 legendaryhicks "So I went and got 50 nuggets last night and that did not do the job I was very much still hungry, might have to up my nugget game to 100 lol"
-MB30 33929574425305089 0 manhattanspeak "@Jims_Whim no misunderstanding!! Lol. I was just talking about this last night: People read me wrong on here all the time. It's funny!"
-MB30 34659451516493824 0 Ayooo_TWiST "i dnt understand how people get around without a job... without money period... smh.. shit not meeh.. lol gunna be on top real soon!!!!"
-MB30 34881125406998528 0 YBeJeff "If I See My Ex With Her New Dude I Would Neva Try No Crazy Shyt Like Dat. I Mean He Coulda Jus Beat Her Dude Up. Why Even Lay Hands On Her?"
-MB30 32127572313640960 0 livewxradar "ICE UP TO 1 INCH OMG! OK AR MO IL KY IN OH up to 1/2&quot; WV PA MD NY MA NJ CT RI http://livewxradar.com #mwblizzard #weather #news #snomg #snow"
-MB30 31780634586255361 0 Taylor_OMG "My Grandmother Tried To Make Me Feel Guilty For Not Coming To See Her Today &amp;&amp; She DId A Damn Good Job Cause I Feel Bad Now ! lols"
-MB30 29000354913845249 0 GlamorousJaz "Grandma New Boyfriend Comin In Town Next Week &amp;&amp; She Talkin Bout She Wanna Be Alone.. Nobody Aint Comin Ova &amp;&amp; We Betta No Call Her..BOL !!"
-MB30 30945945331957760 0 PavBatth "Feel Like Death! Seriously Can Not Be Bothered To Get Out Of Bed! If Only There Was A Job Where You Just Slept :( I'd Ask For Overtime :D"
-MB30 30259725526368257 0 Andy_moran "You know it's a bad sign when on first day of a new job 1 of the lads says you need to get out now while you still can."
-MB30 31694471313756160 0 IAmBeckie "Ok So I Just Finished Reading Fab Mag W/ @KimKardashian &amp; @KourtneyKardash &amp; Gots To Say You Gals Look Fab, Can't Wait 4 #KKTNY! Great Job"
-MB30 29742901969817600 0 soulpretty "Love love love @KimKardashian ... New seasons makes me want to move to NY!!! Sigh"
-MB30 32620545535119360 0 ScoutsHonor21 "if I get this second job, I wanna dream big and plan a trip for 2012 for me and Keith...somewhere outside the continental US!"
-MB30 30084985490767872 0 ladolcevitaa_ "i love my new job :))"
-MB30 30238594178220032 0 sarawbell "so i was gonna wake up at 11 and go apply for a new job but its 720 am and i haven't been to bed yet..."
-MB30 35082067419205632 0 MrKleanup1911 "At the job and I haven't heard any good news yet!"
-MB30 34742979537141760 0 lovemachineinc "New job: new worklist email test task http://dev.sendlove.us/rw/?13246"
-MB30 33457742920294400 0 qnlinknews "http://qnlink.com/nr Myanmar picks junta’s PM as new president: Myanmar picks junta’s PM as new president by adm...  Need a Job? CV here."
-MB30 29706387059638272 0 qnlinknews "http://qnlink.com/nr UN chief criticized as soft on human rights: UN chief criticized as soft on human rights by...  Need a Job? CV here."
-MB30 29708576796708864 0 mzkay2good "I love my job I learn sumthing new everyday =)"
-MB30 29708271048724480 0 therealai "Won our first co rec game! Good job @Jazzee_F_Baby @_MissWoods_ @PatriceJade @wwwsod @TalishaJinea !!"
-MB30 29707998205054977 0 JayCeeMartinez "just do your job jc and stop whining hahahahaha. wear my shoes old lady. :)"
-MB30 29707846463528960 0 gui_rp "@offseasonblog great site... good job man"
-MB30 29706760470142976 0 wpjobsonline "#Freelance job - Fix Freshy2 Theme To Work With Current #WordPress http://joblance.info/u/ony"
-MB30 34756107129856000 0 CareerFinancial "FICC Structurer - Leading Global Investment Bank - London United Kingdom...  http://jobsurl.com/mtyJ"
-MB30 29706519020830720 0 emilycharlottej "@glitteringheels this is what I want now I want a job regular proper income and a car I've done with student life"
-MB30 34288098661638144 0 bkkbase "This is what happens when you let a dog do a man's job...."
-MB30 29706392071835648 0 joshuamarkreid "@drkproducerWO87 go watch a movie or something...at least that was kinda your job at a time. haha"
-MB30 29705233298886656 0 livelikeshep "Hitting the gym is real fun when it isn't you job aint it?"
-MB30 29705115879342080 0 iKillDragons "i think i applied for that job to early."
-MB30 29704701071069184 0 DaONEandOnlySP "Is thinking I really  need a 2nd job."
-MB30 33209314525057024 0 ForeverATFree "@_ayybrandon lol. Yeaa I like that job its in the cut. Only old people come in there forreal. Lmao."
-MB30 32812040506580992 0 WeAreGomez "@faezah_elai LOL ! i know its hard to be a naruto .. but thats ur job as in protecting people ..kikiki ;D"
-MB30 32787814047289344 0 Darby4President "Lol these people at my job are too hilarium-- now she talm bout she can't work all day; gurr u betta suck it up!"
-MB30 30448351623258112 0 Jadey912 "I love when people think they.'re doing a good job on American idol lol #fs"
-MB30 29608659361202176 0 JoeWonder69 "@PeaJayDaGr8 a box office job. Int went good, 25 other people there. Prolly not gonna get lol. Hoping for smith center lol"
-MB30 34623091065888768 0 LHDxxx "@MiMeKiMyHair aww..my job tried to get me last night knowin well the super bowl was on..lol"
-MB30 30037397517373440 0 speakingfreedom "Just decided that I would be off for the rest of the night (frm the kids) lol mom's job never ends!"
-MB30 29664651700600832 0 MsMcGillicuddy "How come Starbucks can charge $5 for a coffee and make me wait 20 minutes? #starbuckshatesme"
-MB30 29252247644803072 0 ItsJust_Ashley ": Oooo I DID roll two blunts all by myself last night &amp; did good job on one for sure..the other one lol, that's a different story lol"
-MB30 34384422086123520 0 simpledavidplan "@spfanforlife Haha just doin my job babe if i  didnt confuse you i could get fired lol"
-MB30 34826557021229056 0 IndyPiggy "I don't want details! #gutterthoughts RT @diggrbiii What's going on with Gore and Olbermann?"
-MB30 30911627209474049 0 Kountdownnn "Gonna try to sleep. Lookin for a new job tomorrow and cleaning. I dont wanna feel sick anymore. :/"
-MB30 34014517331492864 0 AdamColeman25 "Wolves end Man United run, Newcastle stun Arsenal (tiscali.co.uk): Share With Friends:  |  | World news - Top Stories News, News Feed..."
-MB30 34715029953581056 0 CAPAction ".@lhfang:  1st Day New Congress, #Koch Operatives Met w/#GOP Chairman Planning 2 Gut Clean Air Act http://cap.af/e5NBHx  #p2 #tcot #climate"
-MB30 33692309820276736 0 TeensTweetEpic "@RealD3D AYE! PLEASE PICK ME! I NEED A NEW SHIRT FOR #BIEBERD3D :DDD PLEASEEE! IT WOULD BE SO EPIC. ILL LOVE YOU FOREVER 41"
-MB30 33692360969814016 0 TeensTweetEpic "@RealD3D AYE! PLEASE PICK ME! I NEED A NEW SHIRT FOR #BIEBERD3D :DDD PLEASEEE! IT WOULD BE SO EPIC. ILL LOVE YOU FOREVER 44"
-MB30 35066544434184192 0 followmeifolowu "Kick back, relax, &amp; get paid for your opinions! MAKE MONEY FROM HOME! visit http://175k.com . #WorkFromHome #cash #followback #work #job #RT"
-MB30 29191595463024640 0 jessicaforeverr "@rachfaceloserr i'll take your job, lol."
-MB30 34427034809671682 0 Mexiqua "Lol it happened AGAIN...was looking at new tweets &amp; the steelers get a TD"
-MB30 34992776877711360 0 BeesAndTrees1 "Lots of new work on http://keithvaughn.net/"
-MB30 34367719197511680 0 jhbstache "@PodiumJen got some new ones headed your way!!!"
-MB30 30863088588693504 0 chuggid "&gt;@kirillcool Every day brings a new methodology of failure. It's like, you wait every morning to see what they're going to screw up next."
-MB30 34502268615131136 0 ElijahDee90 "Listening to music and writing a new song &quot;the right&quot; I need one guitar string.. and then I can add music"
-MB30 33240866634080256 0 BertShowBert "Behind the scenes at the Bert Show when you follow @thebertshow and new show facebook page at www.facebook.com/thebertshow"
-MB30 32529379179364352 0 AmyyBabyyxx "@taylord203 hiya whats a shout out? im new :P"
-MB30 33320862929133571 0 Keppie_Careers "@jimstroud Jim - thanks for the tweet about my new social resume service! I appreciate it! Hope you're having a great week!"
-MB30 35107998930046976 0 lopemn "Thanx and tell Madonna that move her ass. We need NEW&amp;GOOD MUSIC!! ;-) RT “@hardcandymusic: @guyoseary thanks for the updates Guy!�?"
-MB30 34748750211584000 0 Mr_Sands "It certainly wasn't a good job day for whoever left this mess here. http://yfrog.com/gzv0gkqj"
-MB30 35108228467531776 0 MMOCrunch "New at MMOCrunch!  Dateline Azeroth: Once Upon a Time…  http://is.gd/4B6sST  #worldofwarcraft"
-MB30 35108178379149312 0 jobsonlinkupTX "RN- Radiology - Southlake in dallas, TX - http://t.linkup.com/i3ddbw #Jobs"
-MB30 35108136511606787 0 phIz3L "With a lock? Lol RT @ADRiAN_NiGGz: Installing a new doorknob in my room..."
-MB30 35108004839817216 0 LizzieGrubman "I used to use the BFF word too frequently.  That Changed recently and I feel like a whole new person."
-MB30 35107865958023168 0 cmel513 "@VincentHigh can't complain. enjoyin this job and just livin life"
-MB30 35107781858177024 0 dbaneworleans "New Orleans Cotton Mouth Kings @ 9PM tonight !"
-MB30 35107761159278592 0 LeAnnLand "@TAngel84 Or double CD for this year - one cd of her original new songs and one of her unreleased songs! :D"
-MB30 35107692070567937 0 KidPhreshSetter "@KekePalmer The one you call go super hard and the video is hot good job on this one."
-MB30 35107394103160832 0 BayMermaid21 "@LoveOutOfDark Really? :P NEW SEASON TONIGHT."
-MB30 35107328915152897 0 carlhiett "the new @cutcopy record is so nice, 'sun god' is keeping me sane right now"
-MB30 35099802089824256 0 bringyerdinner "Theory: Keys &amp; Gray take Parry's show; Parry takes over from Mubarak; Mubarak gets West Brom job; Di Matteo new Sky Sports presenter"
-MB30 35091190269349888 0 didikins4life "@ivanafter5 do you know who carries it?  I have a choice of comcast,WOW or AT&amp;T - I'd switch 2 get Keith and current"
-MB30 35009472019562496 1 Rob_Coh "http://usat.ly/dXKsN7 Keith will be back! KO to Current.tv Keith can go back to his extremely important role in progressive ideals #FOK #p2"
-MB30 34968747752034304 0 chicago_blHawks "Duncan Keith / Strong words from Keith http://fsp.gs/gtpprc #NHL #CHI"
-MB30 33333293965520896 0 meggroff "@farwell570 You know where they always have cold Keith's?  Halifax...just sayin.  Mutual hatred always takes a backseat to a cold Keith's ;)"
-MB30 31968432576528384 0 MelLovesBrandon "@F0reverDanielle I'm sure he will. Hes going with me to see Keith and I'm getting Keith tickets for my birthday from my mom"
-MB30 34762734948061184 0 YourProfileNow "Get out of the Monster job search cycle http://www.YourJobPossibilitiesNow.com"
-MB30 34762861163053056 0 ohthatkidmax "@GarciaSk8s u found a job??"
-MB30 34762462297329664 0 dnzVOIP "#VOIP #job - Create a VPN service website (£5,000 - 9,000) - http://donanza.com/t/2598137 #jobs"
-MB30 34761212268912641 0 MeaganLeigh17 "filling out job applications&#10;#Stressedout&#10;meagan &lt;3"
-MB30 34758859159506944 0 kaflores "Looking for a Recruiter in Minneapolis, MN http://bull.hn/l/729444/ #job"
-MB30 34751416731959296 0 sucirr "Mr. Geithner goes to Sao Paulo - http://newzfor.me/?cmjq"
-MB30 34749490879528960 0 dxqxfgjo "Fas job centre http://nvowrt.uni.cc/1b60f"
-MB30 34761568587620352 0 iRollUp1 "“@shesDEElicious_: broke niggas make me SICK #throwup! lmao�?&lt;~That's how starting QBs lose they job.. The (cont) http://tl.gd/8m4cjc"
-MB30 34757703851053056 0 jacksoncreek "@jonwurster nice job sir! #fakeredhairsuitsyou"
-MB30 34754477147815936 0 biaah_ollitta "eeeh boobo, mas eeh interessante: http://www.talentosertanejobavaria.com.br/ heuaheuaheuaheuah..! ihiiiiiiiiiiim! ;P"
-MB30 34752152593240064 0 sarah_palin_DN "Sarah Palin’s new wild claim #debsnews http://pod.ly/tvr/1864993"
-MB30 34759057730441216 0 myjobisrael "job: Real Estate Design Pages 20 Pages by melkimrealty http://bit.ly/fM1oco"
-MB30 34762297293410304 0 CQUINTAO "“@DaleCarnegie:recent survey suggests one in 5 workers fears losing job http://www.financenews.co.uk/fnews/recent-survey-suggests-one-in-five-workers-fears-losing-job/&nbsp;… @financenewscouk�?-What about Brazil? Is it true?"
-MB30 34761562107420672 0 fox4wdaf "Lake Docks Feeling the Weight of Winter: The prospect of more snow is not good news for many part of Missouri, w... http://bit.ly/f8jPhq"
-MB30 34759072020434945 0 myjobisrael "job: Residential Painting Company Website Design by PCCPainting http://bit.ly/f6QgXb"
-MB30 34752148273102848 0 algheronews "Alghero News: Terza Categoria: Maristella sempre in vetta http://www.algheronews.it/?p=26888"
-MB30 34749875140833280 0 NatlMortgagePro "Jamie Dimon wants some R-E-S-P-E-C-T http://dlvr.it/G1xDp #news #mortgage"
-MB30 34750231199350784 0 dwidwiyah "How To Increase Your Sales - 10 Methods - http://newzfor.me/?celq"
+MB30	35108366829232128	2	spirit2012	"Keith Olbermann To Current TV: Hosting New Show, Becoming Chief News Officer http://goo.gl/uL7Cn"	0	0	2:51 PM - 8 Feb 2011
+MB30	34814214983913472	1	USRealityCheck	"Keith Olbermann to Current TV:  NYT has the news on Keith O's newest home:   Keith Olbermann, the former ... http://bit.ly/i8wj1M dk #P2"	0	6	7:22 PM - 7 Feb 2011
+MB30	34808563134103553	2	SocialUtility	"Keith Olbermann to Join Current TV [REPORT]:    Keith Olbermann, the controversial liberal pundit... http://bit.ly/e1R1su #socialutility"	0	0	6:59 PM - 7 Feb 2011
+MB30	34810964821938176	2	PennaTMT	"Keith Olbermann to Join Current TV [REPORT]:    Keith Olbermann, the controversial liberal pundit and former hos... http://bit.ly/dFjz2x"	0	0	7:09 PM - 7 Feb 2011
+MB30	34808671800135680	2	smsprep7news	"Keith Olbermann to Join Current TV [REPORT]:    Keith Olbermann, the controversial liberal pundit and former hos... http://bit.ly/dFjz2x"	0	0	7:00 PM - 7 Feb 2011
+MB30	34808587465261056	2	altt1	"Keith Olbermann to Join Current TV [REPORT]:    Keith Olbermann, the controversial liberal pundit and former hos... http://bit.ly/dR9e3c"	0	0	6:59 PM - 7 Feb 2011
+MB30	34808698459131905	2	makeitsolutions	"Keith Olbermann to Join Current TV [REPORT] http://bit.ly/dJdSD4"	0	0	7:00 PM - 7 Feb 2011
+MB30	34926518085877760	2	AmitV_Tweets	"Keith Olbermann to Join Current TV [REPORT] http://bit.ly/hvDUKK"	0	0	2:48 AM - 8 Feb 2011
+MB30	34816022426943488	2	emarketinggeek	"Keith Olbermann to Join Current TV [REPORT] http://bit.ly/g3lVWO"	0	0	7:29 PM - 7 Feb 2011
+MB30	34858772568477696	0	Now2Become	"http://bit.ly/H2Bjob Green Jobs Conference Seeks Sustainable Economy, New Jobs | AFL ... http://bit.ly/hl1LUS"	0	0	10:19 PM - 7 Feb 2011
+MB30	29961253262725120	0	TheDragonEssett	"How Steve Jobs gets things done: &quot;He was able to figure out a new business model.&quot; Now eyes... http://bit.ly/gyaqNq http://bit.ly/94cftb"	0	0	9:58 AM - 25 Jan 2011
+MB30	35048801446133760	0	GO2_London_Jobs	"London Jobs: New Business Sales Consultant : London, London: New Business Sales Consultant : London : £26.... http://bit.ly/gmljmc #Jobs"	0	0	10:54 AM - 8 Feb 2011
+MB30	35107597245747200	0	jobschicago	"Technical Architect Consultant: Details: We’re in search of an experienced Technical Architect Con... http://bit.ly/h5Q0xc #jobs #hiring"	0	0	2:47 PM - 8 Feb 2011
+MB30	34038540807446528	0	ServSafePro	"Now hiring: Help Setting Up Wordpress Theme...: Hello,  I installed a new wordpress theme (no... http://bit.ly/gl5J1L #jobs #hiring #job"	0	0	3:59 PM - 5 Feb 2011
+MB30	32940778477064192	0	JackPatrick4	"Now hiring: Graph Counter For C++ Project: Write a new member function &quot;degree&quot; for the Wtgra... http://bit.ly/fGH3BK #jobs #hiring #job"	0	0	3:17 PM - 2 Feb 2011
+MB30	35106842912755712	0	sgbreakingnews	"#int'l #news: Dow rises for seventh straight day: NEW YORK (Reuters) - The Dow notched a seventh stra... http://bit.ly/e0Kh6r #singapore"	0	0	2:44 PM - 8 Feb 2011
+MB30	34033245712551940	0	beccarter28	"New York Rangers At Montreal Canadiens: Rangers Need A Big Win: 2 days ago: New Jersey Devils' Mark Fayne (34) a... http://bit.ly/eoO1Ak"	0	0	3:38 PM - 5 Feb 2011
+MB30	34823971778068480	1	mychatbox_blog	"New external post Olbermann to Join Al Gore's Current.tv, NY Times Reports from the blog feed Web Technology Fee... http://bit.ly/eXAuNT"	0	0	8:00 PM - 7 Feb 2011
+MB30	34799052138741760	1	beckbs	"Olbermann to Join Al Gore's Current.tv, NY Times Reports: TV star Keith Olbermann will join Current.tv, the onli... http://bit.ly/gqG1e6"	0	0	6:21 PM - 7 Feb 2011
+MB30	34798383809957888	1	LETMEDEFINE	"news Olbermann to Join Al Gore's Current.tv, NY Times Reports: TV star Keith Olbermann will join Current.t... http://bit.ly/dIE0c7 media"	0	0	6:19 PM - 7 Feb 2011
+MB30	34809400715649024	1	cheung31	"Olbermann to Join Al Gore's Current.tv, NY Times Reports by @marshallk http://rww.to/hEww9Z&nbsp; via @RWW"	0	0	7:03 PM - 7 Feb 2011
+MB30	34805355380736000	1	jtjn	"NYT: Olbermann to join … Al Gore’s Current TV http://bit.ly/ffyqdM"	0	0	6:46 PM - 7 Feb 2011
+MB30	35036072291479552	1	Carl_Fox	"Yay!  The sooner, the better.  #FOK  RT @dailykos It's official: Keith Olbermann to host nightly show on Current TV http://bit.ly/hL1p6z"	0	0	10:03 AM - 8 Feb 2011
+MB30	35027423238160384	0	greenedwardl	"&quot;Twitter Explodes After Keith Olbermann Announces Move to Current TV&quot; - actually it was just my head."	0	0	9:29 AM - 8 Feb 2011
+MB30	35065226357379073	1	BestBlogPosts	"DrudgeReport: Olbermann announces move to Al Gore's CURRENT TV...: Olbermann announces move to Al ... http://bit.ly/gIyrE0 #biz #science"	0	0	11:59 AM - 8 Feb 2011
+MB30	35092790660562945	1	paulconant	"Keith Olbermann joins Al Gore's Current TV: Matthew Flamm&#10; - Keith Olbermann has a new home, but it's a lot smal... http://bit.ly/dMGPMn"	0	0	1:49 PM - 8 Feb 2011
+MB30	35034191590592512	1	billyzimmer	"Ex-MSNBC host Keith Olbermann heads to Current TV &#10;    (AP): AP - Keith Olbermann, who last... http://bit.ly/efTpMD #News #Entertainment"	0	0	9:56 AM - 8 Feb 2011
+MB30	35034192811134976	1	Worksofmany	"Entertainment: Ex-MSNBC host Keith Olbermann heads to Current TV \n    (AP)\n: AP - Keith Olbermann, who last mo... http://bit.ly/hyKeBb"	0	0	9:56 AM - 8 Feb 2011
+MB30	35044456474349568	1	pinkisright	"Ex-MSNBC host Keith Olbermann heads to Current TV      (AP) - AP - Keith Olbermann, who last month abruptly left his... http://ow.ly/1bePHf"	0	0	10:37 AM - 8 Feb 2011
+MB30	35032915037388800	1	deeje	"&quot;@sfgate: Ex-MSNBC host Keith Olbermann heads to Current TV http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2011/02/08/entertainment/e081256S74.DTL&nbsp;…&quot; congrats to Current!"	0	0	9:51 AM - 8 Feb 2011
+MB30	35033877152006144	1	ScenebyPaula	"Independent media FTW! Ex-MSNBC host Keith Olbermann heads to Current TV http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2011/02/08/entertainment/e081256S74.DTL&nbsp;… via @sfgate"	0	0	9:55 AM - 8 Feb 2011
+MB30	35017427079139328	1	DailyCaller	"YAY!!........Ex-MSNBC host Keith Olbermann heads to Current TV - http://ht.ly/3Swjh #media #TCOT"	0	0	8:49 AM - 8 Feb 2011
+MB30	34804801686478848	1	newsery10	"Why Keith Olbermann Makes Sense For Current TV - http://bit.ly/if1luf - [Paid Content]"	0	1	6:44 PM - 7 Feb 2011
+MB30	34813732219518976	1	awallenstein	"Why Keith Olbermann Makes Sense For Current TV http://cnt.to/nw8  #tcot"	0	1	7:20 PM - 7 Feb 2011
+MB30	35105429532966912	1	Packard_Sonic	"Report: Keith Olbermann to join Current TV http://usat.ly/h5kX5z"	0	0	2:39 PM - 8 Feb 2011
+MB30	34794699868868609	1	awallenstein	"In a word, wow RT @brianstelter: Breaking: Keith Olbermann to join Current TV. @mediadecodernyt: http://tinyurl.com/476oov8"	0	0	6:04 PM - 7 Feb 2011
+MB30	29104614473211904	0	Eve2938	"Countdown with Keith Olbermann Countdown with Keith Olbermann: Nine days since Tucson. In a Special Commen... http://tinyurl.com/4foxk7a"	0	0	1:14 AM - 23 Jan 2011
+MB30	29112447222685698	0	DarylEbeling	"Countdown with Keith Olbermann Countdown with Keith Olbermann: Nine days since Tucson. In a Special Comment, Cou... http://bit.ly/gf1kbV"	0	0	1:45 AM - 23 Jan 2011
+MB30	34952094221860864	1	Shojib7	"Current TV may become the new home of Keith Olbermann: Former host of MSNBC's &quot;Countdown,&quot; Keith Olbermann, is s... http://bit.ly/g5xzCP"	0	0	4:30 AM - 8 Feb 2011
+MB30	34952093886320640	1	JosephineMun	"Current TV may become the new home of Keith Olbermann: Former host of MSNBC's &quot;Countdown,&quot; Keith Olbermann, is s... http://bit.ly/efkx7W"	0	0	4:30 AM - 8 Feb 2011
+MB30	29478193383604224	0	140celebs	"Keith Olbermann -- The Rich Get Richer: Filed under:     Keith Olbermann,     TV    &#10;            &#10;&#9;        &#9; Kei... http://bit.ly/ehZtCV"	0	0	1:58 AM - 24 Jan 2011
+MB30	29470666637967360	0	Paparazzi4U	"TMZ SEZ Keith Olbermann -- The Rich Get Richer: Filed under:     Keith Olbermann,     TV    &#10;         ... http://bit.ly/e1bxF3 #HiTechCJ"	0	0	1:28 AM - 24 Jan 2011
+MB30	29469902117011456	0	celebrimania	"TMZ - Keith Olbermann -- The Rich Get Richer: Filed under:     Keith Olbermann,     TV    &#10;            &#10;&#9;       ... http://bit.ly/h1dq0Y"	0	0	1:25 AM - 24 Jan 2011
+MB30	29588435576561664	0	GlamCeleb	"GlamCelebrities.com Keith Olbermann -- The Rich Get Richer: Filed under:     Keith Olbermann,... http://bit.ly/hV3rkK #glam #celebrities"	0	0	9:16 AM - 24 Jan 2011
+MB30	29488979447390209	0	clndstnone	"New post: Keith Olbermann -- The Rich Get Richer http://bit.ly/h2glQJ"	0	0	2:41 AM - 24 Jan 2011
+MB30	29551372231774208	0	noahhonesty	"Keith Olbermann -- The Rich Get Richer - http://newzfor.me/?cfkc"	0	0	6:49 AM - 24 Jan 2011
+MB30	30194652992770048	0	citinasoooyy	"Keith Olbermann -- The Rich Get Richer - http://newzfor.me/?cfkc"	0	0	1:25 AM - 26 Jan 2011
+MB30	30165805312245760	0	raymonddarmawan	"Keith Olbermann -- The Rich Get Richer - http://newzfor.me/?cfkc"	0	0	11:31 PM - 25 Jan 2011
+MB30	29953523294666752	0	RBChindranai	"Keith Olbermann -- The Rich Get Richer - http://newzfor.me/?cfkc"	0	0	9:27 AM - 25 Jan 2011
+MB30	30473679909429248	0	cintyaandini	"Keith Olbermann -- The Rich Get Richer - http://newzfor.me/?cfkc"	0	0	7:54 PM - 26 Jan 2011
+MB30	35092625195274241	0	satasiyakalpesh	"Sprint's New Dual-Screen Smartphone - http://newzfor.me/?cnvr"	0	0	1:48 PM - 8 Feb 2011
+MB30	29915880506789888	0	mediacrity	"@ashleyodell KEITH WHAT HAPPENED??? http://news.blogs.cnn.com/2011/01/21/keith-olbermann-leaving-msnbc/?hpt=T1"	0	0	6:57 AM - 25 Jan 2011
+MB30	29747008562528256	0	nycHope	"what a shock: Bill O'Reilly attacks Keith Olbermann - http://watching-tv.ew.com/2011/01/24/bill-oreilly-keith-olbermann-glenn-beck/"	0	0	7:46 PM - 24 Jan 2011
+MB30	29885743832760320	0	DTNUSA	"DTN USA: Bill O'Reilly, Craig Ferguson address Olbermann's exit: Bill O'Reilly didn't mention Keith Olbermann by... http://bit.ly/fXHLGi"	0	0	4:58 AM - 25 Jan 2011
+MB30	35096973673500673	0	kknight58	"Obama Tells Bill O'Reilly: Let's Face It, Fox News Has A Point Of View: Here is the part of Bill O'Reilly's Supe... http://bit.ly/eCQzov"	0	0	2:05 PM - 8 Feb 2011
+MB30	34989670014128128	0	Mary4Jane	"What's Next For Keith Olbermann??? Announcing New Job Today ...: He's the Lindsay Lohan of pseudo- journalism. E... http://bit.ly/eD2YmZ"	0	0	6:59 AM - 8 Feb 2011
+MB30	30032804997758977	0	K9_Conceptz	"Alec Baldwin to Replace Keith Olbermann?: Amid the shocking news that MSNBC fired Keith Olbermann late last week... http://bit.ly/fjfg0w"	0	0	2:42 PM - 25 Jan 2011
+MB30	30126875930001408	0	ssfashion	"NBC Wants Alec Baldwin To Replace Keith Olbermann [Dirt Bag (After Dark)]: &#10;&#10;&#9;&#9;... http://bit.ly/e2A1r4"	0	0	8:56 PM - 25 Jan 2011
+MB30	35026874094583808	1	deepthroatfiles	"Keith Olbermann Officially Announces His Marriage to Al Gore [Television]: &#10;&#10;&#9;&#9;&#9;... http://bit.ly/hsK1nk #Strange"	0	0	9:27 AM - 8 Feb 2011
+MB30	29737095501189121	0	fitness_shoe	"Cenk Olberman premieres: &#10;&#9;&#10;Cenk Uygur got a 6 PM nightly gig at MSNBC when Keith Olbermann gave up his 8 PM gig... http://bit.ly/h56Yp8"	0	0	7:07 PM - 24 Jan 2011
+MB30	29311416548720640	0	wickedlyhip	"Week One of the Age of iPad was barely weekended when Keith Olbermann was removed from his position at NBC/Comca... http://bit.ly/hhKvic"	0	0	2:56 PM - 23 Jan 2011
+MB30	29310458594861056	0	Tanning_Booths	"The AirPlay Network: Week One of the Age of iPad was barely weekended when Keith Olbermann was removed from his ... http://bit.ly/hXggEk"	0	0	2:52 PM - 23 Jan 2011
+MB30	29309559541600257	0	Geekeez	"The AirPlay Network: Week One of the Age of iPad was barely weekended when Keith Olbermann was removed from his ... http://bit.ly/hCLC2R"	0	0	2:48 PM - 23 Jan 2011
+MB30	29319573199126528	0	nycTrend	"Olbermann wanted out a year ago: Departed MSNBC bloviator Keith Olbermann was singing his own swan song... http://bit.ly/dToLz9"	0	0	3:28 PM - 23 Jan 2011
+MB30	31783125906362368	0	Bola_Kalejaiye	"I Can Think We Can Assume Keith Olbermann Won't Be Working At ESPN After This ... http://bit.ly/g5tZWs"	0	0	10:37 AM - 30 Jan 2011
+MB30	29228554164117504	0	LaneyAbigail	"Behind the Keith Olbermann Firing: What Went Down? What’s Next For Host? – The Hollywood Gos... http://bit.ly/ihvnE9 Breaking news today"	0	0	9:26 AM - 23 Jan 2011
+MB30	29544906452111360	0	VannsaHudgens	"Keith Olbermann to Collaborate With Aaron Sorkin on New HBO Pilot?: In the 72 hours since MSNBC fired Keith Olbe... http://bit.ly/igIDLq"	0	0	6:23 AM - 24 Jan 2011
+MB30	29559323877187584	0	blgx_Celeb	"Keith Olbermann to Collaborate With Aaron Sorkin on New HBO Pilot? http://bit.ly/evw6wO"	0	0	7:21 AM - 24 Jan 2011
+MB30	29355544636563456	0	bizleads	"Keith Olbermann's Next Move -- Getting Social with Aaron Sorkin ...: Write what you know, the old saying goes --... http://bit.ly/e2ZtmY"	0	0	5:51 PM - 23 Jan 2011
+MB30	29568649786294272	0	Paparazzi4U	"#Perez #Hilton Keith Olbermann's Termination Gets The Taiwainese Animation Treatment!: Check out the L... http://bit.ly/eVmVtC #HiTechCJ"	0	0	7:58 AM - 24 Jan 2011
+MB30	29840154139033600	0	Sixpaww	"After Olbermann, Is Comcast Set to Overhaul MSNBC? Don't Bet on It ...: Keith Olbermann's sudden departure from ... http://bit.ly/hb9ee8"	0	0	1:57 AM - 25 Jan 2011
+MB30	29928837219360768	0	AdzProz	"Learning from Comcast, NBC and Keith Olbermann: Image via Wikipedia After the recent and sudden departure of Kei... http://bit.ly/g8p8A7"	0	0	7:49 AM - 25 Jan 2011
+MB30	29137409614548992	0	Ur_WebInfoNews	"Could Keith Olbermann be going back to his sports? Twitter profile says to ... http://bit.ly/h2qrpT"	0	0	3:24 AM - 23 Jan 2011
+MB30	29122270815326208	0	AllGossipNews	"#celeb #gossip #news Could Keith Olbermann be going back to his sports? Twitter profile says… http://goo.gl/fb/GykoG"	0	0	2:24 AM - 23 Jan 2011
+MB30	35019841169653760	1	FINworldnews	"MSNBC’s Keith Olbermann to host on Al Gore’s Current TV: Former MSNBC Show host Keith… http://goo.gl/fb/1rWxG"	0	0	8:59 AM - 8 Feb 2011
+MB30	34977744446038016	1	AmericasNewsNow	"Keith Olbermann headed to Current TV: Report: msnbc.com: Top msnbc.com headlines: Former MSNBC anchor Keith Olber...  http://goo.gl/3bBox"	0	0	6:11 AM - 8 Feb 2011
+MB30	34738387298557952	0	recordsANDradio	"Nauseating! RT @CNNshowbiz: Former MSNBC anchor Keith Olbermann will announce plans for his next job at 11AM tomorrow"	0	0	2:20 PM - 7 Feb 2011
+MB30	29739385855414272	0	DTNHollywood	"DTN Hollywood: Former MSNBC anchor Olbermann says career not dead: LOS ANGELES (Reuters) - Former MSNBC anchor K... http://bit.ly/h5zpTU"	0	0	7:16 PM - 24 Jan 2011
+MB30	28981666257047552	0	stephenjlambert	"TV Critic: Keith Olbermann Should Join Fox News | DAILYSPORTS NEWS ... http://bit.ly/fw9kK1"	0	0	5:05 PM - 22 Jan 2011
+MB30	30900927636439040	0	WallStAndMain	"Back so soon?: We may get only a brief reprieve from booted MSNBC gasbag Keith Olbermann. Sources say his ex... http://bit.ly/fLcaRi NYP"	0	0	12:12 AM - 28 Jan 2011
+MB30	35036881632624640	2	advertisables	"Olbermann Lands at Current, but Can He Grow?: NEW YORK (AdAge.com) -- Outspoken TV host Keith Olbermann, fresh f... http://bit.ly/iezYTA"	0	0	10:06 AM - 8 Feb 2011
+MB30	35018849527009280	1	liberalideals	"Keith Olbermann to Be &quot;Chief News Officer&quot; of Current Network: So if a liberal bloviates in the forest and only ... http://bit.ly/eWQYa9"	0	0	8:55 AM - 8 Feb 2011
+MB30	35045204402642944	1	norelledone	"Oh, dear: Keith Olbermann's new gig, revealed as &quot;Chief News Officer, Current Media&quot; | from Mediaite http://bit.ly/hEIrg3"	0	0	10:40 AM - 8 Feb 2011
+MB30	35100242865029120	1	aviduser	"Keith lands!&#10;&#10;&quot;@KeithOlbermann: Greetings from Keith Olbermann, Chief News Officer of Current Media! And awayyyyyy we go! #FOK&quot;"	0	0	2:18 PM - 8 Feb 2011
+MB30	35005226276626432	1	katnip2011	"RT @KeithOlbermann: Greetings from Keith Olbermann, Chief News Officer of Current Media! And awayyyyyy we go! #FOK&#10;YAYYYYYYY!!!!!"	0	0	8:01 AM - 8 Feb 2011
+MB30	35012493759750144	1	changents	"Gr8 news! RT @algore: Welcome 2 Current RT @KeithOlbermann Greetings frm Keith Olbermann, Chief News Officer of Current Media! &amp; away we go!"	0	0	8:30 AM - 8 Feb 2011
+MB30	35013184611950592	1	popGeezerRadio	"New Chief News Officer of Current TV, @KeithOlbermann show will start in the spring. http://current.com/keith-olbermann/"	0	0	8:32 AM - 8 Feb 2011
+MB30	29457689180372992	0	sloppygossip	"&gt;&gt;&gt;: Keith Olbermann To Be A TV Comedy Writer? http://sloppygossip.com/perez-hilton/keith-olbermann-to-be-a-tv-comedy-writer/"	0	0	12:37 AM - 24 Jan 2011
+MB30	34829699771269121	0	sekuritas	"Keith Olbermann's New Job Is... - Keith Olbermann knows how to get people talking - and tweeting! http://ow.ly/1behHV"	0	0	8:23 PM - 7 Feb 2011
+MB30	29549798671515648	0	AdAgencyNews	"How Long Until MSNBC Regrets Dumping Keith Olbermann?: Now that the news of Keith Olbermann's stunning departur... http://read.bi/f0IbAF"	0	0	6:43 AM - 24 Jan 2011
+MB30	35013770719789057	1	ThePlatznerPost	"Reading about Keith Olbermann's move to @current TV: http://current.com/keith-olbermann/&nbsp;… via @keitholbermann"	0	0	8:35 AM - 8 Feb 2011
+MB30	35038705525719040	1	MsMichelle	"Reading about Keith Olbermann's move to @current TV: http://current.com/keith-olbermann/&nbsp;… via @keitholbermann"	0	0	10:14 AM - 8 Feb 2011
+MB30	35033407956189185	1	QuixotedeMancha	"Reading about Keith Olbermann's move to @current TV: http://current.com/keith-olbermann/&nbsp;… via @keitholbermann"	0	0	9:53 AM - 8 Feb 2011
+MB30	35033208445730816	1	KCDurling	"Reading about Keith Olbermann's move to @current TV: http://current.com/keith-olbermann/&nbsp;… via @keitholbermann"	0	0	9:52 AM - 8 Feb 2011
+MB30	35041837710319616	1	zeldavross	"Found him! Reading about Keith Olbermann's move to @current TV: http://current.com/keith-olbermann/&nbsp;… via @keitholbermann"	0	0	10:26 AM - 8 Feb 2011
+MB30	29327816357060608	0	JohnTagliaferro	"#TeaParty wins another round: Keith Olbermann http://sukiproject.blogspot.com/search/label/Keith%20Olbermann&nbsp;… #tcot #twisters"	0	0	4:01 PM - 23 Jan 2011
+MB30	29240374220300288	0	martha_davidson	"The Disappearance of Keith Olbermann http://shar.es/31g1f&nbsp;"	0	0	10:13 AM - 23 Jan 2011
+MB30	34869477292122112	0	famegamenews	"[Wall Street Journal] Olbermann May Have Current TV Deal: Mentions Al Gore and Keith Olbermann http://fga.me/eD1nWs"	0	0	11:01 PM - 7 Feb 2011
+MB30	29971246665957376	0	shaun_fossett	"Stephen Colbert Ruthlessly, Hilariously Mocks Keith Olbermann http://is.gd/XLCacy"	0	0	10:37 AM - 25 Jan 2011
+MB30	29925616664969216	0	DeadlineTV	"Lawrence O'Donnell Talks Keith Olbermann http://dlvr.it/F3msV"	0	0	7:36 AM - 25 Jan 2011
+MB30	31213225030713344	-2	news4trends	"#Media Keith Olbermann | Mediapart http://dlvr.it/FKS7C #KeithOlbermann"	0	0	8:53 PM - 28 Jan 2011
+MB30	30921939086213120	0	weallbe	"Keith Olbermann And The Death Of The ‘Left’ via W.E. A.L.L. B.E. - Keith Olbermann And The Death Of The ... http://tinyurl.com/6gov7bh"	0	0	1:35 AM - 28 Jan 2011
+MB30	30416797735849984	0	Jean_ie	"Keith Olbermann’s MSNBC Departure a Wake-up Call to Fix Broken US Corporate Media... http://tinyurl.com/4n2nlsb via http://commondreams.org/"	0	1	4:08 PM - 26 Jan 2011
+MB30	29815769898418176	0	esterrick	"Lawrence O'Donnel's TV Op-Ed on @KeithOlbermann 's Op-Eds for Countdown. Stunning commentary. http://tinyurl.com/4f3zxjl"	0	0	12:20 AM - 25 Jan 2011
+MB30	29622651370610688	0	metheenaveeda	"Keith Olbermann Is Out: An Analysis - http://tinyurl.com/66etfy9 - BiodunIginla"	0	0	11:32 AM - 24 Jan 2011
+MB30	35092653800566784	0	shortsaledn	"New blog posting, Two Big Lenders Loosen Mortgage Restrictions - http://tinyurl.com/4kko5zd"	0	0	1:48 PM - 8 Feb 2011
+MB30	34801182207647745	1	BrushfireOrg	"A bag of hot and and AlGore's global warming wet dream. A match made in hell. #tcot #bfire http://tinyurl.com/476oov8"	0	0	6:30 PM - 7 Feb 2011
+MB30	30097449716555776	0	savannahterr88	"New 2GB SD Memory Card for Digital Camera PDA MP4 DC 2G: US $1.99 (0 Bid) End Date: Tuesday Jan-25-2011 19:56:40... http://bit.ly/eev2Uh"	0	0	6:59 PM - 25 Jan 2011
+MB30	29395927944929281	0	savannahterr88	"NEW 12.0 MP 2.7&quot;TFT LCD DIGITAL Anti-shake CAMERA Black: US $24.99 (0 Bid) End Date: Sunday Jan-23-2011 21:50:10... http://bit.ly/gyUO9m"	0	0	8:31 PM - 23 Jan 2011
+MB30	31675753112272896	0	Jesicaleen	"New Top LCD + Bottom Touch Screen for Nintendo DS LITE: US $14.19 (0 Bid) End Date: Sunday Jan-30-2011 6:36:42 P... http://bit.ly/h18D30"	0	0	3:31 AM - 30 Jan 2011
+MB30	30988390186881024	0	Jesicaleen	"New Black Touch Stylus Pen For Nintendo DS NDS Lite x1: US $0.19 (2 Bids) End Date: Friday Jan-28-2011 7:38:15 P... http://bit.ly/gZdeO7"	0	0	5:59 AM - 28 Jan 2011
+MB30	29417714116198400	0	rumerzradio	"now if we could get rid of the rest of those wack political commentatorsStatistics: Posted by Brittle Ri... http://bit.ly/gzGWgb #Rumerz"	0	0	9:58 PM - 23 Jan 2011
+MB30	35053026599243776	0	anthony_851	"Choosing the Right Antidepressants: By Dr. Keith Ablow Major depression affects millions of Americans, bringing ... http://bit.ly/gztEud"	0	0	11:11 AM - 8 Feb 2011
+MB30	35084951967768577	0	telissa100	"Jane Harman's resignation is CIA's loss: In her new job as president and CEO of the Wilson Center, she's getting... http://bit.ly/h9eA3Z"	0	0	1:17 PM - 8 Feb 2011
+MB30	35041113286905856	0	CoverLetterKing	"Keith Olbermann to announce career move Tuesday – The Marquee Blog ... http://bit.ly/hTNbFj"	0	0	10:23 AM - 8 Feb 2011
+MB30	34944116676632576	0	athesar	"http://bit.ly/dQ4YoD Keith Olbermann to unveil new career on Tuesday"	0	0	3:58 AM - 8 Feb 2011
+MB30	35095013121593344	1	coolmoviestuff	"Keith Olbermann takes act to Current TV &#10;    (Reuters) http://bit.ly/hjwpdT"	0	0	1:57 PM - 8 Feb 2011
+MB30	35082334201978880	1	PharmaSy	"Celebrity Business: Keith Olbermann takes talents to Current TV? http://bit.ly/gv5Ntj"	0	0	1:07 PM - 8 Feb 2011
+MB30	35107141077434368	1	Sports_A_Holic	"Celebrity Business: Keith Olbermann takes talents to Current TV? -  http://ow.ly/3SMg6 #MSNBC Al Gore @current"	0	0	2:46 PM - 8 Feb 2011
+MB30	31124183601647616	0	DaveWhitman	"Egyptian President Hosni Mubarak has asked the government to resign.  Who does he think he is, Keith Olbermann?  http://ow.ly/3Mi57 #Egypt"	0	0	2:59 PM - 28 Jan 2011
+MB30	29972757747867648	0	Danielb48	"Keith Olbermann breaks Twitter silence http://huff.to/giZCQK via @huffingtonpost"	0	0	10:43 AM - 25 Jan 2011
+MB30	30662000795189248	0	jwf	"OMG &quot;Keith Olbermann Breaks Twitter Silence&quot; -- so this is the state of journalism in 2011. back to pretending huffpo doesn't exist..."	0	0	8:22 AM - 27 Jan 2011
+MB30	29984620619501568	0	Letsbcom	"Keith Olbermann breaks his silence via Twitter http://bit.ly/h2pEAS #breaks #Keith #Olbermann"	0	0	11:31 AM - 25 Jan 2011
+MB30	32880320118267905	0	PesecCreative	"How about this Media Decoder: Debut of The Daily iPad App: 'The Daily,' unveiled today, combines print, video a... http://nyti.ms/h4SMui"	0	0	11:17 AM - 2 Feb 2011
+MB30	32220483856371712	0	camashta	"Media Decoder: With Egypt in Crisis, Anchors Head to Cairo: As the uprising in Egypt approaches the one-week ma... http://nyti.ms/hYJdLB"	0	0	3:35 PM - 31 Jan 2011
+MB30	29389974885371904	0	Dita_VonTesse	"Olbermann Split Came After Years of Tension: Underlying the decision to part ways with Keith Olbermann were yea... http://nyti.ms/fOyxPa"	0	0	8:08 PM - 23 Jan 2011
+MB30	34795900052176896	1	vicinomaha	"Keith Olbermann is headed to Current TV, reports the NY Times: http://nyti.ms/dQoa9p Announcement planned for tomorrow."	0	0	6:09 PM - 7 Feb 2011
+MB30	34798668628496384	1	rhythm7a	"Is this true @KeithOlbermann ? Are you going to Current TV? http://nyti.ms/gvaEZD"	0	0	6:20 PM - 7 Feb 2011
+MB30	34929094906880000	1	expatina	"Olbermann going to Current TV? NYT http://nyti.ms/h4TOe5"	0	0	2:58 AM - 8 Feb 2011
+MB30	35000675188350977	1	boygolly	"Media Decoder: Olbermann Said to Be Going to Current TV http://nyti.ms/e3zcVz #politics"	0	0	7:43 AM - 8 Feb 2011
+MB30	34804130178408448	1	GottaLaff	"Miss this? Report: Keith Olbermann Said to Be Going to Current TV http://dlvr.it/G2QS1 #TPC"	0	4	6:42 PM - 7 Feb 2011
+MB30	34846906664353792	1	Junior_Senior	"Keith Olbermann Said to Be Going to Current TV http://dlvr.it/G2nn1"	0	0	9:32 PM - 7 Feb 2011
+MB30	34850240989376512	0	Aurora_Jobs_USA	"Aurora Job: Seasoned Sales Pros Looking For A New Home: GlobalCheck90 - Aurora, CO - Rainmakers and Go-getters... http://dlvr.it/G2qYx #Jobs"	0	0	9:45 PM - 7 Feb 2011
+MB30	33853144312197120	0	Issaquah_Jobs	"Issaquah Job: Staff Nurse - Issaquah Pre Admit at Swedish Medical Center (Issaquah, WA): our new... http://dlvr.it/FsJ9c #Jobs"	0	0	3:43 AM - 5 Feb 2011
+MB30	35092773472444416	0	RealDownToMars	"New @SoulCulture: Talib Kweli ft CyHi Da Prynce – “I’m On One (Remix)” | New Music x Free DL http://dlvr.it/G68cm"	0	0	1:49 PM - 8 Feb 2011
+MB30	35088763625537536	0	ML_Jobs	"New #Job Business Development Mgr/ CA – Philips – West, TX http://dlvr.it/G66X4 #Jobs"	0	0	1:33 PM - 8 Feb 2011
+MB30	31486990436278272	0	jobs4youu	"Find job Business Applications/Soft Skills Trainer Hawaii Job in ...: Find job Business Applications/Soft Skills... http://bit.ly/gkVSTC"	0	0	3:00 PM - 29 Jan 2011
+MB30	35105693551824896	0	CassidyQuinn	"new blog post for Emerson Social Media (@socialemerson) - &quot;Easier Job Applications? Yes, Please!&quot;: http://bit.ly/e8IRoY #ESM"	0	0	2:40 PM - 8 Feb 2011
+MB30	33009179241218048	0	hotincleveland	"More KO from 1990: an obituary for b-ball legend Bob Davies on LA Channel 2's &quot;The Keith Olbermann Show&quot;: http://bit.ly/i4FYpP"	0	0	7:49 PM - 2 Feb 2011
+MB30	29761486368808961	0	StudioBuzzBox	"Keith Olbermann - MSNBC on 1 Fav Source+16 others like Gawker- http://bit.ly/fsKM2d"	0	0	8:44 PM - 24 Jan 2011
+MB30	29241825080385536	0	abq77	"OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; statement and pass it on. http://bit.ly/f5JMLK @KeithOlbermann @brianstelter"	0	0	10:19 AM - 23 Jan 2011
+MB30	29090724490248192	0	hummingbird1492	"OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; statement and pass it on. http://bit.ly/f5JMLK @KeithOlbermann @BoldProgressive"	0	0	12:19 AM - 23 Jan 2011
+MB30	29053846495961088	0	headinguphill	"OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; statement and pass it on. http://bit.ly/f5JMLK @KeithOlbermann @BoldProgressive"	0	0	9:52 PM - 22 Jan 2011
+MB30	29031060394213376	0	Dowhower	"OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; statement and pass it on. http://bit.ly/f5JMLK @KeithOlbermann @BoldProgressive"	0	0	8:21 PM - 22 Jan 2011
+MB30	28980951778332672	0	halmay	"OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; statement and pass it on. http://bit.ly/f5JMLK @KeithOlbermann @BoldProgressive"	0	1	5:02 PM - 22 Jan 2011
+MB30	29988255407542273	0	MaryCPage	"OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; statement and pass it on. http://bit.ly/f5JMLK @KeithOlbermann @BoldProgressive"	0	0	11:45 AM - 25 Jan 2011
+MB30	29578245590482944	0	AdamH8sYou	"OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; statement and pass it on. http://bit.ly/f5JMLK @KeithOlbermann @Romenesko RT!"	0	0	8:36 AM - 24 Jan 2011
+MB30	29579375242379265	0	christik57	"OLBERMANN GONE FROM MSNBC. Sign the &quot;Thank you, Keith&quot; state&#10;Thank you Keith!"	0	0	8:40 AM - 24 Jan 2011
+MB30	29290734393753600	0	TraceAbsence	"Olbermann gone! But where will he pop up next?"	0	0	1:33 PM - 23 Jan 2011
+MB30	34830179641597953	1	csjd	"Olbermann going to Al Gore's 'Current TV.&quot; Wow, that's a big step up. Nice career move . . . .  #tcot"	0	1	8:25 PM - 7 Feb 2011
+MB30	35085871237709824	0	BarackObamaLies	"AP: Fired Keith Olbermann gets crappy job at some loser station that is seen by 20 liberals a night. LOL at loser Olbermann!"	0	1	1:21 PM - 8 Feb 2011
+MB30	34802371464929280	0	Rushlimbang	"looks like @keitholbermann is working for @algore  this will be a trainwreck."	0	0	6:35 PM - 7 Feb 2011
+MB30	34816267248476160	0	DCdebbie	"Guess what, bitchez! @KeithOlbermann is back! http://huff.to/f25AVe #FOK"	1	5	7:30 PM - 7 Feb 2011
+MB30	30335249808363520	0	friendsofkeith	"Per @FOKNewsChannel  &quot;Olbermania&quot; http://shar.es/30bFB and &quot;The True Meaning of Keith Olbermann&quot; http://huff.to/hhynUT via @huffingtonpost"	0	0	10:44 AM - 26 Jan 2011
+MB30	29937761096044544	0	AndrewJasonB	"Insightful take on @olbermann departure that gave me pause: &quot;Why I'll Miss Keith Olbermann&quot; http://j.mp/gt4Uii @WSJ"	0	0	8:24 AM - 25 Jan 2011
+MB30	29950788285505536	0	freckles50	"I miss Keith Olbermann already."	0	1	9:16 AM - 25 Jan 2011
+MB30	30108271826182144	0	MarcusNeal85	"This makes me miss Keith Olbermann. Would have loved to see him digest this live. @GSDouglas @CopAPhil"	0	0	7:42 PM - 25 Jan 2011
+MB30	28992005367406592	0	gator_guy	"This includes Keith Olbermann... &gt;&gt;&gt;Piers Morgan Reveals List of Celebrities Banned From CNN Show http://ad.vu/6myh"	0	0	5:46 PM - 22 Jan 2011
+MB30	30459617989365760	0	Pistilwhipped	"@KeithOlbermann   ..........and still raining in Oregon. - [Re:] http://moby.to/70f1kp"	0	0	6:58 PM - 26 Jan 2011
+MB30	30481865592799232	0	PatriciaKellogg	"This year it seems the Cleveland winters have shifted to NYC #HappyinCLE @KeithOlbermann  - [Re:] http://moby.to/70f1kp"	0	0	8:26 PM - 26 Jan 2011
+MB30	30784946436055040	0	upnuzz	"@KeithOlbermann I know! &quot;Best in Snow NYC&quot; calendars would be a hit! Make some $ - [Re:] http://moby.to/u2m89a"	0	0	4:31 PM - 27 Jan 2011
+MB30	29196200179662849	0	SenatorLaw	"Keith Olbermann -- Free Time http://bit.ly/hhXh80"	0	0	7:18 AM - 23 Jan 2011
+MB30	29740145678749696	0	MattDickson	"Keith Olbermann Turns to Twitter, Ignores Glenn Beck (For Now) http://bit.ly/hnYGKs"	0	0	7:19 PM - 24 Jan 2011
+MB30	29699258110181376	0	NationalTalk	"Vids Worth Talking About: Watch Keith Olbermann's Goodbye and Glenn Beck's Nov. Prediction That It Was Going to Happen http://bit.ly/hY75uU"	0	0	4:37 PM - 24 Jan 2011
+MB30	29908997658116096	0	footballearner	"Liberals trying to draft Keith Olbermann for Joe Lieberman's Senate seat - The Hill's Ballot Box http://bit.ly/g1wpOg"	0	0	6:30 AM - 25 Jan 2011
+MB30	30800324566450177	0	WorldSpinnerUs	"[Olbermann] A movement has begun to draft Keith Olbermann to run for the Senate in Connecticut. T... - http://wo-s.us/nr1"	0	0	5:32 PM - 27 Jan 2011
+MB30	33984479601106944	0	ScanMyPhotos	"Keith Olbermann should run to replace Joe Lieberman Connecticut senate seat. RT"	0	0	12:25 PM - 5 Feb 2011
+MB30	35052919053099008	0	ReverendMojo	"I think @KeithOlbermann should just call his show &quot;Keith.&quot;"	0	0	11:10 AM - 8 Feb 2011
+MB30	28973478086451200	0	Hokey1feeds	"Richard Geldard: Countdown, Network and Mad As Hell: When Keith Olbermann signed off his show… http://goo.gl/fb/evXNk"	0	0	4:33 PM - 22 Jan 2011
+MB30	29548507777990656	0	ustechtweets	"Keith Olbermann Hints About Why He Left MSNBC on Twitter - Hollywood Reporter http://goo.gl/fb/ijdgf #twitter #news"	0	0	6:38 AM - 24 Jan 2011
+MB30	29816617319792640	0	ustechtweets	"Keith Olbermann: unanswered questions may be coming via Twitter - Christian… http://goo.gl/fb/IVgUG #twitter #news"	0	0	12:23 AM - 25 Jan 2011
+MB30	29628059120304128	0	bloggerstown	"Keith Olbermann leaves MSNBC http://goo.gl/fb/7iDxx"	0	0	11:54 AM - 24 Jan 2011
+MB30	28988927054450689	0	topitube	"Keith Olbermann Leaves MSNBC, Ends `Countdown'"	0	0	5:34 PM - 22 Jan 2011
+MB30	28967418856480768	0	GodDiscussion	"Blog Update | Olbermann Leaves MSNBC, Ends Countdown Show http://bit.ly/fe7UYI"	0	0	4:09 PM - 22 Jan 2011
+MB30	35092954200670208	0	jackiortega007	"Producers of global TV reality shows turn to India for profits: Endemol International BV, which produces the Big... http://bit.ly/fESVfn"	0	0	1:49 PM - 8 Feb 2011
+MB30	34201131391393792	0	isabellajones88	"Polaroid 18.5 HD LCD TV &amp; DVD COMBO Model 1921-TDUB NEW: US $155.00 (1 Bid) End Date: Sunday Feb-06-2011 8:15:20... http://bit.ly/fES0uu"	0	0	2:45 AM - 6 Feb 2011
+MB30	34302941850505216	0	Bidfactor	"Ebay,Ending Soon! : Freddi Fish Water Worries PC MAC Game Software NEW CD: US $4.99 (0 Bid) End Date: Sunday Feb... http://bit.ly/gAzDXb"	0	0	9:30 AM - 6 Feb 2011
+MB30	35087306696163328	0	webbyslist	"Web Jobs -- Omnistar Etools Developer Needed  (New York USA): I purchased a few products from Omn... http://bit.ly/eQTCFF #webdesignjobs"	0	0	1:27 PM - 8 Feb 2011
+MB30	35018582517616640	0	newsinru	"#новости Ex-MSNBC хозяин Кейт Olbermann возглавляет к настоящему TV (AP): AP - Кейт Olbermann, которое последний... http://bit.ly/eFpOny"	0	0	8:54 AM - 8 Feb 2011
+MB30	35108292325801985	0	upiqcom	"Upiq Reviews : Monster Beats Lady Gaga Headphones - $59 buy.com free ship new: Rating: -2 Posted By: mbenzgt Vie... http://bit.ly/enrGX4"	0	0	2:50 PM - 8 Feb 2011
+MB30	35108020551684098	0	SportsSyndicate	"NHL Betting Tips – Toronto Maple Leafs at New York Islanders: Toronto Maple Leafs continue to confound hockey be... http://bit.ly/eyb1it"	0	0	2:49 PM - 8 Feb 2011
+MB30	33949371229806592	0	1jobhelp	"How is the job market for economists and finance professionals in ...: How is the New Zealand economy currently ... http://bit.ly/gfh3nF"	0	0	10:05 AM - 5 Feb 2011
+MB30	34998193439637505	0	cmswire	"FatWire Software's got some new job openings. Check out the Professional Services Architect position: http://bit.ly/i60dEv  #jobs"	0	0	7:33 AM - 8 Feb 2011
+MB30	34870883625472000	0	Beliebin_Selena	"I just took &quot;Justin Bieber Is A New Student , A Bad Boy , What Happens When He Meets You?&quot; and got: Part 1! Try it: http://bit.ly/gt3bUP"	0	0	11:07 PM - 7 Feb 2011
+MB30	32817953808318464	0	XxSexyLexiXx	"I just took &quot;Justin Bieber Is A New Student , A Bad Boy , What Happens When He Meets You?&quot; and got: Part 1! Try it: http://bit.ly/fRQNCx"	0	0	7:09 AM - 2 Feb 2011
+MB30	32785651392839680	0	JenniB_JustinBx	"I just took &quot;Justin Bieber Is A New Student , A Bad Boy , What Happens When He Meets You?&quot; and got: Part 15! Try it: http://bit.ly/fjGl39"	0	0	5:01 AM - 2 Feb 2011
+MB30	32669919170527232	0	mzprinceton16	"I just took &quot;Justin Bieber Is A New Student , A Bad Boy , What Happens When He Meets You?&quot; and got: Part 2! Try it: http://bit.ly/fBYvN0"	0	0	9:21 PM - 1 Feb 2011
+MB30	34683146989477888	0	Justforquizzes	"I just took &quot;[SEASON 1; ALL PARTS] You hate Justin Bieber, but what hap...&quot; and got: Part 31: New Years' Party! Try it: http://bit.ly/dKskCN"	0	0	10:41 AM - 7 Feb 2011
+MB30	33402624166334464	0	KyleighBentley	"I just took &quot;LET ME GO! YOUR HURTING ME! ( a justin bieber vampire story all parts ...&quot; and got: part 12! new!! Try it: http://bit.ly/eLxMjB"	0	0	9:53 PM - 3 Feb 2011
+MB30	31566600792449024	0	biebersisrock	"I just took &quot;You were a new Vitoria's Secret model and you were a...&quot; and got: Part 1 Yay!!! I GOT THE JOB!!!!! Try it: http://bit.ly/gbNutC"	0	0	8:17 PM - 29 Jan 2011
+MB30	33916046565965825	0	Kensiegirl121	"I just took &quot;(All Parts) + (* New Season 2, All Parts*) You've been friends wit...&quot; and got: PART 18, SURPRISE! Try it: http://bit.ly/i0s1Ga"	0	0	7:53 AM - 5 Feb 2011
+MB30	34330690833092608	0	Princess1996san	"I just took &quot;(All Parts) + (* New Season 2, All Parts*) You've been friends wit...&quot; and got: PART 18, SURPRISE! Try it: http://bit.ly/eAf10y"	0	0	11:20 AM - 6 Feb 2011
+MB30	34861930996834304	0	16Sylvia	"I just took &quot;(RATED R) UR A NEW CHEERLEADER AND ONE DAY JUSTIN AND HIS &quot;CREW...&quot; and got: INFO!!!!(READ FIRST)! Try it: http://bit.ly/gJw3UX"	0	0	10:31 PM - 7 Feb 2011
+MB30	35103893276856320	0	NETROBE	"We love this rumor!!! Blake Lively as the new Carrie? Look at their similarities... http://bit.ly/gJaIFA http://fb.me/GLkjfCw6"	0	1	2:33 PM - 8 Feb 2011
+MB30	31269473738559489	0	rushty9999	"Aaron Sorkin delivers the news to HBO; The CW hunts zombies - From ...: Aaron Sorkin is moving back into televis... http://bit.ly/fhP57Y"	0	0	12:36 AM - 29 Jan 2011
+MB30	35107715915194368	0	net_media	"Google WM: I brought up a new proxy server on a new IP in the USA and I get redirected to Google Nicaragua, how ... http://bit.ly/fCWxJC"	0	0	2:48 PM - 8 Feb 2011
+MB30	35092709626609664	0	emmapeel1960	"Arthritis in Dogs; New Videos to Help Pet Owners from The ...: Arthritis in dogs is an ongoing and serious chall... http://bit.ly/gkobyP"	0	0	1:48 PM - 8 Feb 2011
+MB30	34863969403408385	0	JobWinstonSalem	"Winston Salem Jobs Postdoctoral Research Associate, CEES - Wake Forest University -  Winston-Salem, NC: The newl... http://bit.ly/dIl5Ax"	0	0	10:39 PM - 7 Feb 2011
+MB30	34948668163362816	-2	santaclause09	"#books #hot #trend #4: I Can Make You Thin - Love Food, Lose Weight: New Full Colour Edition (Includes Free DVD ...  http://bit.ly/bJ9oEL"	0	0	4:16 AM - 8 Feb 2011
+MB30	34176929124843521	0	GulfOilSpills	"New Mexico Politics: Regulators answer to Martinez: 1 story for 2010 was the BP deepwater oil well explosion and... http://bit.ly/e3OtMq"	0	0	1:09 AM - 6 Feb 2011
+MB30	34217512027553792	0	CreditFinanceGo	"iPad News, Reviews, Apps, Accessories, and Tips: By Bill | February 5, 2011 | 1 comment For today's Daily Deal w... http://bit.ly/etGV7L"	0	0	3:51 AM - 6 Feb 2011
+MB30	34661761147731968	0	DNM_Tor_Bars	"1/2 Price Appetizers and $5.00 pints of Keith's and Keith's Red pre and post Leaf Game tonight!... http://bit.ly/etqmb3"	0	0	9:16 AM - 7 Feb 2011
+MB30	35078629301944320	0	TWT_NEW_TRUCKS	"BIG GAY ICE CREAM TRUCK ON THE COOKING CHANNEL TONIGHT | New York ...: Our buddies in the Big Gay Ice Cream Truc... http://bit.ly/hrZgc8"	0	0	12:52 PM - 8 Feb 2011
+MB30	35092614692741120	0	MaryMorrow123	"Matthew Morrison &amp; Chace Crawford Ready to Swap Shows!: And as for one celebrity who's already locked in her sec... http://bit.ly/ibOCS5"	0	0	1:48 PM - 8 Feb 2011
+MB30	33895962699104256	0	jobs4youu	"Find job Inside SalesSales Support Job in Queens 11435 New York US ...: Find job Inside Sales/Sales Support Job ... http://bit.ly/fXy2zM"	0	0	6:33 AM - 5 Feb 2011
+MB30	30143877788729344	0	TheJobNinja	"New Article: What are some job agencies in the US that help recent graduates from university find H1B visa jobs?... http://bit.ly/fB8qiz"	0	0	10:03 PM - 25 Jan 2011
+MB30	33960788972544000	0	networkingjob	"New Job Listing: Senior Network Engineer, Lead, Cisco, Juniper, MPLS, CCIE, JNCIE or JNCIP at P. Murphy &amp; ... http://bit.ly/f3cHSp #jobs"	0	0	10:50 AM - 5 Feb 2011
+MB30	29707354828185600	0	jessieclmn	"Based Business Free Home Idea Job Work: You can apply for a wider range of online computer work from home jobs. ... http://bit.ly/fyfBuJ"	0	0	5:09 PM - 24 Jan 2011
+MB30	30614424804917249	0	peoplestring88	"A jobs strategy that works for workers?: Along those lines, the book, &quot;The New American Workplace,&quot; identifies t... http://bit.ly/f4kos7"	0	0	5:13 AM - 27 Jan 2011
+MB30	30240155105234944	0	GermanJobsUS	"German Job: Country Manager- Germany at Shutterstock (New York, NY): business in Germany * Fluent ... http://bit.ly/fnypUM #german #jobs"	0	0	4:26 AM - 26 Jan 2011
+MB30	31156839374659584	0	Flatblack59	"Richlee Introduces The Hip, New Richlee Collection: One of the newest and fastest-growing classic car shows in t... http://bit.ly/h8pJuR"	0	0	5:09 PM - 28 Jan 2011
+MB30	35084615215484929	0	JobsNewOrleans	"New Orleans Jobs Maintenance Technician I OPS - Severn Trent Services -  Belle Chasse, LA: Overview :&#10;&#10;The Maint... http://bit.ly/g3PXJP"	0	0	1:16 PM - 8 Feb 2011
+MB30	34672782952366081	0	GayMXtours	"Let's Make Sex More Like Air Travel: Sometimes Tedious And Invasive Before That Sweet Take Off: &#10;In New York Cit... http://bit.ly/g2Q4jA"	0	0	10:00 AM - 7 Feb 2011
+MB30	33890828145393664	0	AndroidDigest	"androidpolice.com: Angry Birds v1.5.1 Is Here With A Wild West-Themed Episode, 30 New Levels, And A Graphics Tog... http://bit.ly/hXxqO0"	1	2	6:12 AM - 5 Feb 2011
+MB30	34208313155522560	0	technicaqueen	"Talk Android: Angry Birds Gets Updated Today, Adds 30 New Levels And Wants Access To Your SMS? http://bit.ly/hfqJtP"	0	0	3:14 AM - 6 Feb 2011
+MB30	35107014719832064	0	JuanSrchAllJobs	"Senior SAS Programmer job at Affinion Group - Stamford, CT http://bit.ly/hf0bgE #Indeed #jobs"	0	0	2:45 PM - 8 Feb 2011
+MB30	34888268189278208	0	JuanSrchAllJobs	"IB Tech - Global Rates &amp; Rates Exotic -… job at JPMorgan Chase - New York, NY http://bit.ly/hFZbgF #Indeed #jobs"	0	0	12:16 AM - 8 Feb 2011
+MB30	35042328104148992	1	twit_new	"Olbermann confirms new Current TV job via Twitter - Lost Remote: Olbermann confirms new Current TV job via Twitter. http://bit.ly/hnlov4"	0	0	10:28 AM - 8 Feb 2011
+MB30	35024907704209408	1	avidvid	"Looking forward to Keith Olbermann's new Current TV gig. Hope he brings Worst Persons with him."	0	0	9:19 AM - 8 Feb 2011
+MB30	29725927323738112	1	danmar5	"#FOK News... Keith Olbermann's new cable news network!"	0	1	6:23 PM - 24 Jan 2011
+MB30	29941605972578304	0	igossip	"http://igossip.com/1402775 Craig Ferguson Addresses Keith Olbermann's Departure from MSNBC on 'The Late Late Sh"	0	0	8:40 AM - 25 Jan 2011
+MB30	29761185796595712	0	gattotony	"Keith Olbermann: Watch Craig Ferguson Tonight: http://wp.me/p10xlr-uo"	0	1	8:43 PM - 24 Jan 2011
+MB30	35032113459896320	0	Yahoo	"#YSpiking in am on @YahooSearch: Ken Olsen, narwhal, 20000 leagues under the sea, Priscilla Chan,  Keith Olbermann: http://yhoo.it/hiRl9y."	1	0	9:48 AM - 8 Feb 2011
+MB30	31389492329848832	0	catclawtheatre	"Good riddance, Keith Olbermann. Yelling insults and angry opinions at a camera isn't &quot;news&quot;. Now if only Bill O'Reilly would disappear too!"	0	0	8:33 AM - 29 Jan 2011
+MB30	34985126807085056	1	novismutz	"Keith Olbermann Could Head Of Current TV, And 6 Other Stories To Talk About Today http://goo.gl/fb/mCjvb"	0	0	6:41 AM - 8 Feb 2011
+MB30	29026787451215872	0	YourWorldNews	"Keith Olbermann Has Reportedly Been Negotiating His Exit For a While, Now – New York Magazine http://goo.gl/fb/QOEij"	0	0	8:05 PM - 22 Jan 2011
+MB30	34865606306037760	0	My_Alabama_Job	"Occupational Therapist OT Travel Job - Medical Connections Inc. - New Hope… http://goo.gl/fb/Cnvic #huntsville #jobs"	0	0	10:46 PM - 7 Feb 2011
+MB30	35107523174477824	0	Globaljobsdesk	"Latest Job Openings Shaneika Dabney: The Packers Won This One…But Who’s Next?: Get Free Apple… http://goo.gl/fb/UJtHS"	0	0	2:47 PM - 8 Feb 2011
+MB30	29058556569325568	0	perminute	"Media Decoder: Olbermann's MSNBC Exit Was Weeks in the Making - New York Times (blog) http://goo.gl/fb/HqRg7"	0	0	10:11 PM - 22 Jan 2011
+MB30	35108187162017792	0	dandyprojectjob	"Business Project Manager Immediate Need in Charlotte, NC #job #jobs #hiring #tweetmyJOBS http://goo.gl/fb/oxoOL"	0	0	2:50 PM - 8 Feb 2011
+MB30	35072667346280448	0	googlyfish_uk	"&quot;New Job Post&quot; SAP Project Manager - SAP Project Manager SAP Project Manager required by consultancy client. SAP Pro... http://ow.ly/1beY73"	0	0	12:29 PM - 8 Feb 2011
+MB30	34120035530178560	0	googlyfish_uk	"&quot;New Job Post&quot; Account Management Executive Job - Account Management Executive  Job ID #:  15321 Company:   TripAdvi... http://ow.ly/1bcxhn"	0	0	9:23 PM - 5 Feb 2011
+MB30	29878265388732417	0	comedy_feed	"New #Colbert VIDEO: Colbert Report: 1/24/11 in :60 Seconds - Stephen covers Keith Olbermann's last Countdown, review... http://ow.ly/1b1eZy"	0	0	4:28 AM - 25 Jan 2011
+MB30	29668568731754496	0	PlatoandPluto	"One word:  Pathetic RT@NewsBusters &#10;The Worst of the Worst: A Look Back at Keith Olbermann's Most Outrageous Quotes http://ow.ly/1b0Ftz"	0	0	2:35 PM - 24 Jan 2011
+MB30	30171790135271424	0	UrieBay	"SOU just isn't the same without Keith Olbermann's commentary."	0	0	11:54 PM - 25 Jan 2011
+MB30	29955911334232064	0	bigmlongoria	"The Colbert Report|Stephen Rejects Keith Olbermann's Power http://www.colbertnation.com/the-colbert-report-videos/372015/january-24"	0	0	9:37 AM - 25 Jan 2011
+MB30	29693851081900032	0	Julietta662010	"In the UK but staying up tonight to read Keith Olbermann's first official tweet..."	0	1	4:15 PM - 24 Jan 2011
+MB30	34803715500146688	0	KeninEastman	"#KeithOlbermann spurs new Nielsen ratings. Neilsen will personally call Olbermann's realtives to see who's watching."	0	0	6:40 PM - 7 Feb 2011
+MB30	29575383770726400	0	LATimesEnt	"The Morning Fix: 'No Strings Attached' scores big! Keith Olbermann's exit gets tongues wagging! Sundance sizzles... http://lat.ms/ih2r5M"	0	0	8:24 AM - 24 Jan 2011
+MB30	29126743709188096	0	1977dclinton	"I liked a YouTube video -- Best Of Keith Olbermann - Keith Slams &quot;Quitter&quot; Palin For Ha... http://youtu.be/OuoeVaVizjY?a"	0	0	2:42 AM - 23 Jan 2011
+MB30	29157695613308928	0	FelixHBrownIII	"I favorited a YouTube video -- Keith Olbermann Says Goodbye to &quot;Countdown&quot; http://youtu.be/EEjhMFMU5T0?a"	0	0	4:45 AM - 23 Jan 2011
+MB30	29224621978947584	0	jachoukian	"Senator Keith Olbermann (D) Connecticut - http://shar.es/31oOG&nbsp; - Let the chatter begin..."	0	0	9:11 AM - 23 Jan 2011
+MB30	30393468186533888	0	tjwalker	"MSNBC May Be Chttp://ping.fm/p0BY9 Alec Baldwin as Replacement for Keith Olbermann"	0	0	2:35 PM - 26 Jan 2011
+MB30	35028915617529857	1	MichaelRisoli	"Keith Olbermann on Current TV... perfect we'll never see him again"	0	0	9:35 AM - 8 Feb 2011
+MB30	35026814074093568	1	businessinsider	"COUNTDOWN: Keith Olbermann Will Launch New Hour-Long Show On Current TV This Spring by @GlynnMacN http://read.bi/fn2uPK"	0	0	9:26 AM - 8 Feb 2011
+MB30	34797423222067200	0	itsjusttbagz	"I liked his show =(RT @BreakingNews Keith Olbermann, ex-MSNBC TV host, expected to announce deal with public (cont) http://tl.gd/8m6ati"	0	0	6:15 PM - 7 Feb 2011
+MB30	32365966599921664	0	MsLisa_Michelle	"That's what I've been doing all night! Come see me when u dj at my job :P lol RT @DJWHUTEVVA: @MsLisa_Michelle (cont) http://tl.gd/8hb2ip"	0	0	1:13 AM - 1 Feb 2011
+MB30	35092911045611520	0	oyequetal	"Yeah, right! That's what he tells her. &quot;First lady: President Obama has quit smoking&quot; &#10;    (AP)&#10; http://viigo.im/5Xc2"	0	0	1:49 PM - 8 Feb 2011
+MB30	35085472183099392	0	sunkast	"i find it rather interesting how the entertainment blogs are on top of olbermann taking a job with al gore... wtf cares?!"	0	0	1:20 PM - 8 Feb 2011
+MB30	35031434343223296	1	sockrollShowbiz	"Olbermann to become “chief news officer” of Al Gore’s cable channel http://sockroll.com/cuoa6y"	0	0	9:45 AM - 8 Feb 2011
+MB30	30976483837087745	0	AuditorRhodes	"J. Fred Muggs joined NBC-TV’s Today Show this day in '53.  He was a chimpanzee, sort of a miniature Keith Olbermann -- 'cept he was funnier."	0	0	5:12 AM - 28 Jan 2011
+MB30	29360350755295232	0	mypregnantpause	"Hey HBO: Give Keith Olbermann a new show, STAT. Thanks much."	0	0	6:10 PM - 23 Jan 2011
+MB30	29526606154305536	0	HowardKurtz	"Keith Olbermann and the limits of anger, which can fuel TV success but can also consume you - and rile your bosses. http://thebea.st/etX1Q3"	6	13	5:11 AM - 24 Jan 2011
+MB30	29902282887790592	0	DTNIndonesia	"DTN Indonesia: James Love: Keith Olbermann and David Frum as co-hosts: A lot of people are speculating about Ke... http://huff.to/g2lDD7"	0	0	6:03 AM - 25 Jan 2011
+MB30	29063343721418753	0	obamaisfailing	"Caleb Ezra &amp; many like you:&#10;&#10;Welcome to reality:&#10;&#10;Most of us are here talking about someone we respected an... http://huff.to/gRezhH"	0	0	10:30 PM - 22 Jan 2011
+MB30	35108346566549505	0	Freedomman11	"Sarah Chasis: Whales Are Back in New York Waters -- Bring Back Whale Research, Too!: We do... http://huff.to/ewIbca http://bit.ly/5yluCl"	0	0	2:50 PM - 8 Feb 2011
+MB30	29004324285710336	0	obamaisfailing	"Here's a question:&#10;&#10;While I doubt it, there is an inherent conflict of interest in a cable company owning a broad... http://huff.to/gpftYN"	0	0	6:35 PM - 22 Jan 2011
+MB30	35046020488368128	1	DonCarlitos	"Olbermannn &amp; Al Gore team up to bring Keith to Current TV as host and Chief News Officer. Great team, I'll watch. http://huff.to/dTq954"	0	1	10:43 AM - 8 Feb 2011
+MB30	29952618084171776	0	Mom_with2boys	"Maddow: Olbermann was 'freaking successful,' a 'pioneer' http://huff.to/i09SZY #FOK"	0	0	9:23 AM - 25 Jan 2011
+MB30	35021385818439681	1	Callmephyfe	"Current TV just popped up on radar in a major way.  #Hello! http://huff.to/hF1Ib3 via"	0	0	9:05 AM - 8 Feb 2011
+MB30	29261926756253696	0	cab0305	"Join LeftAction now! http://leftaction.com - Support Keith Olbermann!!"	0	0	11:39 AM - 23 Jan 2011
+MB30	28981659269337088	0	rumpfshaker	"Heh. RT @MelissaTweets: RT @ExJon: Right about now, Keith Olbermann is sitting in his bathtub muttering something about a red Swingline."	0	0	5:05 PM - 22 Jan 2011
+MB30	30231246747471872	0	padotnet	"The Olbermann Era: Keith Olbermann is Not Dead. We Will Hear From Him Again! http://nblo.gs/dtRMR"	0	0	3:51 AM - 26 Jan 2011
+MB30	30336619609333760	0	skap5	"Ha. Just received this email: Keith Olbermann Now Available for Keynotes &amp; Appearances!"	0	0	10:49 AM - 26 Jan 2011
+MB30	35107485161492480	0	cherrybombnow	"DR DRE'S NEW GROUP 2 MILLION DOLLAR CONTRACT..WOW!! &quot;Alter'D Ego&quot; LEAKED song http://www.youtube.com/watch?v=kLuee1SAE94 @RangerAndBlast"	0	0	2:47 PM - 8 Feb 2011
+MB30	35060904089362432	0	ArticleDAU	"New: Finding a Good Job in a Bad Economy http://www.articledirectory.net.au/finding-good-job-bad-economy/"	0	0	11:42 AM - 8 Feb 2011
+MB30	35108163309015040	0	Femc2	"http://www.101x.com/morningx/index.aspx go to the end of the 7am call to hear my terrible job lying @JasonAndDeb"	0	0	2:50 PM - 8 Feb 2011
+MB30	35107514622279680	0	Byrdbz	"has just done a job in Torch a Failing Racket in #MobsterWorld http://www.playmobsterworld.com/?platform=twitter&amp;source=oneline_dojob"	0	0	2:47 PM - 8 Feb 2011
+MB30	29706240594542592	0	odetuxxz	"has just done a job in Petty Theft in #MobsterWorld http://www.playmobsterworld.com/?platform=twitter&amp;source=oneline_dojob"	0	0	5:04 PM - 24 Jan 2011
+MB30	31485177158963200	0	MAI331KURO	"has just done a job in Shoplift from a Drug Store in #MobsterWorld http://www.playmobsterworld.com/?platform=twitter&amp;source=oneline_dojob"	0	0	2:53 PM - 29 Jan 2011
+MB30	35092419187834880	0	trucano	"New FOSI Tool Monitors Online Safety Practices Around The World http://www.fosigrid.org/ via @FamOnlineSafety"	0	0	1:47 PM - 8 Feb 2011
+MB30	31493333431881728	0	IT_Jobs_Rafikee	"http://www.rafikee.com/job/69464 - Senior Javascript Software Engineer Job in Los Angeles, California (CA)"	0	0	3:26 PM - 29 Jan 2011
+MB30	31492210289541120	0	Haiti_11	"cashier jobs, customers service job - Columbus, OH, New Yok, Florida, California... http://htxt.it/xThG http://bit.ly/i9wkpm"	0	0	3:21 PM - 29 Jan 2011
+MB30	35106291395334144	0	pakikaka	"#Traffic Social Security Searches - Promote This New Public Records Niche! http://bit.ly/i9FI5c #website #blog #cash"	0	0	2:42 PM - 8 Feb 2011
+MB30	35108260902076416	0	RondaB4	"Looking for some fun love-themed drinks for the 14th? Check out @iSwig seasonal update w/lots of sexy new drinks! http://bit.ly/bgTCac"	0	0	2:50 PM - 8 Feb 2011
+MB30	35096912944168960	0	fresh_trends	"Current TV to snag Olbermann? - CollegeNews http://bit.ly/ebGSbX"	0	0	2:05 PM - 8 Feb 2011
+MB30	34277189813796865	0	socialnewsrooms	"Seaway Media Hosts One Day Seminar on Social Networking – Sunday February 27 ... - Cornwall Free News http://bit.ly/f70dRT #socialmedia"	0	0	7:48 AM - 6 Feb 2011
+MB30	31491608310448128	0	JobHitsUS	"Mechanic job in Knoxville, TN at Tire Kingdom / NTB / Merchants http://bit.ly/fqpZSZ #technician"	0	0	3:19 PM - 29 Jan 2011
+MB30	29309498418008064	0	intersrchmedia	"Immelt In – Olbermann Out - http://bit.ly/fthaSA"	0	0	2:48 PM - 23 Jan 2011
+MB30	29060183179137024	0	ArthurPolitics	"The Huffington Post Blog- http://bit.ly/gUfQRh"	0	0	10:17 PM - 22 Jan 2011
+MB30	29206084761690112	0	AmandaMarcotte	"http://bit.ly/gpJM2T Good points. We shouldn't gnash our teeth, but instead move right into demanding a better replacement."	0	0	7:57 AM - 23 Jan 2011
+MB30	35108223988154368	0	Journey2Financi	"Post updated February 8, 2011 - New Coupons at coupons.com. Read it now at http://bit.ly/gcaJCT"	0	0	2:50 PM - 8 Feb 2011
+MB30	33053034195984384	0	PA_Jobs_USA	"PA Job: CLINICAL NURSE Pediatric ICU: Nursing Clinics at Yale New Haven Hospital in CT http://bit.ly/gLYaXG"	0	0	10:43 PM - 2 Feb 2011
+MB30	31002392606547968	0	ResumeStrategy	"&quot;The new platform, called the .JOBS Universe (www.universe.jobs), is a stunning transformation...&quot; http://bit.ly/hyrW6T #Yawn #Overstated"	0	0	6:55 AM - 28 Jan 2011
+MB30	35107751008935936	0	EP_Questions	"New Question: Did Rock and Roll save your life from unbearable tedium ? (Did for me).:  http://bit.ly/hX78xs"	0	0	2:48 PM - 8 Feb 2011
+MB30	35107067807137792	0	zabohdan	"If we would have new knowledge, we must get a whole world of new questions. http://bit.ly/cVNAlt"	0	1	2:45 PM - 8 Feb 2011
+MB30	35085983829463041	-2	economyhosting	"#hosting #webhost Bargain Hosting Plans: Virtual Machine: Reasons to Have One: The key to the ... http://bit.ly/hHoEOy #webhosting #host"	0	0	1:22 PM - 8 Feb 2011
+MB30	34833170868215809	0	HipHoptweets21	"Hip-Hop Rumors: 50 Tyson Beaten Up? Ace Hood Run Outta Club?: 50 TYSON BEAT UP AGAIN?&#10;&#10;You know, people are g... http://bit.ly/fmEbfw"	0	0	8:37 PM - 7 Feb 2011
+MB30	32224695155687424	0	people404	"#people Question: keith urban?: Question by tina m: keith urban? i think keith urban should be in jail if he bea... http://bit.ly/fMmZ9a"	0	0	3:52 PM - 31 Jan 2011
+MB30	34464344670478338	0	feelmagazine	"Keith Urban, Maroon 5 kick off party in Texas: ARLINGTON, Texas     (AP) -- Keith Urban, the father of a 5-week... http://apne.ws/gl5zyC"	0	0	8:11 PM - 6 Feb 2011
+MB30	35074800288276480	0	JeffMoore_81	"Vibin out to some Keith Urban."	0	0	12:37 PM - 8 Feb 2011
+MB30	35095735439458304	0	AEGLiveCarolina	"Keith Urban will be rocking James Brown Arena on August 13th!! Tickets are on sale this Friday, more details on FB at http://on.fb.me/i7gO8s"	0	0	2:00 PM - 8 Feb 2011
+MB30	34938044138131456	0	SportRecruit	"NEW JOB: Customer Relationship Manager in Leicestershire. Apply at http://ow.ly/3Sibl"	0	0	3:34 AM - 8 Feb 2011
+MB30	35086510696955904	0	CorvetteBlogger	"Corvette Racing’s New 2011 C6.R Livery Spotted at Sebring Test http://ow.ly/3SJaW #corvette #alms @corvetteracing"	0	1	1:24 PM - 8 Feb 2011
+MB30	35079188088098816	0	AsthmaSociety	"New asthma drug being reviewed in Canada. Help us convince the government to list it on public drug plans: http://ow.ly/3Sxvl"	0	1	12:55 PM - 8 Feb 2011
+MB30	35072594151481344	1	nobodysnews	"#tcot #teaparty #p2 Limbaugh's advice to Fox News on Olbermann to Current TV: Ignore it http://ow.ly/1beYbo"	1	1	12:28 PM - 8 Feb 2011
+MB30	34784872929169409	0	NMwork	"NY BANK JOB - Financial Engineer - NY-New York, Job ID: 7152Position Description:Constantly rising volumes, around-t... http://ow.ly/1beau5"	0	0	5:25 PM - 7 Feb 2011
+MB30	32478466137919488	0	DirectSEO	"US-AR JB Hunt Fleet Manager Job http://ow.ly/1b828U"	0	0	8:40 AM - 1 Feb 2011
+MB30	34572884634501120	0	befcreative	"News Update Walt &amp; Company Named D-Link PR and Social Media Agency of Record - PR Newswire (press release) http://ow.ly/1bdubt"	0	0	3:23 AM - 7 Feb 2011
+MB30	34984756227612672	1	meblakney	"Check out &quot;Olbermann's New Job---on Current TV!?!?&quot; at http://current.com/items/92965508.htm"	0	0	6:39 AM - 8 Feb 2011
+MB30	34833907069370368	1	parrisann	"http://current.com/news/92965508_olbermanns-new-job-on-current-tv.htm http://fb.me/GHaiXh3Q"	0	0	8:40 PM - 7 Feb 2011
+MB30	35092520497061888	0	RalphHipp	"I've posted fresh snow storm video out of Wichita at this link. Special thanks to KAKE-TV for sending us these... http://fb.me/Ss842SQ1"	0	0	1:48 PM - 8 Feb 2011
+MB30	34754825472180224	0	HipHopHitsRadio	"Wanna See Our Top 5 Super Bowl Commercials? Check Em' Out @ hiphophitsradio.com!&#10;New Music This Week:&#10;Just Can’t... http://fb.me/OazUhQ2y"	0	0	3:26 PM - 7 Feb 2011
+MB30	34878213394145280	1	fulscrn	"Darling of the user-gen set, Current TV, scores darling of the progressive left Keith Olbermann. http://fb.me/UfbCqXV9"	0	0	11:36 PM - 7 Feb 2011
+MB30	29036457582665728	0	AslamQazi	"BREAKING: FoxNews Hires Keith Olbermann…. http://ff.im/-wH0lv"	0	0	8:43 PM - 22 Jan 2011
+MB30	35023516856225792	0	VicksieDo	"@current Great network adds Keith Olbermann, great news!"	0	0	9:13 AM - 8 Feb 2011
+MB30	28991762634637313	0	lmarina55	"to Keith Olbermann,&#10;you will be missed greatly . . . &#10;ALOHA, Good Night, GOOD LUCK and &#10;aloha blessing rainbows from honolulu,&#10;omm&#10;marina"	0	0	5:45 PM - 22 Jan 2011
+MB30	35042907433992192	0	EagleAdLab	"NYT article refers to Keith Olbermann as &quot;the former top-rated host&quot;.  Top rated?  Compared to what?  Lawrence Welk? http://nyti.ms/gQu5hH"	0	0	10:30 AM - 8 Feb 2011
+MB30	32514498879291392	0	houseofbamboo	"Channels Join Fight To Broadcast Al Jazeera In Egypt http://nyti.ms/gsov3F"	0	0	11:03 AM - 1 Feb 2011
+MB30	34852514805448704	1	lrrykeho	"Is public affairs channel a euphemism 4 not profitable? Olbermann, has deal w/ public affairs channel Current TV - NYT http://nyti.ms/hpTTR1"	0	0	9:54 PM - 7 Feb 2011
+MB30	30695513569370112	0	mhelft	"Murdoch's iPad only newspaper coming Next Week - http://nyti.ms/gLoD4g"	4	7	10:35 AM - 27 Jan 2011
+MB30	34942034594897920	1	tebuckey	"Olbermann's announcement is he is joining Gore's Current TV. He found a spot with less viewers than MSNBC. I didnt think that was possible."	0	0	3:50 AM - 8 Feb 2011
+MB30	34799400995786753	0	musikcommunity	"Keith Olbermann Teases Big Announcement on Twitter http://bit.ly/eNV56k"	0	0	6:23 PM - 7 Feb 2011
+MB30	29592299935633408	0	politicalwind	"Glenn Beck: &quot;Keith Olbermann Is The Biggest Pain In The Ass In The World&quot; http://bit.ly/eKE0Mh #glennbeck #912project"	0	1	9:32 AM - 24 Jan 2011
+MB30	34808165694443520	1	loveolbermann	"@tduggerdick Yeaaa! Keith Olberman is going to join Al Gore at Current TV. Will u follow him? Here's the story: http://bit.ly/dQzZYP"	0	0	6:58 PM - 7 Feb 2011
+MB30	35093025747251200	0	spintricity	"AREA With MAURO PAGANI - Reunion In New York Brecht Forum 2/5/2010 http://bit.ly/eabSQx via Rarities Mattters http://rarities.mattters.com"	0	0	1:50 PM - 8 Feb 2011
+MB30	35092791679787008	0	Roommate_NY	"room for rent (elmhurst) $700 http://bit.ly/fYeRCA ►New York City"	0	0	1:49 PM - 8 Feb 2011
+MB30	34040801348554752	0	brudinhasan	"watching, playing with enjoy http://bit.ly/gq45eF (via @GetGlue) #olbermann"	0	0	4:08 PM - 5 Feb 2011
+MB30	35048100355637249	0	freelanceonjobs	"New Job: Mancuso Consulting Group http://bit.ly/gNGxx7"	0	0	10:51 AM - 8 Feb 2011
+MB30	30091995246497793	0	blgx_Business	"Black Eyed Peas Front Man Has a New Job at Intel http://bit.ly/gy1UQi"	0	0	6:37 PM - 25 Jan 2011
+MB30	32870501240016896	0	healthcarejob__	"Healthcare Job: New Hampshire Urology Position: Physician Urologist at CompHealth in NH http://bit.ly/g21FZt #hospital, #jobs"	0	0	10:38 AM - 2 Feb 2011
+MB30	33035116607442944	0	jobsnemployment	"Good Phone Skills Are Critical To Your Job Search http://bit.ly/i6MU1Y"	0	0	9:32 PM - 2 Feb 2011
+MB30	35040770519994368	1	news_essential	"Olbermann and #Current TV: His Oprah Moment? http://bit.ly/ifrFFc"	0	0	10:22 AM - 8 Feb 2011
+MB30	35092702248837120	0	StarGTANews	"Hume: New subway station could be major stop on the road to Toronto’s future http://bit.ly/hTAYXl"	0	0	1:48 PM - 8 Feb 2011
+MB30	31774521648218112	0	whyfake1	"Olbermann Unemployed http://bit.ly/e6fPxG"	0	0	10:03 AM - 30 Jan 2011
+MB30	34326095771734016	0	OhReallyPoet	"HAVE U HEARD... Eminem To Endorse Chrysler In New $9 Million Super Bowl Ad http://bit.ly/fO196R &lt;~ JUST CURIOUS??"	0	0	11:02 AM - 6 Feb 2011
+MB30	35089426493210624	0	Bethel5952	"Proofreading Jobs http://bit.ly/gXhEpT"	0	0	1:35 PM - 8 Feb 2011
+MB30	29569991107940352	0	EINMediaNews	"Olbermann Leaves 'Countdown' on MSNBC http://r.einnews.com/vhjpPK"	0	0	8:03 AM - 24 Jan 2011
+MB30	32207456406867968	0	Carol85719	"Love this man &amp; this video.#FOK #CNN #MSNBC http://thepoliticalcarnival.net/2011/01/28/video-blunt-good-night-and-good-luck-keith-olbermann/"	0	0	2:43 PM - 31 Jan 2011
+MB30	35100745955020800	0	noni_keith	"No looking back"	0	0	2:20 PM - 8 Feb 2011
+MB30	30407352846909441	0	saumarjyoti	"Thw whole new stuff In your experience, have you ever fired a new employee during the first 90 days on the job... http://linkd.in/ghJLYq"	0	0	3:30 PM - 26 Jan 2011
+MB30	35003484894011392	0	FN_Press	"Quality Networking LLC - QNLINK.COM Free Job Board - Unleashes New Services for Job Seekers,... http://finanznachrichten.de/19305156"	0	0	7:54 AM - 8 Feb 2011
+MB30	35106575240663040	0	shreyaskini	"New HTC with Android spotted in promotional video, possibly Wildfire 2?: &#10;Look, it happens -- sometimes your vi... http://engt.co/dIB50Z"	0	0	2:43 PM - 8 Feb 2011
+MB30	32243917562847232	0	jlhoekstra	"Here's to new endeavors...  http://jlhoekstra.blogspot.com/"	0	0	5:08 PM - 31 Jan 2011
+MB30	35107806919131136	0	jejefresh	"Lol RT @kobikwelu: Changed?? Upon all deir advert. Rotfl. RT @ciiphii: na new specie cos i changed from mortein RT ... http://tmi.me/6xlcE"	0	0	2:48 PM - 8 Feb 2011
+MB30	32009533433847808	0	nandhla	"Nicole, Keith show off pics of their new baby girl:  Melbourne, Jan 31 - Nicole Kidman and husband Keith U... http://tinyurl.com/6knwv9n"	0	0	1:37 AM - 31 Jan 2011
+MB30	35092854699196416	0	BellaDonnaizhot	"**NEW VIDEO**!!! &quot;Behind the Scenes of @BellaDonnaizHot 'THE PAYBACK' Video Shoot!&quot; - http://tinyurl.com/MakingPB RT!"	0	0	1:49 PM - 8 Feb 2011
+MB30	31486484259282944	0	MBAHighway	"JOB: Industry Head, Multi-Sector - Oslo, Internet / New Media, Oslo, N/A, Norway http://tinyurl.com/6bo9uma #job #mba #jobangels"	0	0	2:58 PM - 29 Jan 2011
+MB30	34687436235743233	0	BootCountry	"Now playing Big Blue Note by Toby Keith from Toby Keith: 35 Biggest Hits #NowPlaying - iTunes: http://tinyurl.com/4f8d9wf"	0	0	10:58 AM - 7 Feb 2011
+MB30	29283580844703744	0	bill_oreilly_DN	"MSNBC FIRES OLBERMANN. &quot;What I hated most about Olbermann&quot; - Post Game Analysis by Roachenator #debsnews http://pod.ly/tvr/1372809"	0	0	1:05 PM - 23 Jan 2011
+MB30	29774319663972352	0	bill_oreilly_DN	"Olbermann FIRED from MSNBC - NBC ComCast executes HATE MERCHANT Olbermann #debsnews http://pod.ly/tvr/1369513"	0	0	9:35 PM - 24 Jan 2011
+MB30	29701262417068032	0	KIngLou54	"Keith Olbermann for Senate!"	0	0	4:45 PM - 24 Jan 2011
+MB30	29113152574590976	0	raynmaynard	"Keith Olbermann or something of the like. Ha ha! Thunder stolen hermano!"	0	0	1:48 AM - 23 Jan 2011
+MB30	29233767532986368	0	mass_writer	"Well, well...looks like MSNBC cancelled Countdown w/Keith Olbermann. Time to complain to MSNBC. #msnbc"	0	0	9:47 AM - 23 Jan 2011
+MB30	29212520212340736	0	careoctavia	"#MSNBC: You really messed up this time. Keith Olbermann attracted like more than half of your nightly viewers. Carry on Rachel."	0	0	8:23 AM - 23 Jan 2011
+MB30	35016607688425472	1	RVing5150	"For you fellow @DirecTV customers, Current TV is on channel 358! Woohoo! I get to watch @KeithOlbermann again! #FOK"	0	0	8:46 AM - 8 Feb 2011
+MB30	32185388617437184	0	TeamOlbermann	"@KeithOlbermann Hey Keith, perhaps when Baseball season starts, you should come down here to Tampa for @RaysBaseball! :)"	0	0	1:16 PM - 31 Jan 2011
+MB30	35018560514437120	1	itsweezie	"@KeithOlbermann #FOK | Direct TV - 358; Dish - 196; Comcast 107 &amp; 125; Time Warner 103 &amp; 142"	0	5	8:54 AM - 8 Feb 2011
+MB30	29207829034311680	0	obssee	"I hope Keith Olbermann, starts his own FM raido show. I wish you Good Luck, I miss watching you on MSNBC.  I"	0	0	8:04 AM - 23 Jan 2011
+MB30	35015006298832897	0	proudbuck	"Keith Olbermann, who cares..Keith and Al, peas in the pod"	0	0	8:40 AM - 8 Feb 2011
+MB30	29582966246088705	0	blossom423	"I'm supporting Keith Olbermann @teamolbo"	0	0	8:55 AM - 24 Jan 2011
+MB30	35008352257974272	1	KURV_ONLINE	"Keith Olbermann to host primetime news/commentary show for Current TV, where &quot;news is produced independently of corporate interference&quot;."	0	0	8:13 AM - 8 Feb 2011
+MB30	30841055502929920	0	DCdebbie	"@FBerman I can't get Keith Olbermann to call me. I gotta work on one problem at a time. xoxo"	0	0	8:14 PM - 27 Jan 2011
+MB30	29739778115112961	0	sabrinaco	"keith olbermann &lt;3.  contract ended eh?  I blame comcast."	0	0	7:18 PM - 24 Jan 2011
+MB30	32117435486183425	0	PMEWhite	"Keith Olbermann Bashes Vietnam Vet's Letter to the Editor About Him  http://j.mp/dZevMP via @AddToAny"	0	0	8:46 AM - 31 Jan 2011
+MB30	29200278376947713	0	geeoharee	"'...his personal e-mail address references Fred Merkle...' As if we couldn't have guessed. http://j.mp/gxCV4N (ht @TheFix)"	0	0	7:34 AM - 23 Jan 2011
+MB30	34716712821587968	0	Colin_Jones	"Olbermann is going to announce what's next tomorrow morning. Interested to hear his next move. http://j.mp/heJyge"	0	1	12:54 PM - 7 Feb 2011
+MB30	29378212928684033	0	MDMRN	"Draft. Keith. Olbermann. Those Kos-kids really have lost it. http://j.mp/fnvnRn #asinine #tcot #tlot"	1	0	7:21 PM - 23 Jan 2011
+MB30	29214376531599361	0	ronnie_bluesman	"Keith #olbermann's support for the Free Clinics will be missed."	0	1	8:30 AM - 23 Jan 2011
+MB30	30097361027993600	0	Raptor2u	"If it were 20 minutes you'd be btchn about that. Relax. RT @BorowitzReport This speech is so long, Keith #Olbermann could have ... #SOTU"	0	0	6:59 PM - 25 Jan 2011
+MB30	29052442716934144	0	ArielePratt	"Olbermann's split with MSNBC may have been long in the making http://www.washingtonpost.com/wp-dyn/content/article/2011/01/22/AR2011012204023.html&nbsp;… via @washingtonpost"	0	0	9:46 PM - 22 Jan 2011
+MB30	35092616949272576	0	restaurantcrfa	"From our #Blog: Restaurant Central delivers! Here are a few new items posted to Restaurant Central in the past week: http://wp.me/p1cApE-8m&nbsp;"	0	1	1:48 PM - 8 Feb 2011
+MB30	30008322966945792	0	MarketingMama	"My new post today: 4 ways to stand out from the crowd in your job search: http://wp.me/p1hdku-2c&nbsp; #blog #marketing #HR #jobs"	1	0	1:05 PM - 25 Jan 2011
+MB30	32870587370045441	0	PegsKatzencats	"Funny how someone &quot;w/only 3 viewers&quot; is generating so much Press.  http://look.ac/dTAC3f  #FOK  They fear you, Keith. :D"	0	0	10:38 AM - 2 Feb 2011
+MB30	33410580383539200	0	coverawards	"@FOKNewsChannel Forbes on Keith tweet http://blogs.forbes.com/markpasetsky/2011/02/03/news_rupert_murdoch_keith_olbermann_fox_msnbc_19819/"	0	0	10:24 PM - 3 Feb 2011
+MB30	35074542518931456	0	CPGjobs	"New job! PROJECT ENGINEER (#27343) in Other, Chattanooga, TN http://cpg.jobs/B56 #cpg #jobs"	0	0	12:36 PM - 8 Feb 2011
+MB30	34665147922391040	0	CPGjobs	"New job! MERCHANDISING REPRESENTATIVE (#27328) in Merchandising, New Paltz, NY http://cpg.jobs/B4F #cpg #jobs"	0	0	9:29 AM - 7 Feb 2011
+MB30	35108324609368064	0	thiiagonobre	"A @biiarosseti nem me ama mais, vou chorar!"	0	0	2:50 PM - 8 Feb 2011
+MB30	35108111157166080	0	thebfilmextras	"A new song AND a few new photos...? Check it all out at www.thebfilmextras.com. Can't wait to give you all so much more!!"	0	0	2:50 PM - 8 Feb 2011
+MB30	35106719482916864	0	robertojsg1	"Allrecipes.com Unveils Interactive Menu Planner; New Flexible Meal Planning Tool Allows Home Cooks to Plan Menus for ...: http://cheap.h..."	0	0	2:44 PM - 8 Feb 2011
+MB30	35093157335011329	0	Letschatmoney	"#younotfromWatts if u aint neva had a summer job wit waynewright lmao"	0	0	1:50 PM - 8 Feb 2011
+MB30	35093087034286080	0	ReneWeistra	"New favorite @sondcloud: Dj Got Us Fallin In Love Again (HYPER CRUSH REMIX) by Hyper Crush on #SoundCloud http://snd.sc/hIE3iy"	0	0	1:50 PM - 8 Feb 2011
+MB30	35107371697045504	0	CamBusk	"My new favorite song. The Spanish version of Hotel California. #awesome"	0	0	2:47 PM - 8 Feb 2011
+MB30	35092555142008833	0	Paige_Victoria	"Sooo no favorite music bloggers in the midwest area I see.. Maybe I will quit my job and start my own! Justkidding @wgpr..."	0	0	1:48 PM - 8 Feb 2011
+MB30	35093063634255873	0	asphotos	"I'm going to The HSV factory today. Unfortunately. I'm not collecting a new car :("	0	0	1:50 PM - 8 Feb 2011
+MB30	35074091006304256	0	ShellyStarz	"Congrats to my boo @MissEazyBaby on the new job.. go ahead and get that cake girl!!!!... get it?...lol"	0	0	12:34 PM - 8 Feb 2011
+MB30	32019758597537792	0	westcorkonian	"@Dorasbeag best of luck in the new job. Hope all goes well for you"	0	0	2:18 AM - 31 Jan 2011
+MB30	32599466846461952	0	tcsuliv	"Day 2 at the new job. God I gotta study more Japanese."	0	0	4:41 PM - 1 Feb 2011
+MB30	35065340064956416	0	6Magazine	"First day at the new job"	0	0	12:00 PM - 8 Feb 2011
+MB30	35081419256500226	0	DennisWestower	"New followers, if u want me 2 follow back just ask"	0	1	1:03 PM - 8 Feb 2011
+MB30	35046961262362624	0	sightofthenav	"Thanks to all the new followers, sorry not much tweet action right now.  New job, a second emigration and a family bereavement all in Jan!"	0	0	10:47 AM - 8 Feb 2011
+MB30	31866866444017664	0	CLamarFultz	"Shouts go out to my new followers wats crackin!"	0	0	4:10 PM - 30 Jan 2011
+MB30	35107370874970112	0	soINCONSIDERATE	"s/o new followers i followed some of yall back"	0	0	2:47 PM - 8 Feb 2011
+MB30	35093041505107968	0	manicvic	"Only 6 months til New York"	0	0	1:50 PM - 8 Feb 2011
+MB30	35092881698074625	0	sportalkorg	"New post: snooker spin?"	0	0	1:49 PM - 8 Feb 2011
+MB30	35092774432804864	0	umweezy	"but it aint workin so I gotta let u go.....#np new impressions"	0	0	1:49 PM - 8 Feb 2011
+MB30	35092750110162944	0	Shayne_Brown	"MY NEW VIDEO IS ON MY BLOG NOW CHECK IT OUT!! http://shaynebrown.wordpress.com/"	0	0	1:48 PM - 8 Feb 2011
+MB30	35092661492785152	0	OliveaCouture	"Can somebody get me a new car...Thanks in advance :)"	0	0	1:48 PM - 8 Feb 2011
+MB30	35092644115775488	0	throatspiders	"Apparently you can listen to the new @DRUGS album already? But I believe in release dates, so I'll just wait till the 22nd :)"	0	0	1:48 PM - 8 Feb 2011
+MB30	35092552310849536	0	lilruth	"Job Interview Skills Need Polishing – New Report Finds | iNews Connect http://ff.im/xAwAs"	0	0	1:48 PM - 8 Feb 2011
+MB30	35092530282364928	0	jpthadon	"NEW SONG FT NEW WAVE UP NOWWWWW ON FB"	0	0	1:48 PM - 8 Feb 2011
+MB30	35092460921159681	0	tiggermouse	"@Themoodymann did you see my new avi? *grins* *bats eyelashes*"	0	0	1:47 PM - 8 Feb 2011
+MB30	35092320000933889	0	peter_j_gilbert	"Hmm open syscall in #android with O_CREAT flag to create a new file and no mode argument results in random permissions bits. Seems broken."	0	1	1:47 PM - 8 Feb 2011
+MB30	35090887075823616	0	carnaobeats	"Shouts to all my new déjà family I feel welcomed !!!!!"	0	1	1:41 PM - 8 Feb 2011
+MB30	35092981765783552	0	dan_martin29	"How unlucky, moving out of the family home and onto a caravan site in Slough, what dreams are made of! #bfgw"	0	0	1:49 PM - 8 Feb 2011
+MB30	35090853663870976	0	scedmonds	"New blog post from @kevineikenberry  http://tiny.ly/4nDd"	0	1	1:41 PM - 8 Feb 2011
+MB30	35090588588048384	0	TravelOTC	"Three Busker Festivals that Feature Crazy-Talented Street Performers : http://totc.us/qwg #TOTC_New_Story"	0	1	1:40 PM - 8 Feb 2011
+MB30	29879089397506048	0	JimEltringham	"In the MSNBC shakeup, Olbermann is Favre, Maddow is Aaron Rodgers: http://wp.me/psu0N-Dh"	0	0	4:31 AM - 25 Jan 2011
+MB30	35088117077639168	0	NYCTrends	"New music from Harlem's own B/A @HansomManson -Flight School - Buckle up, he's taking you on a ride! http://sns.ly/wSbty4 #JMG"	0	1	1:30 PM - 8 Feb 2011
+MB30	35086977644761088	0	jimbeamofficial	"Don't miss the TV premiere of our new commercial, airing tomorrow night on FX during the season premiere of &quot;Justified&quot; at 10 p.m. EST."	0	1	1:26 PM - 8 Feb 2011
+MB30	35084817108447232	0	sugaware	"Old bitch acting funny im with my new hoe ........&quot;"	0	0	1:17 PM - 8 Feb 2011
+MB30	35081446184058880	0	nemthakreation	"Uncle @SnoopDogg you forgot to add New Mexico in your Get Wet Tour line up!! Holla at ya nephew @NemThaKreation one time.. New Mexico pls RT"	0	1	1:04 PM - 8 Feb 2011
+MB30	35080828702691328	0	JAG1Prod	"Madddd... Voicemail ! RT @chez_jop: think fat ppl cyaa dance well u mussi drunk.. watch biggi do di new dance biggi bounce"	0	1	1:01 PM - 8 Feb 2011
+MB30	35080175133659136	0	DrJays_com	"New Music: @RealWizKhalifa, @NBTPain, @ChrisBrown, @TrinaRockstarr http://goo.gl/3UGW8"	0	1	12:59 PM - 8 Feb 2011
+MB30	30408268228599809	0	WeloveBravoloui	"I Just Watched Khalil Video For The First Time I LOVE IT...He Remind Me Of Chris Brown &amp; Soulja Boy (When He Was Cooking) Lol...New Playlist"	0	0	3:34 PM - 26 Jan 2011
+MB30	35089540737662976	0	3MillionDs	"New post: Online Earn Money Job - 106247 | Free Global Classified Ads  #makemoney #money #earnmoney"	0	0	1:36 PM - 8 Feb 2011
+MB30	35089107042435073	0	spottyj	"Glee Season 1 + my makeup kit to type up + new job = blissful evening"	0	0	1:34 PM - 8 Feb 2011
+MB30	35086265212866560	0	MuckyDesignz	"Aite I have given up with my new job search and decided to become a full time #JobSeeker"	0	0	1:23 PM - 8 Feb 2011
+MB30	33530158036025344	0	duncangrantz	"Man I'm glad I'm getting a new job."	0	0	6:19 AM - 4 Feb 2011
+MB30	29004081334853633	0	JoeySPAZUM	"These hours I'm getting are so whack, I NEED to find a new job."	0	0	6:34 PM - 22 Jan 2011
+MB30	33237241694257152	0	MartinPlante	"I think someone behind @KennethCole should find a new job. http://slm.cd/eD6VkX  http://slm.cd/gCIfIz"	0	0	10:55 AM - 3 Feb 2011
+MB30	30088970524172289	0	Maemesha	"think its time I find a new job"	0	0	6:25 PM - 25 Jan 2011
+MB30	30358697628663809	0	lig	"today is a day when I would not mind a new job. *sigh*"	0	0	12:17 PM - 26 Jan 2011
+MB30	35072136401915904	0	k8thegr81	"@mulktide how's the new job going so far?"	0	1	12:27 PM - 8 Feb 2011
+MB30	35059498561441792	0	MaccaAddison	"New job is taking up alot of my time at present, sorry for lack of tweets"	0	0	11:36 AM - 8 Feb 2011
+MB30	35053490048864256	0	pixeldust30	"Sometimes I think that my new job is just too thinky think thinkie for me."	0	0	11:12 AM - 8 Feb 2011
+MB30	30505165601636352	0	pmaisha	"second at my new job and its great"	0	0	9:59 PM - 26 Jan 2011
+MB30	32620903426695168	0	thehotchkid	"This. RT @blackoutRF I need a new job."	0	0	6:06 PM - 1 Feb 2011
+MB30	30053229370802177	0	dynaMIC_Heart	"I need a new job.... &amp; a new location. Chicago is such a petty city lol. shoulda jus left"	0	0	4:03 PM - 25 Jan 2011
+MB30	34496575807950849	0	Cryyyystal	"Wow I've never had so much drama filled in a day before..... I need a new job."	0	0	10:19 PM - 6 Feb 2011
+MB30	30491987480154112	0	mz_agood	"i need a new job"	0	0	9:07 PM - 26 Jan 2011
+MB30	30272488101384193	0	jasmineonlyone	"I need a new job that pays more man this ish it for the birds!"	0	0	6:34 AM - 26 Jan 2011
+MB30	35093246086479872	0	theloudfew	"Did you know #Facebook has a Recommend button you can add to your blog? #bss11 @MariSmith"	1	0	1:50 PM - 8 Feb 2011
+MB30	32472010986618880	0	MMaryMcKenna	"Did you know that our new @MyLearningPool subscription contains a module called &quot;Get That Job&quot;? #elearning #socent #3rdsector #volsec"	0	1	8:15 AM - 1 Feb 2011
+MB30	35093226671050753	0	PrettiBoiJULIAN	"http://twitpic.com/3xt37e - Jus picked up my moms dog from the groomer, she dead ass has bows in her hair lol"	0	0	1:50 PM - 8 Feb 2011
+MB30	35093064347291649	0	helena7623	"Second place always has alot to prove &lt;3 http://twitpic.com/3xt30r"	0	0	1:50 PM - 8 Feb 2011
+MB30	35092634343055360	0	MissShayMarie	"is it fat to go home and eat then go work out #justwondering"	0	0	1:48 PM - 8 Feb 2011
+MB30	35092551186780160	0	LucieOgara	"who has been your friend the longest? — danielle and martha and abbie:) http://4ms.me/fpZu7q"	0	0	1:48 PM - 8 Feb 2011
+MB30	29040760858873856	0	jelunde	"Olbermann asking for more $$$ is like Obama asking for 8 more years.  Seriously?! #tcot #gop"	0	0	9:00 PM - 22 Jan 2011
+MB30	31494174696022016	0	svj111	"Going to my new place to drop things off..hopefully my new roommates aren't drunk already.."	0	0	3:29 PM - 29 Jan 2011
+MB30	31494024162447360	0	brentonmiles	"Spiritual Warfare my friend. Comes with the job.  RT @taylorawelch: @brentonmiles it's like the same things happen to us."	0	0	3:28 PM - 29 Jan 2011
+MB30	31493527829479424	0	P3T3RK3Y5	"Wow @tabulagaza - great job on @AJEnglish - way to bring it."	0	0	3:26 PM - 29 Jan 2011
+MB30	31490924626321409	0	CapoLove_	"@InhaleLexhale Hand job???lol"	0	0	3:16 PM - 29 Jan 2011
+MB30	31490736222380032	0	safestephanie	"Going to try get a job at Tesco when I leave school"	0	0	3:15 PM - 29 Jan 2011
+MB30	31488648876658688	0	EvaaLUFCx	"A lovely mother, she's basically just told me I chose shit options and I won't get a job.."	0	0	3:07 PM - 29 Jan 2011
+MB30	31486944437338114	0	dfAvefenix	"@TameikaTekautz9 yet looking for a job?  What about?"	0	0	3:00 PM - 29 Jan 2011
+MB30	31379331158638592	0	hrinformant	"Hate your job? Don't stay somewhere that makes you miserable -- explore your options! http://www.bit.ly/lookingforwork"	0	0	7:53 AM - 29 Jan 2011
+MB30	30174694464299008	0	grubbypishnik	"Stefan was enjoying his new job working on Toyota fuel systems&#10;http://www.bbc.co.uk/news/uk-12284113"	0	0	12:06 AM - 26 Jan 2011
+MB30	30326611240812544	0	TalentOysterJob	"Get SMS alerts for new jobs. http://www.talentoyster.com"	0	0	10:10 AM - 26 Jan 2011
+MB30	31486882697191424	0	eghalatoya	"ah menolak dua job karena malas dan malas :b http://myloc.me/h9HRg"	0	0	3:00 PM - 29 Jan 2011
+MB30	31485646308638720	0	cass_couture	"Off job 1 , time to shower &amp; get ready for job 2."	0	0	2:55 PM - 29 Jan 2011
+MB30	31481936497086464	0	mcbrideyy	"my cousin's got a new job in Ralph Lauren, extremely jealous!"	0	0	2:40 PM - 29 Jan 2011
+MB30	31481607177117696	0	careerbarn	"Mid Level Java #Developer #Job - Yoh - @careerbarn Job Details http://dld.bz/Gp9A"	0	0	2:39 PM - 29 Jan 2011
+MB30	31481300225359873	0	JoyfulGrrl	"@claythornton66 Hope you will find the right place.  Does not interfere with job performance &amp; it's discriminatory to exclude for that."	0	0	2:38 PM - 29 Jan 2011
+MB30	31481268650643456	0	DankandDrank4Me	"Claimin other peoples kids and shit #dafuck bitch get a job and a car and some regular everyday money in yo pocket"	0	0	2:38 PM - 29 Jan 2011
+MB30	34918843260338177	0	OmarionMyers	"i need a job"	0	0	2:17 AM - 8 Feb 2011
+MB30	34345419777515520	0	Maronda_	"i need a job"	0	0	12:19 PM - 6 Feb 2011
+MB30	34139314233278464	0	Don_livinglife	"i need a job"	0	0	10:40 PM - 5 Feb 2011
+MB30	32465924762112000	0	ryanpdean	"i need a job"	0	0	7:50 AM - 1 Feb 2011
+MB30	34856640964464640	0	traxex_medusa	"i want a job"	0	0	10:10 PM - 7 Feb 2011
+MB30	31789341567094784	0	sweetestGIRL_xD	"i want a job"	0	0	11:02 AM - 30 Jan 2011
+MB30	34614321682063360	0	Dal_U2	"Job..."	0	0	6:07 AM - 7 Feb 2011
+MB30	33975526091800576	0	kinda_gay	"having a job"	1	0	11:49 AM - 5 Feb 2011
+MB30	33632878084489217	0	lulitadesiempre	"job"	0	0	1:07 PM - 4 Feb 2011
+MB30	33551329699827713	0	WishUponMyStars	"i think i want a job..."	0	0	7:43 AM - 4 Feb 2011
+MB30	31791440103211008	0	ukbieberfan_x	"i want a job."	0	0	11:10 AM - 30 Jan 2011
+MB30	33541481226567680	0	CharmedBiScotty	"Keith"	0	0	7:04 AM - 4 Feb 2011
+MB30	33476671583551488	0	Bayu1928	"good job"	0	0	2:47 AM - 4 Feb 2011
+MB30	32814588911161344	0	blakejanku	"they took his job"	0	0	6:56 AM - 2 Feb 2011
+MB30	32177675351105537	0	tasos1626	"i need to find a job!"	0	0	12:45 PM - 31 Jan 2011
+MB30	30767668193656833	0	SkyFeeex	"Job"	0	0	3:22 PM - 27 Jan 2011
+MB30	30159362500599808	0	awanda_rp	"good job.."	0	0	11:05 PM - 25 Jan 2011
+MB30	33643625518731264	0	pijobi	"New job? New job."	0	0	1:50 PM - 4 Feb 2011
+MB30	34620844265177088	0	kangakat	"Yay @nuttynikkik's mum has a new job."	0	0	6:33 AM - 7 Feb 2011
+MB30	29965178820894720	0	Jasmine4488	"BREAKING NEWS. Andy Gray has a new job as the face of Yorkie Bars."	0	0	10:13 AM - 25 Jan 2011
+MB30	34607801808453632	0	MatthewRoach7	"First day of the new job. (@ The Hartford Insurance) http://4sq.com/dG7Cf9"	0	0	5:41 AM - 7 Feb 2011
+MB30	34419536161677313	0	lushday	"I'm at Top of The Rock Observation Deck (30 Rockefeller Plaza, btw 5th and 6th Ave, New York) w/ 2 others [pic]: http://4sq.com/etBtG8"	0	0	5:13 PM - 6 Feb 2011
+MB30	30115559832031232	0	RisSmile	"I'm at Market Arts &amp; Crafts (Miami Road, btw 7th &amp; 8th Ave, New York) w/ 4 others http://4sq.com/e1J0Wb"	0	0	8:11 PM - 25 Jan 2011
+MB30	35052642178830336	0	po_richard	"#GOP Abortion police will create 1000's of new jobs. #tcot #icot #2012"	0	0	11:09 AM - 8 Feb 2011
+MB30	31189042779389953	0	lopezjen	"Friday, Friday, Friday. Yay for Friday! Next week I start my new job. Yay!"	0	0	7:17 PM - 28 Jan 2011
+MB30	29306420016979968	0	legendaryhicks	"So I went and got 50 nuggets last night and that did not do the job I was very much still hungry, might have to up my nugget game to 100 lol"	0	0	2:36 PM - 23 Jan 2011
+MB30	34659451516493824	0	Ayooo_TWiST	"i dnt understand how people get around without a job... without money period... smh.. shit not meeh.. lol gunna be on top real soon!!!!"	0	0	9:07 AM - 7 Feb 2011
+MB30	34881125406998528	0	YBeJeff	"If I See My Ex With Her New Dude I Would Neva Try No Crazy Shyt Like Dat. I Mean He Coulda Jus Beat Her Dude Up. Why Even Lay Hands On Her?"	0	2	11:48 PM - 7 Feb 2011
+MB30	32127572313640960	0	livewxradar	"ICE UP TO 1 INCH OMG! OK AR MO IL KY IN OH up to 1/2&quot; WV PA MD NY MA NJ CT RI http://livewxradar.com #mwblizzard #weather #news #snomg #snow"	0	0	9:26 AM - 31 Jan 2011
+MB30	31780634586255361	0	Taylor_OMG	"My Grandmother Tried To Make Me Feel Guilty For Not Coming To See Her Today &amp;&amp; She DId A Damn Good Job Cause I Feel Bad Now ! lols"	0	0	10:27 AM - 30 Jan 2011
+MB30	29000354913845249	0	GlamorousJaz	"Grandma New Boyfriend Comin In Town Next Week &amp;&amp; She Talkin Bout She Wanna Be Alone.. Nobody Aint Comin Ova &amp;&amp; We Betta No Call Her..BOL !!"	0	0	6:19 PM - 22 Jan 2011
+MB30	30945945331957760	0	PavBatth	"Feel Like Death! Seriously Can Not Be Bothered To Get Out Of Bed! If Only There Was A Job Where You Just Slept :( I'd Ask For Overtime :D"	0	0	3:11 AM - 28 Jan 2011
+MB30	30259725526368257	0	Andy_moran	"You know it's a bad sign when on first day of a new job 1 of the lads says you need to get out now while you still can."	0	0	5:44 AM - 26 Jan 2011
+MB30	31694471313756160	0	IAmBeckie	"Ok So I Just Finished Reading Fab Mag W/ @KimKardashian &amp; @KourtneyKardash &amp; Gots To Say You Gals Look Fab, Can't Wait 4 #KKTNY! Great Job"	0	0	4:45 AM - 30 Jan 2011
+MB30	32620545535119360	0	ScoutsHonor21	"if I get this second job, I wanna dream big and plan a trip for 2012 for me and Keith...somewhere outside the continental US!"	0	0	6:05 PM - 1 Feb 2011
+MB30	30084985490767872	0	ladolcevitaa_	"i love my new job :))"	0	0	6:09 PM - 25 Jan 2011
+MB30	30238594178220032	0	sarawbell	"so i was gonna wake up at 11 and go apply for a new job but its 720 am and i haven't been to bed yet..."	0	0	4:20 AM - 26 Jan 2011
+MB30	35082067419205632	0	MrKleanup1911	"At the job and I haven't heard any good news yet!"	0	0	1:06 PM - 8 Feb 2011
+MB30	34742979537141760	0	lovemachineinc	"New job: new worklist email test task http://dev.sendlove.us/rw/?13246"	0	0	2:39 PM - 7 Feb 2011
+MB30	33457742920294400	0	qnlinknews	"http://qnlink.com/nr Myanmar picks junta’s PM as new president: Myanmar picks junta’s PM as new president by adm...  Need a Job? CV here."	0	0	1:32 AM - 4 Feb 2011
+MB30	29706387059638272	0	qnlinknews	"http://qnlink.com/nr UN chief criticized as soft on human rights: UN chief criticized as soft on human rights by...  Need a Job? CV here."	0	0	5:05 PM - 24 Jan 2011
+MB30	29708576796708864	0	mzkay2good	"I love my job I learn sumthing new everyday =)"	0	0	5:14 PM - 24 Jan 2011
+MB30	29708271048724480	0	therealai	"Won our first co rec game! Good job @Jazzee_F_Baby @_MissWoods_ @PatriceJade @wwwsod @TalishaJinea !!"	0	0	5:12 PM - 24 Jan 2011
+MB30	29707998205054977	0	JayCeeMartinez	"just do your job jc and stop whining hahahahaha. wear my shoes old lady. :)"	0	0	5:11 PM - 24 Jan 2011
+MB30	29706760470142976	0	wpjobsonline	"#Freelance job - Fix Freshy2 Theme To Work With Current #WordPress http://joblance.info/u/ony"	0	0	5:06 PM - 24 Jan 2011
+MB30	34756107129856000	0	CareerFinancial	"FICC Structurer - Leading Global Investment Bank - London United Kingdom...  http://jobsurl.com/mtyJ"	0	0	3:31 PM - 7 Feb 2011
+MB30	34288098661638144	0	bkkbase	"This is what happens when you let a dog do a man's job...."	0	0	8:31 AM - 6 Feb 2011
+MB30	29705233298886656	0	livelikeshep	"Hitting the gym is real fun when it isn't you job aint it?"	0	0	5:00 PM - 24 Jan 2011
+MB30	29705115879342080	0	iKillDragons	"i think i applied for that job to early."	0	0	5:00 PM - 24 Jan 2011
+MB30	29704701071069184	0	DaONEandOnlySP	"Is thinking I really  need a 2nd job."	0	0	4:58 PM - 24 Jan 2011
+MB30	32787814047289344	0	Darby4President	"Lol these people at my job are too hilarium-- now she talm bout she can't work all day; gurr u betta suck it up!"	0	0	5:09 AM - 2 Feb 2011
+MB30	30448351623258112	0	Jadey912	"I love when people think they.'re doing a good job on American idol lol #fs"	0	0	6:13 PM - 26 Jan 2011
+MB30	30037397517373440	0	speakingfreedom	"Just decided that I would be off for the rest of the night (frm the kids) lol mom's job never ends!"	0	0	3:00 PM - 25 Jan 2011
+MB30	29664651700600832	0	MsMcGillicuddy	"How come Starbucks can charge $5 for a coffee and make me wait 20 minutes? #starbuckshatesme"	0	0	null
+MB30	29252247644803072	0	ItsJust_Ashley	": Oooo I DID roll two blunts all by myself last night &amp; did good job on one for sure..the other one lol, that's a different story lol"	0	0	11:00 AM - 23 Jan 2011
+MB30	34826557021229056	0	IndyPiggy	"I don't want details! #gutterthoughts RT @diggrbiii What's going on with Gore and Olbermann?"	0	0	8:11 PM - 7 Feb 2011
+MB30	30911627209474049	0	Kountdownnn	"Gonna try to sleep. Lookin for a new job tomorrow and cleaning. I dont wanna feel sick anymore. :/"	0	0	12:54 AM - 28 Jan 2011
+MB30	34014517331492864	0	AdamColeman25	"Wolves end Man United run, Newcastle stun Arsenal (tiscali.co.uk): Share With Friends:  |  | World news - Top Stories News, News Feed..."	0	0	2:24 PM - 5 Feb 2011
+MB30	34715029953581056	0	CAPAction	".@lhfang:  1st Day New Congress, #Koch Operatives Met w/#GOP Chairman Planning 2 Gut Clean Air Act http://cap.af/e5NBHx  #p2 #tcot #climate"	0	3	12:48 PM - 7 Feb 2011
+MB30	33692309820276736	0	TeensTweetEpic	"@RealD3D AYE! PLEASE PICK ME! I NEED A NEW SHIRT FOR #BIEBERD3D :DDD PLEASEEE! IT WOULD BE SO EPIC. ILL LOVE YOU FOREVER 41"	0	0	5:04 PM - 4 Feb 2011
+MB30	33692360969814016	0	TeensTweetEpic	"@RealD3D AYE! PLEASE PICK ME! I NEED A NEW SHIRT FOR #BIEBERD3D :DDD PLEASEEE! IT WOULD BE SO EPIC. ILL LOVE YOU FOREVER 44"	0	0	5:04 PM - 4 Feb 2011
+MB30	35066544434184192	0	followmeifolowu	"Kick back, relax, &amp; get paid for your opinions! MAKE MONEY FROM HOME! visit http://175k.com . #WorkFromHome #cash #followback #work #job #RT"	0	0	12:04 PM - 8 Feb 2011
+MB30	29191595463024640	0	jessicaforeverr	"@rachfaceloserr i'll take your job, lol."	0	0	6:59 AM - 23 Jan 2011
+MB30	34427034809671682	0	Mexiqua	"Lol it happened AGAIN...was looking at new tweets &amp; the steelers get a TD"	0	0	5:43 PM - 6 Feb 2011
+MB30	34992776877711360	0	BeesAndTrees1	"Lots of new work on http://keithvaughn.net/"	0	0	7:11 AM - 8 Feb 2011
+MB30	34367719197511680	0	jhbstache	"@PodiumJen got some new ones headed your way!!!"	0	0	1:47 PM - 6 Feb 2011
+MB30	34502268615131136	0	ElijahDee90	"Listening to music and writing a new song &quot;the right&quot; I need one guitar string.. and then I can add music"	0	0	10:42 PM - 6 Feb 2011
+MB30	33240866634080256	0	BertShowBert	"Behind the scenes at the Bert Show when you follow @thebertshow and new show facebook page at www.facebook.com/thebertshow"	0	0	11:10 AM - 3 Feb 2011
+MB30	35107998930046976	0	lopemn	"Thanx and tell Madonna that move her ass. We need NEW&amp;GOOD MUSIC!! ;-) RT “@hardcandymusic: @guyoseary thanks for the updates Guy!”"	0	0	2:49 PM - 8 Feb 2011
+MB30	34748750211584000	0	Mr_Sands	"It certainly wasn't a good job day for whoever left this mess here. http://yfrog.com/gzv0gkqj"	0	0	3:02 PM - 7 Feb 2011
+MB30	35108228467531776	0	MMOCrunch	"New at MMOCrunch!  Dateline Azeroth: Once Upon a Time…  http://is.gd/4B6sST  #worldofwarcraft"	0	0	2:50 PM - 8 Feb 2011
+MB30	35108178379149312	0	jobsonlinkupTX	"RN- Radiology - Southlake in dallas, TX - http://t.linkup.com/i3ddbw #Jobs"	0	0	2:50 PM - 8 Feb 2011
+MB30	35108136511606787	0	phIz3L	"With a lock? Lol RT @ADRiAN_NiGGz: Installing a new doorknob in my room..."	0	0	2:50 PM - 8 Feb 2011
+MB30	35108004839817216	0	LizzieGrubman	"I used to use the BFF word too frequently.  That Changed recently and I feel like a whole new person."	0	2	2:49 PM - 8 Feb 2011
+MB30	35107781858177024	0	dbaneworleans	"New Orleans Cotton Mouth Kings @ 9PM tonight !"	0	0	2:48 PM - 8 Feb 2011
+MB30	35107761159278592	0	LeAnnLand	"@TAngel84 Or double CD for this year - one cd of her original new songs and one of her unreleased songs! :D"	0	0	2:48 PM - 8 Feb 2011
+MB30	35107692070567937	0	KidPhreshSetter	"@KekePalmer The one you call go super hard and the video is hot good job on this one."	0	0	2:48 PM - 8 Feb 2011
+MB30	35107394103160832	0	BayMermaid21	"@LoveOutOfDark Really? :P NEW SEASON TONIGHT."	0	0	2:47 PM - 8 Feb 2011
+MB30	35107328915152897	0	carlhiett	"the new @cutcopy record is so nice, 'sun god' is keeping me sane right now"	0	0	2:46 PM - 8 Feb 2011
+MB30	35099802089824256	0	bringyerdinner	"Theory: Keys &amp; Gray take Parry's show; Parry takes over from Mubarak; Mubarak gets West Brom job; Di Matteo new Sky Sports presenter"	0	0	2:16 PM - 8 Feb 2011
+MB30	35009472019562496	1	Rob_Coh	"http://usat.ly/dXKsN7 Keith will be back! KO to Current.tv Keith can go back to his extremely important role in progressive ideals #FOK #p2"	0	0	8:18 AM - 8 Feb 2011
+MB30	34968747752034304	0	chicago_blHawks	"Duncan Keith / Strong words from Keith http://fsp.gs/gtpprc #NHL #CHI"	0	0	5:36 AM - 8 Feb 2011
+MB30	31968432576528384	0	MelLovesBrandon	"@F0reverDanielle I'm sure he will. Hes going with me to see Keith and I'm getting Keith tickets for my birthday from my mom"	0	0	10:54 PM - 30 Jan 2011
+MB30	34762734948061184	0	YourProfileNow	"Get out of the Monster job search cycle http://www.YourJobPossibilitiesNow.com"	0	0	3:57 PM - 7 Feb 2011
+MB30	34762462297329664	0	dnzVOIP	"#VOIP #job - Create a VPN service website (£5,000 - 9,000) - http://donanza.com/t/2598137 #jobs"	0	0	3:56 PM - 7 Feb 2011
+MB30	34761212268912641	0	MeaganLeigh17	"filling out job applications&#10;#Stressedout&#10;meagan &lt;3"	0	0	3:51 PM - 7 Feb 2011
+MB30	34758859159506944	0	kaflores	"Looking for a Recruiter in Minneapolis, MN http://bull.hn/l/729444/ #job"	0	0	3:42 PM - 7 Feb 2011
+MB30	34751416731959296	0	sucirr	"Mr. Geithner goes to Sao Paulo - http://newzfor.me/?cmjq"	0	0	3:12 PM - 7 Feb 2011
+MB30	34749490879528960	0	dxqxfgjo	"Fas job centre http://nvowrt.uni.cc/1b60f"	0	0	3:04 PM - 7 Feb 2011
+MB30	34761568587620352	0	iRollUp1	"“@shesDEElicious_: broke niggas make me SICK #throwup! lmao”&lt;~That's how starting QBs lose they job.. The (cont) http://tl.gd/8m4cjc"	0	0	3:52 PM - 7 Feb 2011
+MB30	34754477147815936	0	biaah_ollitta	"eeeh boobo, mas eeh interessante: http://www.talentosertanejobavaria.com.br/ heuaheuaheuaheuah..! ihiiiiiiiiiiim! ;P"	0	0	3:24 PM - 7 Feb 2011
+MB30	34752152593240064	0	sarah_palin_DN	"Sarah Palin’s new wild claim #debsnews http://pod.ly/tvr/1864993"	0	0	3:15 PM - 7 Feb 2011
+MB30	34759057730441216	0	myjobisrael	"job: Real Estate Design Pages 20 Pages by melkimrealty http://bit.ly/fM1oco"	0	0	3:42 PM - 7 Feb 2011
+MB30	34762297293410304	0	CQUINTAO	"“@DaleCarnegie:recent survey suggests one in 5 workers fears losing job http://www.financenews.co.uk/fnews/recent-survey-suggests-one-in-five-workers-fears-losing-job/&nbsp;… @financenewscouk”-What about Brazil? Is it true?"	0	0	3:55 PM - 7 Feb 2011
+MB30	34761562107420672	0	fox4wdaf	"Lake Docks Feeling the Weight of Winter: The prospect of more snow is not good news for many part of Missouri, w... http://bit.ly/f8jPhq"	0	0	3:52 PM - 7 Feb 2011
+MB30	34759072020434945	0	myjobisrael	"job: Residential Painting Company Website Design by PCCPainting http://bit.ly/f6QgXb"	0	0	3:43 PM - 7 Feb 2011
+MB30	34752148273102848	0	algheronews	"Alghero News: Terza Categoria: Maristella sempre in vetta http://www.algheronews.it/?p=26888"	0	0	3:15 PM - 7 Feb 2011
+MB30	34749875140833280	0	NatlMortgagePro	"Jamie Dimon wants some R-E-S-P-E-C-T http://dlvr.it/G1xDp #news #mortgage"	0	0	3:06 PM - 7 Feb 2011
+MB30	34750231199350784	0	dwidwiyah	"How To Increase Your Sales - 10 Methods - http://newzfor.me/?celq"	0	0	3:07 PM - 7 Feb 2011
