@@ -81,10 +81,11 @@ URL object representing the url address. */
 //				string = NaiveURLExpander(string);
 				//System.out.println(string);
 				String domain = NaiveURLExpander(string);
-				if(domain.contains("/"))
-				{
+				try {
 					domain = domain.substring(0,domain.indexOf("/",8));
-				}
+				} catch (Exception e) {
+					// TODO: handle exception
+				}//domain = domain.substring(0,domain.indexOf("/",8));
 				
 			//	System.out.println(domain);
 				result =  result + ps.getPR(domain); 
