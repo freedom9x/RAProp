@@ -23,9 +23,10 @@ public class CommonLib {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 	//	FindUserName("32899374300266497");
+		//BBC World Service to 'cut up to 650 jobs' (Guardian) http://feedzil.la/gvJ6Gm
 		//GetALLUserName("tweet2011/Available/qrels.microblog2011.txt");
 		
-		String domain = "http://bit.ly/eoGJeS";
+		String domain = "http://feedzil.la/gvJ6Gm";
 		int pr = PageRank(domain);
 		System.out.println(domain+" PG=" + pr);
 	}
@@ -81,13 +82,8 @@ URL object representing the url address. */
 //				string = NaiveURLExpander(string);
 				//System.out.println(string);
 				String domain = NaiveURLExpander(string);
-				try {
+				if(domain.substring(8).contains("/"))
 					domain = domain.substring(0,domain.indexOf("/",8));
-				} catch (Exception e) {
-					// TODO: handle exception
-				}//domain = domain.substring(0,domain.indexOf("/",8));
-				
-			//	System.out.println(domain);
 				result =  result + ps.getPR(domain); 
 			}
 		}

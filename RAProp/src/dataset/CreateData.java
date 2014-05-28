@@ -20,7 +20,9 @@ import rank.Tweet;
 public class CreateData {
 	public static void main(String[] args) throws Exception
 	{
-		CreateDataTrain("tweet2011/test/49Query/");
+		CreateDataTrain("tweet2011/test/49QueryforTest/");
+		
+		//FilterTweetUserNull();
 //		String path = "tweet2011/test/49Query/MB01_AG.txt";
 //		int N = ReadFile.CountTweet(path);
 //		Tweet[] tweets = ReadFile.GetNtweet(path, N);
@@ -149,7 +151,7 @@ public class CreateData {
 			}
 		 return null;
 	}
-	private static boolean UserNull(String user) throws IOException
+	private static boolean UserAvai(String user) throws IOException
 	{
 		BufferedReader reader = new BufferedReader(new FileReader("tweet2011/UserFeatures/UserInfo.txt"));
 		String term ;
@@ -158,10 +160,10 @@ public class CreateData {
 			String[] parts = term.split("\t");
 			if(user.equals(parts[0]))
 			{
-				if(term.split("\t")[1].equals("null"))
+				if(!term.split("\t")[1].equals("null"))
 				{
 					reader.close();
-					System.out.println(user+"\tnullllllll");
+					//System.out.println(user+"\tnullllllll");
 					return true;
 				}
 					
@@ -175,6 +177,33 @@ public class CreateData {
 		reader.close();
 		return false;
 	}
+	private static void FilterTweetUserNull() throws Exception
+	{
+		String path_folder = "tweet2011/test/du phong/49Query/";
+		File folder = new File(path_folder);
+		File[] listOfFiles = folder.listFiles();
+		//PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/TrainData/train.txt", true));
+		for (File file : listOfFiles)
+		{
+			String path = path_folder+file.getName();
+			System.out.println(file.getName());
+			BufferedReader reader = new BufferedReader(new FileReader(path));
+			String term ;			
+			while((term=reader.readLine())!=null)
+			{
+				PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/test/49QueryforTest/"+file.getName(), true));
+				if(UserAvai(term.split("\t")[3]))
+					pw.println(term);
+				else
+					System.out.println("null");
+		
+				pw.close();
+			}
+			reader.close();
+			System.out.println(file.getName()+"done-------------");
+		}
+	
+	}
 	private static void CreateDataTrain(String path_folder) throws Exception
 	{
 		File folder = new File(path_folder);
@@ -186,8 +215,6 @@ public class CreateData {
 			System.out.println(file.getName());
 			int N = ReadFile.CountTweet(path);
 			Tweet[] tweets = ReadFile.GetNtweet(path, N);
-			
-			
 			String term ;			
 			for (Tweet tweet : tweets) {
 				PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/DataTest/"+file.getName(), true));
@@ -200,4 +227,5 @@ public class CreateData {
 			System.out.println(file.getName()+"done-------------");
 		}
 	}
+	
 }

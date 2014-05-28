@@ -18,9 +18,9 @@ public class Crawler {
 	public static void main(String[] args) throws NumberFormatException, Throwable {
 			// TODO Auto-generated method stub
 			Crawler crawler = new Crawler();
-			crawler.CrawlContent("tweet2011/49TrecData/MB33_AG.txt", "tweet2011/CrawlTweet/MB33_AG.txt");
-			
-			//Crawler crawler = new Crawler();
+			//crawler.CrawlContent("tweet2011/49TrecData/MB33_AG.txt", "tweet2011/CrawlTweet/MB33_AG.txt");
+			//crawler.CrawlUser("tweet2011/CrawlTweet/MB33_AG.txt","tweet2011/CrawlTweet/UserInfo.txt");
+			////Crawler crawler = new Crawler();
 			
 //			File folder1 = new File("tweet2011/CrawlTweet");
 //			File[] folder2 = folder1.listFiles();
@@ -64,6 +64,21 @@ public class Crawler {
 ////				System.out.print(string+"\t");
 ////			}
 //			System.out.println();
+			BufferedReader reader = new BufferedReader(new FileReader("tweet2011/CrawlTweet/UserInfo.txt"));
+			PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/UserFeatures/UserInfo.txt", true));
+			String term;
+			while((term=reader.readLine())!=null)
+			{
+				if(!crawler.IsOvertide(term.split("\t")[0], "tweet2011/UserFeatures/UserInfo.txt"))
+				{
+					pw.println(term);
+					System.out.println(term);
+				}
+				else
+					System.out.println(term.split("\t")[0]+" is overide");	
+			}
+			reader.close();
+			pw.close();
 			System.out.println("-----------------DONE-----------------");
 		}
 
@@ -411,7 +426,7 @@ public class Crawler {
 		reader.close();
 	}
 
-	private boolean IsOvertide(String string, String path_result) throws IOException {
+	public boolean IsOvertide(String string, String path_result) throws IOException {
 		// TODO Auto-generated method stub
 		BufferedReader reader = new BufferedReader(new FileReader(path_result));
 		String term;
