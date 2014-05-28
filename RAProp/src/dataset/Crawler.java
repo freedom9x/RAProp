@@ -18,19 +18,19 @@ public class Crawler {
 	public static void main(String[] args) throws NumberFormatException, Throwable {
 			// TODO Auto-generated method stub
 			Crawler crawler = new Crawler();
-			//crawler.CrawlContent("tweet2011/49TrecData/MB01_AG.txt", "tweet2011/CrawlTweet/MB01_AG.txt");
+			crawler.CrawlContent("tweet2011/49TrecData/MB33_AG.txt", "tweet2011/CrawlTweet/MB33_AG.txt");
 			
 			//Crawler crawler = new Crawler();
 			
-			File folder1 = new File("tweet2011/CrawlTweet");
-			File[] folder2 = folder1.listFiles();
-			for (File file : folder2) 
-			{
-				System.out.println("-------------------"+file.getName()+"-------------------------------");
-				//crawler.CrawlContent(file.getPath(), "tweet2011/CrawlTweet/"+file.getName());
-				crawler.CrawlUser("tweet2011/CrawlTweet/"+file.getName(), "tweet2011/CrawlTweet/UserInfo.txt");
-				
-			}
+//			File folder1 = new File("tweet2011/CrawlTweet");
+//			File[] folder2 = folder1.listFiles();
+//			for (File file : folder2) 
+//			{
+//				System.out.println("-------------------"+file.getName()+"-------------------------------");
+//				//crawler.CrawlContent(file.getPath(), "tweet2011/CrawlTweet/"+file.getName());
+//				crawler.CrawlUser("tweet2011/CrawlTweet/"+file.getName(), "tweet2011/CrawlTweet/UserInfo.txt");
+//				
+//			}
 //			
 //			String term[] = crawler.getContentFromId(Long.parseLong("29040431006220288"), "averyyyyyyy");
 //			String term2[] = crawler.getContentFromId(Long.parseLong("29040434730762241"), "ChloeAButterfly");

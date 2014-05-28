@@ -262,6 +262,7 @@ public class TFIDF {
    		double l = doc.split(" ").length;
    		double d = total_distance(query, doc);
    		double w = 0.2;
+   		if(TFIDF.Get_same(doc, query).size()==0) return 0.0;
    		result = tfidf(query, doc, tweets, N)* Math.pow(Math.E,(-w*d)/l);
    	//	System.out.println(Math.pow(Math.E,(-w*d)/l));
    		return result;

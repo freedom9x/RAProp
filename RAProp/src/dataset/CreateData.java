@@ -20,52 +20,9 @@ import rank.Tweet;
 public class CreateData {
 	public static void main(String[] args) throws Exception
 	{
-		
-		
-		File folder = new File("tweet2011/CrawlTweet");
-		File[] listOfFiles = folder.listFiles();
-		PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/TrainData/train.txt", true));
-		for (File file : listOfFiles)
-		{
-			System.out.println(file.getName());
-			int N = ReadFile.CountTweet(file.getPath());
-			Tweet[] tweets = ReadFile.GetNtweet(file.getPath(), N);
-			for (Tweet tweet : tweets) {
-				String term = ComputeFeatures(tweet, tweets, N);
-				pw.println(term);
-			}
-			System.out.println(file.getName()+"done-------------");
-		}
-		pw.close();
+		CreateDataTrain("tweet2011/test/49Query/");
 	}
 
-//	public static void main(String path) throws Exception {//lay tweet, loc retweet
-//		// TODO Auto-generated method stub
-//		File folder = new File(path);
-//		File[] listOfFiles = folder.listFiles();
-//		for (File file : listOfFiles)
-//		{
-//			String name = file.getName().split("\\.")[0];
-//			PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/test/"+name+".txt"));
-//			int N = ReadFile.CountTweet(file.getPath());
-//			Tweet[] tweets = ReadFile.GetNtweet(file.getPath(), N);
-//			for (Tweet t : tweets) 
-//			{				
-//				if (t != null) {
-//					if (t.content.contains("http://")) // chua short url
-//					{
-//						//t.content = CommonLib.expandURL(t.content);
-//					}
-//					
-//					pw.println(t.queryID + " " + t.ID + " " + t.label + " "
-//								+ t.user_name + " \"" + t.content + "\"");
-//					System.out.println(t.ID+ "\t" + t.content);
-//				}
-//			}
-//			pw.close();
-//		}
-//	
-//	}
 	public static void CreateQueryTable(String path) throws IOException
 	{
 		BufferedReader reader = new BufferedReader(new FileReader(path));
@@ -114,7 +71,8 @@ public class CreateData {
 		int follower = Integer.parseInt(parts_user[3]);
 		int following = Integer.parseInt(parts_user[4]);
 		int pageRank = CommonLib.PageRank(tweet.content);
-		//cumpute date
+		//int Hastag = HashTagCount(tweet.content);
+				//cumpute date
 		String term[] = user_features.split("\t", 6);
 		Date now = new SimpleDateFormat("EEE MMM dd HH:mm:ss Z yyyy", Locale.ENGLISH).parse( "Tue Feb 08 00:00:00 +0000 2011");
 		Date date = new SimpleDateFormat("EEE MMM dd HH:mm:ss Z yyyy", Locale.ENGLISH).parse(term[5]);
@@ -125,7 +83,7 @@ public class CreateData {
 		//9:[Creation Time] 10:[pageRank]
 		result =tweet.label+" "+ tweet.queryID+" 1:"+simi+" 2:"+retweet_c+" 3:"+favor_c+" 4:"+hash_c
 				+" 5:"+veri+" 6:"+status_c+" 7:"+follower+" 8:"+following+" 9:"+sub_date+" 10:"+pageRank+" #"+tweet.ID;
-		System.out.println(result);
+		//System.out.println(result);
 		return result;
 	}
 	private static String FindQuery(String queryID) throws Exception {
@@ -176,5 +134,55 @@ public class CreateData {
 				if(UserName.equals(term.split("\t")[0])) return term;
 			}
 		 return null;
+	}
+	private static boolean UserNull(String user) throws IOException
+	{
+		BufferedReader reader = new BufferedReader(new FileReader("tweet2011/UserFeatures/UserInfo.txt"));
+		String term ;
+		while((term=reader.readLine())!=null)
+		{
+			String[] parts = term.split("\t");
+			if(user.equals(parts[0]))
+			{
+				if(term.split("\t")[1].equals("null"))
+				{
+					reader.close();
+					System.out.println(user+"\tnullllllll");
+					return true;
+				}
+					
+				else
+				{
+					reader.close();
+					return false;
+				}
+			}
+		}
+		reader.close();
+		return false;
+	}
+	private static void CreateDataTrain(String path_folder) throws Exception
+	{
+		File folder = new File(path_folder);
+		File[] listOfFiles = folder.listFiles();
+		//PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/TrainData/train.txt", true));
+		for (File file : listOfFiles)
+		{
+			String path = path_folder+file.getName();
+			System.out.println(file.getName());
+			int N = ReadFile.CountTweet(path);
+			Tweet[] tweets = ReadFile.GetNtweet(path, N);
+			
+			PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/DataTest/"+file.getName(), true));
+			String term ;			
+			for (Tweet tweet : tweets) {
+				term = ComputeFeatures(tweet, tweets, N);
+				System.out.println(term);
+				pw.println(term);
+				
+			}
+			pw.close();
+			System.out.println(file.getName()+"done-------------");
+		}
 	}
 }
