@@ -24,9 +24,9 @@ public class CommonLib {
 		// TODO Auto-generated method stub
 	//	FindUserName("32899374300266497");
 		//GetALLUserName("tweet2011/Available/qrels.microblog2011.txt");
-		PageRankService ps = new PageRankService();
-		String domain = "http://www.bbc.co.uk";
-		int pr = ps.getPR(domain);
+		
+		String domain = "http://bit.ly/eoGJeS";
+		int pr = PageRank(domain);
 		System.out.println(domain+" PG=" + pr);
 	}
 	public static String NaiveURLExpander(String address){
@@ -81,11 +81,16 @@ URL object representing the url address. */
 //				string = NaiveURLExpander(string);
 				//System.out.println(string);
 				String domain = NaiveURLExpander(string);
-				domain = domain.substring(0,domain.indexOf("/",8));
+				if(domain.contains("/"))
+				{
+					domain = domain.substring(0,domain.indexOf("/",8));
+				}
+				
 			//	System.out.println(domain);
 				result =  result + ps.getPR(domain); 
 			}
 		}
+		
 		return result;
 	}
 	public static void GetALLUserName(String path_file) throws IOException

@@ -21,6 +21,20 @@ public class CreateData {
 	public static void main(String[] args) throws Exception
 	{
 		CreateDataTrain("tweet2011/test/49Query/");
+//		String path = "tweet2011/test/49Query/MB01_AG.txt";
+//		int N = ReadFile.CountTweet(path);
+//		Tweet[] tweets = ReadFile.GetNtweet(path, N);
+//		String term = ComputeFeatures(tweets[0], tweets, N);
+//		
+//		term = ComputeFeatures(tweets[1], tweets, N);
+//		System.out.println(term);
+//		
+//		term = ComputeFeatures(tweets[72], tweets, N);
+//		System.out.println(term);
+//		
+//		term= ComputeFeatures(tweets[73], tweets, N);
+//		System.out.println(term);
+		
 	}
 
 	public static void CreateQueryTable(String path) throws IOException
@@ -173,15 +187,16 @@ public class CreateData {
 			int N = ReadFile.CountTweet(path);
 			Tweet[] tweets = ReadFile.GetNtweet(path, N);
 			
-			PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/DataTest/"+file.getName(), true));
+			
 			String term ;			
 			for (Tweet tweet : tweets) {
+				PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/DataTest/"+file.getName(), true));
 				term = ComputeFeatures(tweet, tweets, N);
 				System.out.println(term);
 				pw.println(term);
-				
+				pw.close();
 			}
-			pw.close();
+			
 			System.out.println(file.getName()+"done-------------");
 		}
 	}

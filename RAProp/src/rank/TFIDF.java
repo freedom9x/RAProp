@@ -211,6 +211,15 @@ public class TFIDF {
    	}
    	public static int total_distance(String query, String tweet)
    	{
+   		query = query.toLowerCase();
+   		tweet = tweet.toLowerCase();
+   		
+   		
+   		tweet = Tweet.Remove1(tweet);
+   		tweet = Tweet.rmv_stopword(tweet);
+   		
+   		query = Tweet.Remove1(query);
+   		query = Tweet.rmv_stopword(query);
    		int dis = 0;
    		String[] parts = tweet.split(" ");
    		String first_splip = "";
@@ -245,13 +254,14 @@ public class TFIDF {
    					
    			}
    		}
+   		System.out.println(dis);
    		return dis;
    	}
-   	public static boolean check_q_t(String query, String tweet)
+   	public static boolean check_q_t(String query, String tweet)//trong cau tweet toan tai 2 tu query
    	{
    		int dem = 0;
-   		for (String  term : query.split(" ")) {
-			if(tweet.contains(term)) dem++;
+   		for (String  term : tweet.split(" ")) {
+			if(Term_in_text(term, query)) dem++;
 			if(dem==2) return true;
 		}
    		return false;
