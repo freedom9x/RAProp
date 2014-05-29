@@ -53,7 +53,6 @@ MB03	33455343526739968	0	jilevin_feeds	"jl Stores close early as Haiti awaits vo
 MB03	32992221561098240	0	247NewsZone	"Stores close early as Haiti awaits vote results http://yhoo.it/fPbY9Z #haiti #elections"	0	0	6:42 PM - 2 Feb 2011
 MB03	32281431338127361	1	johnpoyner	"Haiti: Aristide can have passport, hasn't applied - Yahoo! News http://yhoo.it/hgvvxp"	0	0	7:37 PM - 31 Jan 2011
 MB03	32255086369439744	1	SeattleNewsHeds	"Seattle (WA) Times: Haiti: Aristide can have passport, hasn't applied"	0	0	5:53 PM - 31 Jan 2011
-MB03	34755652094001152	0	olvens	"Of"	0	0	null
 MB03	34778907999735808	0	Info819	"[ International ] Haïti - Aristide obtient son passeport: Tandis que le président haïtien, René Préval, prolonge son mandat, l'un de ..."	0	0	5:01 PM - 7 Feb 2011
 MB03	33705322115768320	0	THFNewYork	"HelpAge International defends its work in Haiti: 2 news story &quot;International charities fall short in Haiti&quot; stat... http://bit.ly/hQ6ud1"	0	0	5:55 PM - 4 Feb 2011
 MB03	29204833726631936	0	iameqready	"iameqready.com Understanding Haiti's politics, past and present: The patience of the international community wit... http://bit.ly/gmcq4P"	0	0	7:52 AM - 23 Jan 2011
@@ -284,7 +283,6 @@ MB03	34370007391674368	0	noagendastream	"now playing on http://noagendachat.net 
 MB03	34410414846517248	0	pierrecote	"ARISTIDE SERAIT DE RETOUR EN HAITI"	0	2	4:37 PM - 6 Feb 2011
 MB03	34733814391504896	0	avozdomango	"O Rua maldita, Aristides Espinola, do Governador, mulher é assaltada e vtr ñ pega, agora cidadão bate na vtr, q macumba braba! !"	0	0	2:02 PM - 7 Feb 2011
 MB03	29341888171479040	0	altager	"Haiti, ante una estratagema singular..."	0	0	4:57 PM - 23 Jan 2011
-MB03	29332612388487168	0	boyo_	"@l0velyYS 맞앙... 특히줄서는�?� 남�?들겨드랑... 아..."	0	0	null
 MB03	29350178733432833	0	4hirebloggers	"Donate $10 for the Haiti Relief Effort through the Red Cross: Text 'HAITI' to 90999 to http://bit.ly/7Io3PF"	0	0	5:30 PM - 23 Jan 2011
 MB03	32626773011202048	0	BestAdTweet	"Donate $10 for the Haiti Relief Effort through the Red Cross: Text 'HAITI' to 90999 to http://bit.ly/7Io3PF"	0	0	6:30 PM - 1 Feb 2011
 MB03	32881042532605953	0	dominique_e_	"#Haiti's Growing Momentum Towards Democracy - The  push-back against electoral fix gives hope http://bit.ly/hsENWz #elections"	0	4	11:20 AM - 2 Feb 2011

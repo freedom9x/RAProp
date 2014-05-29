@@ -77,7 +77,12 @@ public class Tweet {
 		this.favorite_count = favourite;
 		this.retweet_count = retweet;
 		//9:14 AM - 31 Jan 2011
-		this.date_create = new SimpleDateFormat("h:mm a - dd MMM yyyy", Locale.ENGLISH).parse(date);
+//		System.out.println(id);
+//		if(id==Long.parseLong("31369371188203523"))
+//			System.out.println("cho do");
+			
+		this.date_create = new SimpleDateFormat("h:mm a - d MMM yyyy", Locale.ENGLISH).parse(date);
+		
 	//	this.ID = id;
 	}
 

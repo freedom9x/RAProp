@@ -21,6 +21,29 @@ public class CreateData {
 	public static void main(String[] args) throws Exception
 	{
 		CreateDataTrain("tweet2011/test/49QueryforTest/");
+//		String path_folder = "tweet2011/test/du phong/49QueryforTest/";
+//		File folder = new File(path_folder);
+//		File[] listOfFiles = folder.listFiles();
+//		for (File file : listOfFiles)
+//		{
+//			String path = path_folder+file.getName();
+//			System.out.println(file.getName());
+//			BufferedReader reader = new BufferedReader(new FileReader(path));
+//			String term ;			
+//			while((term=reader.readLine())!=null) {
+//				PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/test/49QueryforTest/"+file.getName(), true));
+//				if(!term.split("\t")[7].equals("null"))
+//				{
+//					System.out.println(term);
+//					pw.println(term);
+//					pw.close();
+//				}
+//				else
+//					System.out.println("null");
+//			}
+//			
+//			System.out.println(file.getName()+"done-------------");
+//		}
 		
 		//FilterTweetUserNull();
 //		String path = "tweet2011/test/49Query/MB01_AG.txt";
@@ -86,7 +109,8 @@ public class CreateData {
 		int status_c = Integer.parseInt(parts_user[2]);
 		int follower = Integer.parseInt(parts_user[3]);
 		int following = Integer.parseInt(parts_user[4]);
-		int pageRank = CommonLib.PageRank(tweet.content);
+		int pageRank = -1;
+		//int pageRank = CommonLib.PageRank(tweet.content);
 		//int Hastag = HashTagCount(tweet.content);
 				//cumpute date
 		String term[] = user_features.split("\t", 6);
@@ -97,6 +121,9 @@ public class CreateData {
 		//[taget] qid:[query_id] 1:[TFIDFSimilarity] 2:[#retweet] 3:[#favorites] 
 		//4:[#hash_tag] 5:[Profile Verified] 6:[#status] 7:[#follower] 8:[#friend-follwing]
 		//9:[Creation Time] 10:[pageRank]
+//		result =tweet.label+" "+ tweet.queryID+" 1:"+simi+" 2:"+retweet_c+" 3:"+favor_c+" 4:"+hash_c
+//				+" 5:"+veri+" 6:"+status_c+" 7:"+follower+" 8:"+following+" 9:"+sub_date+" 10:"+pageRank+" #"+tweet.ID;
+		pageRank = CommonLib.PageRank(tweet.content);
 		result =tweet.label+" "+ tweet.queryID+" 1:"+simi+" 2:"+retweet_c+" 3:"+favor_c+" 4:"+hash_c
 				+" 5:"+veri+" 6:"+status_c+" 7:"+follower+" 8:"+following+" 9:"+sub_date+" 10:"+pageRank+" #"+tweet.ID;
 		//System.out.println(result);

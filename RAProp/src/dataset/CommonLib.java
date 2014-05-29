@@ -39,10 +39,9 @@ public class CommonLib {
         	urlConn.getHeaderFields();
         	result = urlConn.getURL().toString();
         }
-        
-     //   System.out.println("Original URL: "+ urlConn.getURL());
 		return result;
     }
+	
 
 	
 
@@ -81,7 +80,13 @@ URL object representing the url address. */
 //				System.out.println(string);
 //				string = NaiveURLExpander(string);
 				//System.out.println(string);
-				String domain = NaiveURLExpander(string);
+				String domain = "";
+				try {
+					domain = NaiveURLExpander(string);
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					return -1;
+				}
 				if(domain.substring(8).contains("/"))
 					domain = domain.substring(0,domain.indexOf("/",8));
 				result =  result + ps.getPR(domain); 

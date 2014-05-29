@@ -1,3 +1,214 @@
+MB05	33579862476197888	1	LochaberLocal	"Security News - NIST Issues Cloud Security Guidelines: The government standards body has launched a wiki to get ... http://bit.ly/e4miOd"	0	0	9:37 AM - 4 Feb 2011
+MB05	33581589627666432	1	LogicalMobility	"NIST Issues Cloud Security Guidelines: The government standards body has launched a wiki to get feedback on its ... http://bit.ly/icedHU"	0	0	9:44 AM - 4 Feb 2011
+MB05	32829778495012864	0	TheCloudNetwork	"#Cloud #Security Cloud shopping: Signing on the dotted line: The Cloud Security Alliance also has a number ... http://bit.ly/fOjcIO #TCN"	0	1	7:56 AM - 2 Feb 2011
+MB05	30665732404547584	0	TheCloudNetwork	"#Cloud #Security Cenzic Continues to Shatter Records With a Strong 2010: 24 Quarters of Revenue ...: Accord... http://bit.ly/hyZZLF #TCN"	0	1	8:37 AM - 27 Jan 2011
+MB05	29007269593092096	0	yas_matsu	"å…ˆé€±ã?® 6th  ETSI S.W. http://bit.ly/hZZBEq æ—¥æœ¬ã?¯ä½™ã‚Šç†±å¿ƒã?¨ã?¯è¨€ã?ˆã?ªã?„ç›¸äº’é?‹ç”¨ãƒ†ã‚¹ãƒˆ http://bit.ly/fDJXOw SLIDE11ã?‹ã‚‰ @kjur ã?•ã‚“ã?Œå¤šå¤§ã?ªè²¢çŒ®ã‚’ã?ªã?•ã‚Œã?ŸXAdES/CAdES Remoteãƒ†ã‚¹ãƒˆã?®è©±ï¼ˆç¶šã??ï¼‰"	0	0	6:47 PM - 22 Jan 2011
+MB05	29715975343443968	0	RickJeffriesC4C	"New!: The FULL Story on WSHH / @50Cent Feud: Full Technical Details Here http://bit.ly/fxQ0ha"	0	0	5:43 PM - 24 Jan 2011
+MB05	33215276099043328	1	EDL_Host	"NIST report aims to help U.S. agencies deploy cloud apps: Computerworld - Organizations that are deploying publi... http://bit.ly/fxOyy3"	0	0	9:28 AM - 3 Feb 2011
+MB05	33232351123218432	1	CoolTechGuy	"NIST report aims to help U.S. agencies deploy cloud apps - The ease with which cloud computing services can be deplo... http://ow.ly/1bag0B"	0	0	10:36 AM - 3 Feb 2011
+MB05	33224790349193216	1	hfcci	"NIST report aims to help US agencies deploy cloud apps - Computerworld http://bit.ly/hV5p1q"	0	0	10:06 AM - 3 Feb 2011
+MB05	29536832572104704	0	MIC_MAC	"#Funny words in the #computer world http://didyouknow.org/funny-words-in-the-computer-world/&nbsp;â€¦ #serioustweet"	0	0	5:51 AM - 24 Jan 2011
+MB05	32855938557812736	0	ict_news	"Computerworld: Cloud services could bolster national cyber security http://bit.ly/fmKpbm"	0	0	9:40 AM - 2 Feb 2011
+MB05	33514407812141057	0	secuobsrevueus	"Cisco announces three new security certifications #cisco #security http://bit.ly/fKHRa9"	0	0	5:17 AM - 4 Feb 2011
+MB05	32963572208246784	0	secuobsrevueus	"Feds Tackle Sports-Streaming Pirate Sites #pirate #Security http://bit.ly/ffJkil"	0	0	4:48 PM - 2 Feb 2011
+MB05	32677746245107713	0	secuobsrevueus	"Extracting Event Logs or Other Memory Mapped Files from Memory Dumps #memory #Security http://bit.ly/hG773o"	0	0	9:52 PM - 1 Feb 2011
+MB05	29116018181799936	0	secuobsrevueus	"Trojan bypasses cloud-based anti-virus #virus #trojan #cloud-based #Security http://bit.ly/hvX6kP"	0	0	1:59 AM - 23 Jan 2011
+MB05	33510233926012928	0	TradeIncomes	"Harper, Obama to discuss trade, security http://bit.ly/hBfNb9"	0	0	5:00 AM - 4 Feb 2011
+MB05	33498683123175424	0	moukthikad	"Harper, Obama to discuss trade, security: Prime Minister Stephen Harper and U.S. President Barack Obama are expe... http://bit.ly/gvc1Or"	0	0	4:14 AM - 4 Feb 2011
+MB05	33466739761094656	0	WebDyrUK	"BitDefender Internet Security 2010: BitDefender Internet Security 2010 provides excellent security and will not ... http://bit.ly/hil0uE"	0	0	2:07 AM - 4 Feb 2011
+MB05	32066189849006081	0	UKsuperstore	"Internet security avast! Internet Security 6.0.934 Beta incl crack - Ddown.org: The Avast! Internet Security app... http://bit.ly/eYtwtX"	0	0	5:22 AM - 31 Jan 2011
+MB05	32159815002226688	0	UKsuperstore	"Internet security Trend Micro Unveils IBM Security Suite: By Alison Diana , InformationWeek Internet security so... http://bit.ly/hrbyK1"	0	0	11:34 AM - 31 Jan 2011
+MB05	32141661396008961	0	opexxx	"Trend Micro Unveils IBM Security Suite: ScanMail Suite for 64-bit Lotus Domino platforms uses a cloud-based data... http://bit.ly/hsBj3E"	0	0	10:22 AM - 31 Jan 2011
+MB05	30615645007646720	0	Erudite_Enigma	"Social Security is broke: The program will begin paying out more than it takes in this year, not 2016 as origina... http://bit.ly/dWSie8"	0	0	5:18 AM - 27 Jan 2011
+MB05	30524958958419969	0	cbsatl	"Social Security Fund Now Seen To Be Empty By 2037: Sick and getting sicker, Social Security will run at a defici... http://bit.ly/fbLxo5"	0	0	11:18 PM - 26 Jan 2011
+MB05	30551210960363521	0	wsfa12news	"Social Security fund will be drained by 2037: The Social Security fund is on track to run out of money by 2037. http://bit.ly/dOdrs3"	0	0	1:02 AM - 27 Jan 2011
+MB05	31834118148857856	0	jllevy123	"Copied: Anti-government, anti-Medicare, anti-Social Security Ayn Randâ€¦accepted Medicare &amp; Social Security. Hypocrite?"	0	0	2:00 PM - 30 Jan 2011
+MB05	29531202746585089	0	Eclectablog	"The very real attack on Pres. #Obama 's mythical attack on Social Security. http://fb.me/tl4omBQl #OFA #Dems #p2"	0	0	5:29 AM - 24 Jan 2011
+MB05	30132647497830400	0	SamuelJVance	"Lawrence Odonell asked why the Pres said he wouldn't &quot;SLASH&quot; Social Security . Why not say he wouldn't TOUCH it at all ? Hmm INTERESTING #P2"	0	0	9:19 PM - 25 Jan 2011
+MB05	33551930198327296	0	Brut23	"I'm at Social Security Administration (6401 Security Boulevard, Baltimore) w/ 3 others http://4sq.com/fdcWjN"	0	0	7:46 AM - 4 Feb 2011
+MB05	29588564291358720	0	EON_Energy	"Project Management Institute Honors National Nuclear Security Administration http://dlvr.it/F070Y"	0	0	9:17 AM - 24 Jan 2011
+MB05	29586112179605506	0	BW_Business	"Project Management Institute Honors National Nuclear Security Administration http://dlvr.it/F054H"	0	0	9:07 AM - 24 Jan 2011
+MB05	29586575033630720	0	SciAnswers	"Project Management Institute Honors National Nuclear Security Administration: WASHINGTON--(BUSINES... http://bit.ly/fDtZti #energy #news"	0	0	9:09 AM - 24 Jan 2011
+MB05	33251413001764864	0	audio_college	"TSA unveils 'generic' body scans: By Ben Mutzabaugh, USA TODAY The Transportation Security Administration began ... http://bit.ly/fIJ4vP"	0	0	11:52 AM - 3 Feb 2011
+MB05	33188358729506816	0	cheapwithus	"Ditch TSA? Airports no longer allowed to 'opt out': By Harriet Baskas Travel writer The Transportation Security ... http://bit.ly/fGhs4e"	0	0	7:41 AM - 3 Feb 2011
+MB05	29646479341649953	0	JustTechJobs	"Jobs Information Security Engineer  - Will relocate: Information Security Engineer  - Will relocate&#10;&#10;Will reloca... http://bit.ly/ednh2a"	0	0	1:07 PM - 24 Jan 2011
+MB05	33360590541955072	0	ModernManila	"Information Security Awareness Program http://bit.ly/eYucwn"	0	0	7:05 PM - 3 Feb 2011
+MB05	33558893908987904	0	chuacw	"Do you know which Singapore laws cover specific sections of Information Security? If not, check out http://bit.ly/guy8kr"	0	0	8:13 AM - 4 Feb 2011
+MB05	29644789049724928	0	drivesavers	"NIST Addresses a Security Threat that Challenges Most Information Security Programs http://budurl.com/DSnist #B2B"	0	1	1:00 PM - 24 Jan 2011
+MB05	32232426696613888	0	GetInvestigJobs	"Senior Information Security Manager; Governance,... - Richfield, MN (http://tinyurl.com/63t8qq6) Get Investigator Jobs #Investigator #jobs"	0	0	4:23 PM - 31 Jan 2011
+MB05	32262527379308545	0	GetInvestigJobs	"Network and Information Security Manager - West Greenwich, RI (http://tinyurl.com/5ubcchh) Get Investigator Jobs #Investigator #jobs"	0	0	6:22 PM - 31 Jan 2011
+MB05	33190133188526080	0	GetInvestigJobs	"Sr Information Security Analyst - Hermitage, TN (http://tinyurl.com/4q5tbk9) Get Investigator Jobs #Investigator #jobs"	0	0	7:48 AM - 3 Feb 2011
+MB05	32000899442286592	0	GetInvestigJobs	"Information Assurance Security Analyst - Washington, DC (http://tinyurl.com/69bbtkq) Get Investigator Jobs #Investigator #jobs"	0	0	1:03 AM - 31 Jan 2011
+MB05	30168610727006208	0	GetCasSecurJobs	"Computer Forensics Investigator - Cherry Hill, NJ (http://tinyurl.com/5ww7j2f) Get Casino Security Jobs #CasinoSecurity #jobs"	0	0	11:42 PM - 25 Jan 2011
+MB05	33354067539398656	0	GetCasSecurJobs	"Security Officer - Reston, VA (http://tinyurl.com/4nronpa) Get Casino Security Jobs #CasinoSecurity #jobs"	0	0	6:40 PM - 3 Feb 2011
+MB05	33297230953713665	0	GetCasSecurJobs	"Chief Security Officer - Seattle, WA (http://tinyurl.com/4ng58tj) Get Casino Security Jobs #CasinoSecurity #jobs"	0	0	2:54 PM - 3 Feb 2011
+MB05	33341551153258496	0	StopzillaScan	"Panda Security boosts corporate Mac protection: Recommended Spyware Remover: â€¦ with on-demand scans, and h... http://tinyurl.com/4nnsrla"	0	0	5:50 PM - 3 Feb 2011
+MB05	29019676654698496	0	mentosh326	"Wired Digita Micro Hidden Security Color CCTV Camera: US $0.99 (0 Bid) End Date: Sunday Jan-23-2011 8:44:54 PSTB... http://bit.ly/fhjTaB"	0	0	7:36 PM - 22 Jan 2011
+MB05	30555937559285760	0	sharilewis824	"6LED Wired CCTV Digital Video Hidden Security Camera: US $0.99 (0 Bid) End Date: Thursday Jan-27-2011 6:09:49 PS... http://bit.ly/gsmWug"	0	0	1:21 AM - 27 Jan 2011
+MB05	30807225505153026	0	mentosh326	"Video Power Cable 100' Security Camera CCTV RCA BNC 3JE: US $9.99 (0 Bid) End Date: Thursday Jan-27-2011 22:10:1... http://bit.ly/ergknO"	0	0	5:59 PM - 27 Jan 2011
+MB05	30776767396446208	0	bargaindeal	"Security Labs SLC 137C Waterproof Security Camera SLC 137C: Security Labs SLC 137C Waterproof Security Camera Co... http://bit.ly/dEXdJj"	0	0	3:58 PM - 27 Jan 2011
+MB05	33277122961215489	0	emmapeel1960	"Camere supraveghere - Security Cameras &amp; Surveillance Systems ...: Camere supraveghere - Security Cameras &amp; Surv... http://bit.ly/e0DFFP"	0	0	1:34 PM - 3 Feb 2011
+MB05	33062226596204544	0	jaxassss	"Dropcam app comes to Android, lets you monitor your security cameras from afar http://bit.ly/gJUpVw"	0	0	11:20 PM - 2 Feb 2011
+MB05	31847836672860161	0	mentosh326	"New Good Wired 6led CCTV Colour Audio Security Camera: US $0.01 (0 Bid) End Date: Sunday Jan-30-2011 20:04:48 PS... http://bit.ly/hqs10G"	0	0	2:54 PM - 30 Jan 2011
+MB05	31527121994125312	0	mentosh326	"2 X Security 540TVline CCTV Sony CCD Dome Cameras Cam: US $168.85 (0 Bid) End Date: Sunday Jan-30-2011 0:11:38 P... http://bit.ly/gtm5W6"	0	0	5:40 PM - 29 Jan 2011
+MB05	29784718668996608	0	businessinfoguy	"60007 Led Computer Repair Geek Sign Open  24&quot; x 12&quot;: US $37.99 (0 Bid) End Date: Tuesday Jan-25-2011 18:30:20 PS... http://bit.ly/grlpzu"	0	0	10:16 PM - 24 Jan 2011
+MB05	32235515382075393	0	droppedprices	"30003 Led Open Computer Repair Mouse Parts Sign 12&quot;x 6&quot;: US $8.99 (0 Bid) End Date: Tuesday Feb-01-2011 14:30:24... http://bit.ly/fm37G7"	0	0	4:35 PM - 31 Jan 2011
+MB05	29447041402802176	0	mentosh326	"Night Outdoor DVR Color Video Security CCTV Camera C34: US $24.99 (0 Bid) End Date: Monday Jan-24-2011 12:36:15 ... http://bit.ly/hMQi8g"	0	0	11:54 PM - 23 Jan 2011
+MB05	29615027174514688	0	twitertainu	"1 FAST DELL P4 2.8 GHZ DESKTOP COMPUTER DVD WIN XP PRO!: US $119.97 (0 Bid) End Date: Monday Jan-24-2011 1... http://bit.ly/e5aQ6O #eBay"	0	0	11:02 AM - 24 Jan 2011
+MB05	29615362102263808	0	mentosh326	"33 FT POWER VIDEO CCTV BNC SECURITY CAMERA CABLE b44: US $5.95 (0 Bid) End Date: Monday Jan-24-2011 17:24:24 PST... http://bit.ly/f8IyZW"	0	0	11:03 AM - 24 Jan 2011
+MB05	33144696184242177	0	businessinfoguy	"HOT Desktop Computers website for sale: US $0.99 (0 Bid) End Date: Friday Feb-04-2011 3:54:24 PSTBid now | Add t... http://bit.ly/hTfL2B"	0	0	4:48 AM - 3 Feb 2011
+MB05	33543655797035008	0	Kijiji_Sale	"Desk top computer, samsung 19&quot; flat monitor, keyboard, mouse. ( Calgary ) $500.00 http://tinyurl.com/4plgj4f â–ºCalgary, AB"	0	0	7:13 AM - 4 Feb 2011
+MB05	32612693848358912	0	PhilHall	"The Importance Of Data Security In The Cloud - http://tinyurl.com/4jnra9c #cloud"	0	0	5:34 PM - 1 Feb 2011
+MB05	29209157366190080	0	bobrcarvalho	"Single photon management for quantum computers advanced by NIST...http://tinyurl.com/4gshe2v"	0	0	8:09 AM - 23 Jan 2011
+MB05	33553780414881792	0	DipakChatterjee	"Salesforce.com, the enterprise cloud computing company, is demonstrating the continued expansion of its st... http://tinyurl.com/4bour44"	0	0	7:53 AM - 4 Feb 2011
+MB05	32952065256849408	0	NetSparsh	"CheckOut @NetSparsh: Notable Makes Website Annotation Fast and Easy - Notable Makes Website Annotation Fast... http://tinyurl.com/2cmuv6s"	0	0	4:02 PM - 2 Feb 2011
+MB05	31921912930115584	0	NetSparsh	"CheckOut @NetSparsh: Could Apple Actually Beat Google in Mobile Advertising? - Could Apple Actually Beat... http://tinyurl.com/2cqba5y"	0	0	7:49 PM - 30 Jan 2011
+MB05	33250258741886976	0	NetSparsh	"CheckOut @NetSparsh: HOW TO: Give Your iPhone a Spring Clean - HOW TO: Give Your iPhone a Spring Clean Megan... http://tinyurl.com/28pybos"	0	0	11:47 AM - 3 Feb 2011
+MB05	31077666807353344	0	NetSparsh	"CheckOut @NetSparsh: HOW TO: Give Your iPhone a Spring Clean - HOW TO: Give Your iPhone a Spring Clean Megan... http://tinyurl.com/28pybos"	0	0	11:54 AM - 28 Jan 2011
+MB05	31743563217768448	0	NetSparsh	"CheckOut @NetSparsh: The Best Performing Banner Sizes for AdSense - The Best Performing Banner Sizes for... http://tinyurl.com/286xezj"	0	1	8:00 AM - 30 Jan 2011
+MB05	31863611034968064	0	NetSparsh	"CheckOut @NetSparsh: The Formula for Effective Facebook Ads REPORT - The Formula for Effective Facebook Ads... http://tinyurl.com/28uocqt"	0	0	3:57 PM - 30 Jan 2011
+MB05	31948589307527168	0	NetSparsh	"CheckOut @NetSparsh: The Future Of Apple - The Future Of Apple  http://tinyurl.com/2chapr6"	0	0	9:35 PM - 30 Jan 2011
+MB05	33187813436424192	0	NetSparsh	"CheckOut @NetSparsh: Google TV is Coming to a Living Room Near You - Google TV is Coming to a Living Room... http://tinyurl.com/2987oc5"	0	0	7:39 AM - 3 Feb 2011
+MB05	33196452696039424	0	NetSparsh	"CheckOut @NetSparsh: Google TV is Coming to a Living Room Near You - Google TV is Coming to a Living Room... http://tinyurl.com/2987oc5"	0	0	8:13 AM - 3 Feb 2011
+MB05	32400730971185152	0	NetSparsh	"CheckOut @NetSparsh: Google exec : 60% of businesses could dump Windows for Chrome OS - Google exec : 60% of... http://tinyurl.com/2d8985e"	0	0	3:31 AM - 1 Feb 2011
+MB05	33430153098960896	0	NetSparsh	"CheckOut @NetSparsh: What Type of People Want iPads? [STATS] - What Type of People Want iPads? [STATS] If... http://tinyurl.com/29gjqbg"	0	0	11:42 PM - 3 Feb 2011
+MB05	31709203269685248	0	NetSparsh	"CheckOut @NetSparsh: Which is Better: Buying Apple Products, or Buying Apple Stock? - Which is Better: Buying... http://tinyurl.com/2ubf2at"	0	0	5:43 AM - 30 Jan 2011
+MB05	33198737606057984	0	NetSparsh	"CheckOut @NetSparsh: 700,000 iPads Sold [REPORT] - 700,000 iPads Sold [REPORT] The latest estimates for iPad... http://tinyurl.com/22q85ae"	0	0	8:22 AM - 3 Feb 2011
+MB05	31733382828261376	0	NetSparsh	"CheckOut @NetSparsh: Alicia Keys Uses Monster.com to Find New Blogger - Alicia Keys Uses Monster.com to Find... http://tinyurl.com/2wy3qcn"	0	0	7:20 AM - 30 Jan 2011
+MB05	31387170723856386	0	NetSparsh	"CheckOut @NetSparsh: Analytic.ly Provides Real-Time and Historical Twitter Analysis - Analytic.ly Provides... http://tinyurl.com/2v8hm3g"	0	0	8:24 AM - 29 Jan 2011
+MB05	32144603968700417	0	NetSparsh	"CheckOut @NetSparsh: University to Provide iPads for All New Students - University to Provide iPads for All... http://tinyurl.com/2effcct"	0	0	10:34 AM - 31 Jan 2011
+MB05	33155597595578368	0	NetSparsh	"CheckOut @NetSparsh: UN Social Media Envoy to Raise Awareness for Malaria - UN Social Media Envoy to Raise... http://tinyurl.com/3ymbq5v"	0	0	5:31 AM - 3 Feb 2011
+MB05	31213048031092736	0	NetSparsh	"CheckOut @NetSparsh: Itâ€™s Official: Cats Love iPads [VIDEO] - Itâ€™s Official: Cats Love iPads [VIDEO] Love... http://tinyurl.com/28gw4do"	0	0	8:52 PM - 28 Jan 2011
+MB05	29129511144521728	0	werpurpletweets	"Novel  peptide 'kills' cancer cells more effective than  current therapies: Washington, Jan 23 (ANI): Scie... http://tinyurl.com/4h7ul4t"	0	0	2:53 AM - 23 Jan 2011
+MB05	32438938366906368	0	CassidyThompso7	"What computer security should I have? | How To Solve Problems: Question Jose : What is the s? SAFETY? comp... http://tinyurl.com/4a5fdyo"	0	0	6:03 AM - 1 Feb 2011
+MB05	30566466117967872	0	Gobindaw	"Computer Security: Security Devices, Computer Lock, Laptop ...: It's time to install computer security gadget fo... http://bit.ly/dKKwyg"	0	0	2:03 AM - 27 Jan 2011
+MB05	31553816759373824	0	smartmobile	"Android 2.3 Gingerbread security flaw reveals microSD contents to attackers: Xuxian Jiang, a computer security r... http://bit.ly/hWeTwg"	0	0	7:26 PM - 29 Jan 2011
+MB05	29299506793156608	0	compsec	"Computer Security Basics PDF Ebook: Author(s): Rick Lehtinen; G.T. Gangemi Sr. This is the must-have book for a ... http://bit.ly/gW77KD"	0	0	2:08 PM - 23 Jan 2011
+MB05	29299504381427712	0	compsec	"Stuxnet: A violation of US computer security law | WHAT REALLY ...: If a January 15 report in The New York Times... http://bit.ly/eEhHHW"	0	0	2:08 PM - 23 Jan 2011
+MB05	29604343489495040	0	busservjobs	"#businessservices Computer Security/IT Consultant for Trust Seal Business Idea - oDesk: We're a new internet com... http://bit.ly/fT70om"	0	0	10:20 AM - 24 Jan 2011
+MB05	33549421270540288	0	Claireakabob	"Fucking hell Claire. - I left my memory card in the computer this morning, where I spend 2 hours editing... http://tumblr.com/xpt1fcyo5w"	0	0	7:36 AM - 4 Feb 2011
+MB05	33370586038149120	0	reddit_web_dev	"Need help streaming from a webcam / security camera.: I'm trying to embed a live feed from a client's ca... http://bit.ly/ibv5Lt #webdev"	0	0	7:45 PM - 3 Feb 2011
+MB05	33296584959590400	0	isuzuimage	"VideoSecu Day Night Vision Outdoor Infrared CCTV Home Security Camera 1/3â€³ CCD 24 IR Leds 3.6mm Wide View Angle ... http://bit.ly/ig3tq2"	0	0	2:51 PM - 3 Feb 2011
+MB05	29041542240931840	0	LinkDyrUK	"Wireless home security systems: Compare prices on Wireless home security systems Home Security  Find store ratin... http://bit.ly/hX9dq0"	0	0	9:03 PM - 22 Jan 2011
+MB05	29965756867289088	0	Home__Security	"DIY HOME SECURITY SYSTEM : WINDOW LOCKS FOR HOME SECURITY: Learn how to implement and use window thatch as part ... http://bit.ly/ffhUm7"	0	0	10:16 AM - 25 Jan 2011
+MB05	30863392847699968	0	Home__Security	"HOME SECURITY?ARE YOU VULNERABLE?: Burglary and home advance are on the rise. There are more than 8,000 home int... http://bit.ly/hUJDjk"	0	0	9:43 PM - 27 Jan 2011
+MB05	31740703860072448	0	traveltrolley	"TSA: More security around insulated beverage containers: The TSA said passengers may see &quot;additional security me... http://bit.ly/gqLqVL"	0	0	7:49 AM - 30 Jan 2011
+MB05	31490651493236737	0	pdacosta	"Photo of President Obama meeting with his national security team on #Egypt: http://bit.ly/gcNdrz RT @petesouza @blakehounshell #jan25"	0	1	3:15 PM - 29 Jan 2011
+MB05	32503714556149760	1	SecMash	"NIST appoints NSTIC senior advisor - SecureIDNews (press release) http://bit.ly/gcKmY2"	0	0	10:21 AM - 1 Feb 2011
+MB05	31805828268822528	0	HackAndCheat	"#Hack F-Secure Internet Security 2010: F-Secure Internet Security 2010 F-Secure Internetâ€¦ http://goo.gl/fb/yMynC"	0	0	12:07 PM - 30 Jan 2011
+MB05	31290992334217216	0	freecouponmoney	"Trend-Micro : Trend Micro Internet Security 2009 Safeguards your computers, your home networks and your personal... http://dlvr.it/9tFTh"	0	0	2:02 AM - 29 Jan 2011
+MB05	30078530461114369	0	breakingclenews	"State of the Union Address: Â  Mr. Speaker, Mr. Vice President, Members of Congress, distinguished guests, and fellow... http://dlvr.it/F5F9L"	0	0	5:44 PM - 25 Jan 2011
+MB05	31906628714364929	0	ML_Jobs	"New #Job Director of #IT #Technology Integration and Solutions â€“ SU#NY Institute of #IT #Technology â€“... http://dlvr.it/FC429 #Jobs"	0	0	6:48 PM - 30 Jan 2011
+MB05	30516969673334785	0	NewYork_ML_Jobs	"New #NY #Job Director of Technology Integration and Solutions â€“ SUNY Institute of Technology... http://bit.ly/fTdJFX #newyork #jobs #nyc"	0	0	10:46 PM - 26 Jan 2011
+MB05	33396661367603200	0	topgovtgrant	"National Institute of Standards and Technology Construction Grant Program: National Institute of Standar... http://bit.ly/fcPQxP #Grants"	0	0	9:29 PM - 3 Feb 2011
+MB05	33579480488353793	0	Yadeley	"I'm at Grupo Security  - Huerfanos w/ @klanxellsworth http://4sq.com/fg2PFq"	0	0	9:35 AM - 4 Feb 2011
+MB05	33170486699495425	0	LockDoctorNY	"Securing New York! (@ Lockdoctor Security Solutions) [pic]: http://4sq.com/gSD2HW"	0	0	6:30 AM - 3 Feb 2011
+MB05	29935154382249984	0	ToshioMatsudaE	"Biggest Security &amp; Privacy Topics of 2011: &quot;We're Still Learning How to Do Data Security Right&quot;When it comes to ... http://bit.ly/fXXfW1"	0	0	8:14 AM - 25 Jan 2011
+MB05	32898983349194752	0	computermonito	"TSA Testing New Body Scanning System: Once a traveler passes through the scanner, they can see a computer monito... http://bit.ly/gfDvHC"	0	0	12:31 PM - 2 Feb 2011
+MB05	33479635396206592	0	computermonito	"Universal Computer Monitor Filter 26400 - eBay (item 330525770269 ...: eBay: Find Universal Computer Monitor Fil... http://bit.ly/fZxblp"	0	0	2:59 AM - 4 Feb 2011
+MB05	32596374428057601	0	nishaleoss	"Support Devices - Managed Security - Trustwave | Trustwave: Authentication, Authorization, Account, Computer Ass... http://bit.ly/fZ90nx"	0	0	4:29 PM - 1 Feb 2011
+MB05	32076460122447872	0	emmapeel1960	"Different Types of Gsm Gps Security Systems: People all over world are getting security conscious. GSM and GPS s... http://bit.ly/fDdWSi"	0	0	6:03 AM - 31 Jan 2011
+MB05	33499221260763136	0	makemoney73	"Todayâ€™s Largest Cyber Security Concern is Identity Theft: Today's biggest cyber security concern is Identity The... http://bit.ly/eK5pR2"	0	0	4:16 AM - 4 Feb 2011
+MB05	32115732292575232	0	isjsymposium	"White House earned low marks in report card on its cybersecurity policies, earning grades from B to Ds: http://bit.ly/hHAKnO #cybersecurity"	0	0	8:39 AM - 31 Jan 2011
+MB05	31041528931549184	0	worldnewstweet_	"@lukewilliamss US Homeland Security chief meets with UK home secretary on terror, cyber security:... http://bit.ly/fuU73L #lukewilliamss"	0	0	9:30 AM - 28 Jan 2011
+MB05	32174081574965248	0	topgovtgrant	"Centers for Homeland Security: Department of Homeland Security - Establishment of a coordinated, univers... http://bit.ly/egQFc6 #Grants"	0	0	12:31 PM - 31 Jan 2011
+MB05	33558587208892416	0	eliaspelterson	"Senator Wyden Asks DHS To Explain Domain Seizures: An anonymous reader writes &quot;With Homeland Security continuing... http://bit.ly/fROZ1s"	0	0	8:12 AM - 4 Feb 2011
+MB05	32434141525970945	0	kocosports	"Jesse Ventura suing the TSA and Homeland Security:  http://bit.ly/eMC4eT  #"	0	0	5:44 AM - 1 Feb 2011
+MB05	29937267703291906	0	peytonsmackenzi	"On Stage XCG4 Tubular Guitar Stand with Velveteen Padding and Security Strap:  http://bit.ly/gykohg"	0	0	8:22 AM - 25 Jan 2011
+MB05	29552274221043712	0	jaasiya	"The realities of SaaS and security http://bit.ly/gKOtPq"	0	0	6:53 AM - 24 Jan 2011
+MB05	33188770152976385	1	ISecAdviser	"New NIST Guidance Tackles Public Cloud Security http://bit.ly/ezdDcu"	0	0	7:43 AM - 3 Feb 2011
+MB05	33288536677421057	1	PrivacySecurity	"New NIST Guidance Tackles Public Cloud Security http://ow.ly/3PUFB"	1	1	2:19 PM - 3 Feb 2011
+MB05	33158966397763585	1	RIGB2266	"New NIST Guidance Tackles Public Cloud Security - BankInfoSecurity.com http://goo.gl/fb/o8aaF"	0	0	5:44 AM - 3 Feb 2011
+MB05	32977594907492352	1	grecs	"New NIST Guidance Tackles Public Cloud Security: 2 Other Special Pubs on Cloud Defs, Virtualization. http://bit.ly/f8Vgqi"	0	2	5:44 PM - 2 Feb 2011
+MB05	29735864317771776	0	ninousarwono	"Cloud anti-pattern: Honda Data Breach Highlights Need to Set Strong Cloud Security Policies http://bit.ly/f7GLI9 #in"	0	0	7:02 PM - 24 Jan 2011
+MB05	30759204436316161	0	Ciscloud	"#Cisco #Cloud Global GovCloud and the Virtual Environment: Categories: Cloud Security. Tags: Cisco Cloud Se... http://bit.ly/hSXaab #TCN"	0	0	2:49 PM - 27 Jan 2011
+MB05	29380098759069696	0	RapidSSLOnline	"How do you retrieve a Network Security key for a Hewlett Packard ...: My boss' wife accidentally deleted her Ne... http://bit.ly/h7LM90"	0	0	7:28 PM - 23 Jan 2011
+MB05	29173537428213761	0	Daniquepie	"Hackers Black Chain Set Off The Money For One Year 7.6 Billion ...: HC Network Security With the increasing deve... http://bit.ly/eYJoov"	0	0	5:48 AM - 23 Jan 2011
+MB05	30626500176781312	0	Pongggg	"New Startup Tackles Cloud Application Management for the Enterprise: &#10;&#10;Okta is launching its enter... http://bit.ly/eoHraD #socialmedia"	0	0	6:01 AM - 27 Jan 2011
+MB05	30626391028404224	0	tonsofgold	"New Startup Tackles Cloud Application Management for the Enterprise: &#10;&#10;Okta is launching its enterprise platfor... http://bit.ly/eoHraD"	0	0	6:01 AM - 27 Jan 2011
+MB05	30626340122132480	0	threebirdmedia	"New Startup Tackles Cloud Application Management for the Enterprise: &#10;&#10;Okta is launching its enterprise platfor... http://bit.ly/fuVpS5"	0	0	6:01 AM - 27 Jan 2011
+MB05	30626435748069376	0	yourcyberspace	"New Startup Tackles Cloud Application Management for the Enterprise: &#10;&#10;Okta is launching its enterprise platfor... http://bit.ly/fQU8ia"	0	0	6:01 AM - 27 Jan 2011
+MB05	30626461433995265	0	karanchauhan25	"New Startup Tackles Cloud Application Management for the Enterprise: &#10;&#10;Okta is launching its enterprise platfor... http://bit.ly/fQU8ia"	0	0	6:01 AM - 27 Jan 2011
+MB05	30634046023270400	0	CSNetworks	"New Startup Tackles Cloud Application Management for the Enterprise: &#10;&#10;Okta is launching its enterprise platfor... http://x4r.us/fEfJWB"	0	0	6:31 AM - 27 Jan 2011
+MB05	30631487225204736	0	ilovewaydn	"New Startup Tackles Cloud Application Management for the Enterprise http://khac.es/43915"	0	0	6:21 AM - 27 Jan 2011
+MB05	30624141178572800	0	EmmanuelGonot	"Mashable: New Startup Tackles Cloud Application Management for the Enterprise http://bit.ly/ihQcEI #socialmedia"	0	0	5:52 AM - 27 Jan 2011
+MB05	30640052212072448	0	wonderfultweet	"New Startup Tackles Cloud Application Management for the Enterprise http://bit.ly/e6bHzi"	0	0	6:55 AM - 27 Jan 2011
+MB05	30641335182565377	0	mytweetplace	"New Startup Tackles Cloud Application Management for the Enterprise http://bit.ly/hCctKT"	0	0	7:00 AM - 27 Jan 2011
+MB05	30633406459027457	0	MrMonge	"What's new: New Startup Tackles Cloud Application Management for the Enterprise http://ow.ly/1b3nC0"	0	0	6:29 AM - 27 Jan 2011
+MB05	33507347674439680	0	ITILorg	"Cloud ComputingConfiguration Management undDatacenter ...: ''Cloud Computing, ''Configuration Management'' und '... http://bit.ly/f1veyI"	0	0	4:49 AM - 4 Feb 2011
+MB05	33347343302529024	0	CloudTopics	"Australia's Gigabit Net Strategy Prompts HP Cloud Computing Datacenter: HP announced a $120... http://bit.ly/hLaP8n CloudComputingTopics"	0	0	6:13 PM - 3 Feb 2011
+MB05	33316986624675841	0	EmployTechnical	"German Cloud Computing It Support At Number 1 Technical Company : UK: German Cloud Computing IT Support at numbe... http://bit.ly/gTDXJO"	0	0	4:12 PM - 3 Feb 2011
+MB05	33270686592008192	0	nextBI	"Instant-On Enterprises &amp; Cloud Computing - Soa Wolrd: Cloud Computing Journal: We hear much talk abou... http://bit.ly/hytnN0 #TheBIBlog"	0	0	1:08 PM - 3 Feb 2011
+MB05	29262723111985152	0	CloudComputingT	"Cloud Computing And Their Application? - can any one tel about... http://cloudcomputingtime.com/cloud-computing-and-their-application/"	0	0	11:42 AM - 23 Jan 2011
+MB05	33530438114877440	0	MattSMansfield	"Small Business Guide to Cloud Computing - a great overview, and many tips, about cloud computing from Small... http://fb.me/Hd9UYijm"	0	0	6:20 AM - 4 Feb 2011
+MB05	33552966917029888	0	MaximumBit	"Businesses Looking to Cloud Computing to Enhance Productivity: Report http://bit.ly/eHK38o"	0	0	7:50 AM - 4 Feb 2011
+MB05	32060966657073152	0	i360Gov	"i360GovIT: Groups, firms weigh in on privacy report http://bit.ly/f0tT6d"	0	0	5:01 AM - 31 Jan 2011
+MB05	32954489891852288	0	AliceSofy	"#technology_news Google announces Web-based Android Market http://bit.ly/f40p9y"	0	0	4:12 PM - 2 Feb 2011
+MB05	33581173082947585	0	YouMobile	"Latest Sony Ericsson XPERIA phones come with ANT+ sensor technology http://bit.ly/f53yyZ"	0	0	9:42 AM - 4 Feb 2011
+MB05	30045385674203136	0	SEOPPCNews	"Sony Ericsson Announces Single Sign On Support For Facebook http://bit.ly/h6TztN #facebook #news"	0	0	3:32 PM - 25 Jan 2011
+MB05	31355902162378752	0	depcrepairs	"Learn How to Repair Oversized PST Files #computer repair #data recovery #Microsoft Office #outlook http://bit.ly/fzdIgK"	0	0	6:20 AM - 29 Jan 2011
+MB05	33096241340489729	0	booklover4	"Best Computer Rentals: Computer Rentals Computer Rental, Computer Rentals â€“ CRE Looking for a specific computer ... http://bit.ly/gu5oEA"	0	0	1:35 AM - 3 Feb 2011
+MB05	31771392403832832	0	computerdispose	"computer recycling uk | computer waste disposal | Computer Recycling | computer recycling cardif | http://www.sitr.com #fb"	0	0	9:51 AM - 30 Jan 2011
+MB05	31246725096153088	0	computerdispose	"computer disposal birmingham | computer disposal lancashire | computer disposal manchester | http://www.sitr.com #fb"	0	0	11:06 PM - 28 Jan 2011
+MB05	31488956210089984	0	Penguin75297cp	"So tired of being on the computer..I'll go downstairs on my iPhone.See you soon! :D http://clubpenguin4you.com http://clicktotweet.com/coq_1"	0	0	3:08 PM - 29 Jan 2011
+MB05	30392341550342144	0	kimahri123	"you on the computer"	0	0	2:31 PM - 26 Jan 2011
+MB05	29014798565904385	0	TnBuck	"@JT1045 been on the computer most of the night."	0	0	7:17 PM - 22 Jan 2011
+MB05	32678871786594305	0	filedownload	"The Computer Attacks You've Never Heard Of [Security]: &#10;&#10;&#9;&#9;&#9;&#9;We've all heard of... http://bit.ly/ec94T1"	0	0	9:57 PM - 1 Feb 2011
+MB05	32611899191328768	0	toluwax	"The Computer Attacks You've Never Heard Of [Security] http://lifehac.kr/g8VWyC"	0	0	5:30 PM - 1 Feb 2011
+MB05	32656922360418305	0	mohondangsawa	"The Computer Attacks You've Never Heard Of [Security] http://lifehac.kr/g8VWyC"	0	0	8:29 PM - 1 Feb 2011
+MB05	32686512646651904	0	tech_xy	"[Gizmodo] The Computer Attacks You've Never Heard Of [Security] http://ow.ly/1b8GdL"	0	0	10:27 PM - 1 Feb 2011
+MB05	32670074020044800	0	FishiFavorites	"The Computer Attacks You've Never Heard Of [Security] http://jfish.me/hBqgx0"	0	0	9:22 PM - 1 Feb 2011
+MB05	32580633721053184	0	techkaoriz2	"The Computer Attacks You've Never Heard Of - Lifehacker http://bit.ly/gH76jl"	0	0	3:26 PM - 1 Feb 2011
+MB05	32850678854455297	0	jmhammond	"Whatever happened to good ole viruses? The Computer Attacks You've Never Heard Of http://lifehacker.com/5749098/&nbsp; via @lifehacker"	0	0	9:19 AM - 2 Feb 2011
+MB05	32872991654150144	0	jourzua	"Smishing? BlueBugging? PodSlurping? -&gt; The Computer Attacks You've Never Heard Of http://lifehacker.com/5749098/&nbsp;"	0	0	10:48 AM - 2 Feb 2011
+MB05	32874666087415808	0	TandemMSPCA	"Pod Slurping and BlueBugging are security attacks that most people have never heard of. So what are they? http://lifehac.kr/fXpeWl #fb"	0	0	10:55 AM - 2 Feb 2011
+MB05	32874664267087872	0	expertshouston	"Pod Slurping is probably something youâ€™ve never heard of but it can put your computer security at risk: http://lifehac.kr/fXpeWl #fb"	0	0	10:55 AM - 2 Feb 2011
+MB05	32874659636584449	0	blackinkit	"Pod Slurping is probably something youâ€™ve never heard of but it can put your computer security at risk: http://lifehac.kr/fXpeWl #fb"	0	0	10:55 AM - 2 Feb 2011
+MB05	32874671481290753	0	networksource1	"Check out Lifehackerâ€™s guide to various computer security attacks to learn how to keep your information safe: http://lifehac.kr/fXpeWl #fb"	0	0	10:55 AM - 2 Feb 2011
+MB05	32874651365412864	0	datcomllc	"Check out Lifehackerâ€™s guide to various computer security attacks to learn how to keep your information safe: http://lifehac.kr/fXpeWl #fb"	0	0	10:55 AM - 2 Feb 2011
+MB05	32877176772628482	0	FriendlyFL	"Youâ€™ve certainly heard of phishing, but do you know what smishing is? The attacks you donâ€™t know about: http://lifehac.kr/fXpeWl #fb"	0	0	11:05 AM - 2 Feb 2011
+MB05	32110291340759040	0	Nerd_Nieuws	"[Slashdot] DHS Offers $40M For Top Cybersecurity Research http://dlvr.it/FV3T7"	0	0	8:17 AM - 31 Jan 2011
+MB05	32090116331675648	0	1nf0s3cpt	"[SECURITY] [DSA 2153-1] linux-2.6 security update http://dlvr.it/FTmzK"	0	0	6:57 AM - 31 Jan 2011
+MB05	33580173827776512	0	SCMagazine	"An independent approach to PCI audit security and compliance http://dlvr.it/Fpnkj"	1	3	9:38 AM - 4 Feb 2011
+MB05	30915838399746048	0	UKCIO	"Tougher compliance rules will force data security improvements http://dlvr.it/FGGLZ (Computer Weekly)"	0	0	1:11 AM - 28 Jan 2011
+MB05	32294872501190658	0	infotectravel1	"#ITTN : TSA Halts Private Security Applications At Our Nation's Airports - AvStop Aviation News http://bit.ly/fybNGz"	0	0	8:31 PM - 31 Jan 2011
+MB05	29479185361670144	0	dbuforg	"Open Source Security Tools: Practical Guide to Security Applications: Open Source Securityâ€¦ http://goo.gl/fb/V8gE9"	0	0	2:02 AM - 24 Jan 2011
+MB05	30270904755822594	0	gypsypro	"bluetooth talktime http://goo.gl/fb/V1p49 #bastrop #computer"	0	0	6:28 AM - 26 Jan 2011
+MB05	32075118846935041	0	gypsypro	"longjax mht with arginine reviews http://goo.gl/fb/e6Lgz #bastrop #computer"	0	0	5:57 AM - 31 Jan 2011
+MB05	30024303202271233	0	nilpata	"Lastest Computer Security Software News http://goo.gl/fb/S8tg4"	0	0	2:08 PM - 25 Jan 2011
+MB05	32256990231138304	0	helitonjrcso	"James P. Anderson: Um pioneiro da SeguranÃ§a da InformaÃ§Ã£o http://goo.gl/fb/f3uf0 #biografia #halldafama"	0	0	6:00 PM - 31 Jan 2011
+MB05	29487040420651009	0	sabzerose	"#stupidnews RIM partitions BlackBerry while Apple hires security czar - Computing http://goo.gl/fb/2BYpJ"	0	0	2:33 AM - 24 Jan 2011
+MB05	33553949231558656	0	verisoncellphon	"#iHome IH70 Computer Stereo Speaker System with Dock for iPod (Silver) Review http://goo.gl/fb/kCFF7 #ipoddocksystem"	0	0	7:54 AM - 4 Feb 2011
+MB05	31726690845589504	0	WAHKristina	"Information on work from home jobs and work from home business ...: Information on work from home jobs and work ... http://bit.ly/gt0d1c"	0	0	6:53 AM - 30 Jan 2011
+MB05	32329368692858880	0	realestateflor	"Work From Home Computer Jobs Online Internet Work At Home Jobs Get Paid By PayPal 2010: AcmeFreePeopleSearch.com... http://bit.ly/eiqEIS"	0	0	10:48 PM - 31 Jan 2011
+MB05	31228619816706048	0	mudaffar	"Ipad home computer viewer?: Question by help me please: Ipad home computer viewer? Is there an app for the ipad ... http://bit.ly/i206mL"	0	0	9:54 PM - 28 Jan 2011
+MB05	31645401312399360	0	addiegibson	"Answers.com - How does computer viruses get into your computer: Computer Viruses question: How does computer vir... http://bit.ly/hkasdw"	0	0	1:30 AM - 30 Jan 2011
+MB05	33571484832112640	0	pcdatasecurity	"Keep Your Computer Virus Free! Â» Blog Archive Â» Norton Antivirus ...: Commercial and protect computer virus prog... http://bit.ly/dNfKRP"	0	0	9:04 AM - 4 Feb 2011
+MB05	33542867586650113	0	IranVideoNews	"Breaking Iran News Reuters - Iran should investigate claims that the Stuxnet computer virus ... http://bit.ly/dI2a8Z #iran #iranelection"	0	0	7:10 AM - 4 Feb 2011
+MB05	33562529603002369	0	katelogan2010	"HP Slate 500 Tablet Computer - Get great deals on items on eBay.com!: Find HP Slate 500 Tablet Computer and a hu... http://bit.ly/fPuvqx"	0	0	8:28 AM - 4 Feb 2011
+MB05	33493499877793792	0	uk_ipads	"SEALED NEW APPLE iPAD Wi-Fi 16GB TABLET COMPUTER 16 GB: Â£369.00 (0 Bid) End Date: Saturday Feb-05-2011 11:... http://bit.ly/eCJ5oj #ipad"	0	0	3:54 AM - 4 Feb 2011
+MB05	30460933939662849	0	isabellajones88	"HDMI TO DVI CABLE 10FT 10-FT TV PC MONITOR LCD COMPUTER: US $6.41 (0 Bid) End Date: Wednesday Jan-26-2011 19:15:... http://bit.ly/exV7aH"	0	0	7:03 PM - 26 Jan 2011
+MB05	33476403525591040	0	DataCenterArch	"#DataCenter #Cloud Cisco ASA 5580 Adaptive Security Appliance Video Data Sheet | OpenSec: Enjoy new levels of fi... http://bit.ly/eHwT6a"	0	0	2:46 AM - 4 Feb 2011
+MB05	33201348015038464	0	nextBI	"Oakland County announces cloud computing, Wi-Fi initiatives - Metromode Media: Oakland County is maki... http://bit.ly/epBjsL #TheBIBlog"	0	0	8:33 AM - 3 Feb 2011
+MB05	33312667644989440	0	TheCloudNetwork	"#Cloud #News IBM Launches $42 Million Cloud Computing Center in Canada: The platform represents an evolutio... http://bit.ly/eFSduk #TCN"	0	1	3:55 PM - 3 Feb 2011
+MB05	32439727495839744	0	CloudCanada	"#Cloud #Canada Data Center Links: PEER 1, Telx, IBM, Unisys: IBM Launches $42 Million Cloud Computing Cente... http://bit.ly/fdsnuC #TCN"	0	0	6:06 AM - 1 Feb 2011
+MB05	33436231173935104	0	Ubuntutipz	"Linux cloud computing on Ubuntu delivered on Dell: Finally, Ubuntu Enterprise Cloud (UEC) is set to penetrate de... http://bit.ly/gxBhEg"	0	0	12:06 AM - 4 Feb 2011
+MB05	30524806763909120	0	CloudResearch	"#Cloud #Research IBM Sees Cloud Adoption Soar With New Clients, Partnerships: Adoption of cloud computing is on ... http://bit.ly/i0CmLA"	0	0	11:17 PM - 26 Jan 2011
+MB05	31684995005284352	0	AzureCloudPro	"A Brief History Of Cloud Computing: Once upon a time, it seems people were dreaming about computer as a utility.... http://bit.ly/e6wK4j"	0	0	4:07 AM - 30 Jan 2011
+MB05	32762649330585600	0	TheTechGang	"#Cloud #Services Advice for dealing with the top 10 risks in public cloud computing: Rather than being cons... http://bit.ly/hXA39t #TCN"	0	0	3:29 AM - 2 Feb 2011
+MB05	32148027854561280	0	ovrcloud	"Cloud: Guidelines on Security and Privacy in Public Cloud Computing - IT Business Edge (blog) http://bit.ly/dGep9C #cloud"	0	0	10:47 AM - 31 Jan 2011
+MB05	33444528253837312	0	TheCloudNetwork	"#Cloud #News Cloud, mobility transform software space: The maturing cloud computing model and rise of enter... http://bit.ly/hWtNN1 #TCN"	0	0	12:39 AM - 4 Feb 2011
+MB05	30008352465489920	0	TheCloudNetwork	"#Cloud #News Ireland could create 8,600 jobs with cloud computing adoption: &#10;&#10;Thousands of IT jobs could... http://bit.ly/fn9JGb"	0	1	1:05 PM - 25 Jan 2011
+MB05	28999148787208192	0	TechnoMile	"How cloud computing Adjusts Deciding on An Individual transportable Personal computer http://f.ast.ly/Q9b8qhttp:... http://bit.ly/gWdytq"	0	0	6:15 PM - 22 Jan 2011
+MB05	32234459352797184	0	HPSoftware	"Need #cloudcomputing with #security , #performance and #availability? Find out how and why. http://bit.ly/gSug4c"	0	2	4:31 PM - 31 Jan 2011
+MB05	32133343826939905	0	cloudHQ_net	"#cloud New Cloud Computing Forums http://bit.ly/grCozw"	0	0	9:49 AM - 31 Jan 2011
+MB05	30791195126927360	0	internetcrimes	"internetcrimes.net Cyber security a safe bet for growth http://bit.ly/gEBj9a computer forensics"	0	0	4:56 PM - 27 Jan 2011
+MB05	32358778158452736	0	EDL_Host	"Cloud Governance and Cyber Security Specialist EnCrisp LLC Receives Top Past Performance Evaluation: Governance ... http://bit.ly/eUEYsT"	0	0	12:45 AM - 1 Feb 2011
+MB05	29136563996721152	0	ramonspearman	"PC Tools Performance Toolkit 2011, 3 Computers, 1 Year ... http://bit.ly/hYvKrm"	0	0	3:21 AM - 23 Jan 2011
+MB05	29262511651954688	0	refundtech	"Computer tips â€“ Remove annoying Twitter applications from your ... http://bit.ly/hiOIdG"	0	0	11:41 AM - 23 Jan 2011
+MB05	33576465878487040	0	jenniferlong247	"Virtual Technologies Find Real Applications in Healthcare: Follow us on Twitter (http://www.twitter.com/Kalorama... http://bit.ly/i2qreu"	0	0	9:23 AM - 4 Feb 2011
+MB05	33412610787377152	0	MyInkscouk	"Ink Cartridges Secure Your PC With Panda Cloud Antivirus: There have been immeasurable times when y... http://bit.ly/hWuasu MyInks.co.uk"	0	0	10:32 PM - 3 Feb 2011
+MB05	33258373088542720	0	EveronIT_	"Social Security Searches - Promote This New Public Records Niche!... http://bit.ly/hjPaIb"	0	0	12:19 PM - 3 Feb 2011
 MB05	33271220606599168	0	towerswatson	"Europe: social security systems held hostage to financial and demographic issues. #retirement http://bit.ly/enCZQ4"	0	0	1:10 PM - 3 Feb 2011
 MB05	32448529607696384	0	ModelProgress	"Social Security Cuts Are 'Off the Table,' Says Reid http://bit.ly/ede1TX #Politics #News"	0	0	6:41 AM - 1 Feb 2011
 MB05	32673837569024001	0	firetux	"#security [Audio] Physical Security : You're Doing It Wrong!: Authors: Aaron Newman Tags: physical security Even... http://bit.ly/f7Zj9F"	0	0	9:37 PM - 1 Feb 2011

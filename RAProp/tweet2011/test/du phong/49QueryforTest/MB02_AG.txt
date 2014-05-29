@@ -503,7 +503,6 @@ MB02	32292012627591168	0	ce1inachristina	"Woah...I'm so sore from my soccer game
 MB02	34761489814523904	0	davediller	"Listened to Caleb practice the violin, watched Lilly at gymnastics, and saw Luke's last indoor soccer game...a good day to be a dad."	0	0	3:52 PM - 7 Feb 2011
 MB02	31563496596443136	0	sachsedad	"Awesome. We have the way over yelling parents at an indoor soccer game. Rec league."	0	0	8:04 PM - 29 Jan 2011
 MB02	31486416521273344	0	eimertjes	"met @HansoCooke Fifa Speulen!!"	0	0	2:58 PM - 29 Jan 2011
-MB02	31485241000464385	0	Ayeitsfrank	"We will unveil plans for a new world record-breaking attraction August 8 at 10pm.  You don't want to miss it!"	0	0	null
 MB02	31473673860812800	0	davidambriola10	"Fifa playe! On the ps3"	0	0	2:08 PM - 29 Jan 2011
 MB02	31471322185867264	0	yochann	"Japan won the championship at soccer Asian Games in 2011. I am exciting."	0	0	1:58 PM - 29 Jan 2011
 MB02	31466877611937792	0	cjarvis13	"Good job girls and guys soccer"	0	0	1:41 PM - 29 Jan 2011
@@ -517,7 +516,6 @@ MB02	28979943203405824	0	mikias3	"Ben vandag egt erg met fifa #nietnormaal"	0	0	
 MB02	29563039611092992	0	OfficialMaxsta	"lets forget all that anyway i got fifa to play add me on xbox MAXSTAE6"	1	0	7:35 AM - 24 Jan 2011
 MB02	29160091777245184	0	faizarsyadw	"(?) wakakaka RT @ADLINNOOR: One love one heart let's get together and be all right RT @faizarsyadw: @ADLINNOOR standard fifa"	0	0	4:54 AM - 23 Jan 2011
 MB02	29200684804997120	0	maikell078	"Fifa 11 time"	0	0	7:36 AM - 23 Jan 2011
-MB02	29497118460743680	0	alexautobot	"Tantas películas buenas por venir y uno aquí sin dinero :S"	0	0	null
 MB02	29307862408765440	0	JayMagic1	"Which one Nd which console?RT @brandnewjoe: i am not boasting buh i am reali gud at fifa................"	0	0	2:41 PM - 23 Jan 2011
 MB02	29061702632865792	0	elboche	"Fifa 11 for PSP "	0	0	10:23 PM - 22 Jan 2011
 MB02	29068314852458497	0	marchiamrntan	"Wkwkwk iklan FIFA 11"	0	0	10:50 PM - 22 Jan 2011
