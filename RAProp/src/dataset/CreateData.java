@@ -130,7 +130,7 @@ public class CreateData {
 		//System.out.println(result);
 		return result;
 	}
-	private static String FindQuery(String queryID) throws Exception {
+	public static String FindQuery(String queryID) throws Exception {
 		// TODO Auto-generated method stub4
 		BufferedReader reader = new BufferedReader(new FileReader("tweet2011/test/QueryTable.txt"));
 		String term;

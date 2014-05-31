@@ -3,17 +3,19 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+import dataset.CreateData;
 import dataset.ReadFile;
 
 
 public class AG_graph {
 
 	//public static String query = "nexus 5";
-	public static void main(String query,String queryID, String path) throws Exception {
+	public static void main(String queryID, String path) throws Exception {
 		// TODO Auto-generated method stub
 		//int N = 200; so luong twwet
 		//String queryID="MB01";
 		//String query= "BBC World Service staff cuts";
+		String query = CreateData.FindQuery(queryID);
 		int N = ReadFile.CountTweet(path);
 		double[][] Agreement_Graph = new double[N+1][N];
 		Tweet[] tweets = new Tweet[200];

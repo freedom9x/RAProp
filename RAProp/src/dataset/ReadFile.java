@@ -18,16 +18,17 @@ public class ReadFile {
 	public static void WriteResult(Tweet[] tweets, String filename, boolean rm_sw, String query)
 	{
 	try {
-		BufferedWriter writer = new BufferedWriter(new FileWriter(filename));
-		String newLine = System.getProperty("line.separator");
-		int i = 0;
+		//BufferedWriter writer = new BufferedWriter(new FileWriter(filename));
+		PrintWriter writer = new PrintWriter(new FileWriter(filename),true);
+	//	String newLine = System.getProperty("line.separator");
+	//	int i = 0;
 		for (Tweet t : tweets) {
 			String term = t.content;
 			if(rm_sw) 
 				term = ReadFile.RemoveAllSW(term, query);			
-			writer.write(t.queryID + " " + t.ID + " " + t.label + " "
-					+ t.user_name + " \"" + t.content + "\"\n");
-			i++;
+			writer.println(t.queryID + " " + t.ID + " " + t.label + " "
+					+ t.user_name + " \"" + t.content + "\"");
+		//	i++;
 		}
 		
 		writer.close();
@@ -99,7 +100,7 @@ public class ReadFile {
 //		}
 //		return tweets;
 //	}
-	//doc 200tweet tu file
+	//doc tweet tu file
 	public static Tweet[] GetNtweet(String path_file, int N) throws Exception
 	{
 	//	int N = CountTweet(path_file);		
