@@ -96,6 +96,7 @@ public class CreateData {
 		String query = FindQuery(tweet.queryID);
 		//feature tweet
 		double simi = TFIDF.TFIDFSimilarity(query, tweet.content, tweets, N);
+		System.out.print(simi+"\t");
 		int favor_c = tweet.favorite_count;
 		int retweet_c = tweet.retweet_count;
 		int hash_c = HashTagCount(tweet.content);
@@ -238,15 +239,19 @@ public class CreateData {
 		//PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/TrainData/train.txt", true));
 		for (File file : listOfFiles)
 		{
+			
 			String path = path_folder+file.getName();
 			System.out.println(file.getName());
 			int N = ReadFile.CountTweet(path);
 			Tweet[] tweets = ReadFile.GetNtweet(path, N);
-			String term ;			
+			String term ;	
+			int dem  = 0;
 			for (Tweet tweet : tweets) {
+				
 				PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/DataTest/"+file.getName(), true));
 				term = ComputeFeatures(tweet, tweets, N);
-				System.out.println(term);
+				System.out.println(dem+"---"+term);
+				dem++;
 				pw.println(term);
 				pw.close();
 			}

@@ -12,6 +12,8 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 
+import org.apache.commons.math.ode.DerivativeException;
+
 import com.temesoft.google.pr.PageRankService;
 
 public class CommonLib {
@@ -26,9 +28,35 @@ public class CommonLib {
 		//BBC World Service to 'cut up to 650 jobs' (Guardian) http://feedzil.la/gvJ6Gm
 		//GetALLUserName("tweet2011/Available/qrels.microblog2011.txt");
 		
-		String domain = "http://feedzil.la/gvJ6Gm";
-		int pr = PageRank(domain);
-		System.out.println(domain+" PG=" + pr);
+//		String domain = "pr backlink backlinks service - TurboCommunity: pr backlink backlinks service Announcements.... http://bit.ly/guPFjf http://bit.ly/7JCDu";
+//		int pr = PageRank(domain);
+//		System.out.println(domain+" PG=" + pr);
+//		String path_folder = "tweet2011/DataTest/"; 
+//		File folder = new File(path_folder);
+//		File[] listOfFiles = folder.listFiles();
+//		//PrintWriter pw = new PrintWriter(new FileWriter("tweet2011/TrainData/train.txt", true));
+//		for (File file : listOfFiles)
+//		{
+//			String term = "";
+//			int dem_s = 0;
+//			int dem_t = 0;
+//			BufferedReader reader_s = new BufferedReader(new FileReader("tweet2011/test/du phong/49QueryforTest/"+file.getName()));
+//			while((term=reader_s.readLine())!=null)
+//			{
+//				dem_s++;
+//			}
+//			BufferedReader reader_t = new BufferedReader(new FileReader(path_folder+file.getName()));
+//			while((term=reader_t.readLine())!=null)
+//			{
+//				dem_t++;
+//			}
+//			System.out.println(file.getName()+"s="+dem_s+"---t="+dem_t);
+//			reader_s.close();
+//			reader_t.close();
+//		}
+		String path_s= "tweet2011/test/du phong/49QueryforTest/MB15_AG.txt";
+		String path_t= "tweet2011/DataTest/MB15_AG.txt" ;
+		DuplicateDetec(path_s, path_t);
 	}
 	public static String NaiveURLExpander(String address){
         String result = address;
@@ -164,6 +192,32 @@ URL object representing the url address. */
 			pw.println(term);
 		}
 		reader.close();
+		
+	}
+	public static void DuplicateDetec(String path_s, String path_t) throws IOException
+	{
+		String term;
+		BufferedReader reader_s = new BufferedReader(new FileReader(path_s));
+		int id= 1;
+		while((term = reader_s.readLine())!=null)
+		{
+			int dem = 0;
+			
+			String ids = term.split("\t")[1];
+			BufferedReader reader_t = new BufferedReader(new FileReader(path_t));
+			String term_t;
+			while((term_t = reader_t.readLine())!=null)
+			{
+				String idt = term_t.split("#")[1];
+				if(ids.equals(idt))
+					dem++;
+			}
+			System.out.println(id+".  "+ids+"--"+dem);
+			if(dem==2) System.out.println("No o tren ne");
+			reader_t.close();
+			id++;
+		}
+		reader_s.close();
 		
 	}
 }
